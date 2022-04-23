@@ -11,9 +11,12 @@ static CONTENT_FARM: &str =
     "https://danny0838.github.io/content-farm-terminator/files/blocklist/content-farms.txt";
 
 fn main() -> Result<()> {
+    let update_url = option_env!("UPDATE_URL").unwrap_or("");
     let content = ureq::get(CONTENT_FARM).call()?.into_string()?;
     println!("! Title: zh Content Farms List");
-    println!("! Redirect: {}", env!("UPDATE_URL"));
+    if !update_url.is_empty() {
+        println!("! Redirect: {update_url}",);
+    }
     println!("! Version: {}", today()?);
     let header = indoc!(
         r#"
