@@ -1,8 +1,11 @@
+mod transform_sites;
+
 use anyhow::Result;
 use indoc::indoc;
 use std::time::SystemTime;
 use tap::prelude::*;
 use time::{macros::format_description as fd, OffsetDateTime};
+use transform_sites::transform_sites;
 
 static CONTENT_FARM: &str =
     "https://danny0838.github.io/content-farm-terminator/files/blocklist/content-farms.txt";
@@ -28,14 +31,4 @@ fn main() -> Result<()> {
 fn today() -> Result<String> {
     let now = SystemTime::now().conv::<OffsetDateTime>();
     Ok(now.format(fd!("[year][month][day]"))?)
-}
-
-fn transform_sites(content: &str) -> Vec<&str> {
-    let mut list = content
-        .lines()
-        .skip_while(|line| line.starts_with("/"))
-        .map(|line| line.split(' ').nth(0).unwrap().trim_end_matches('/'))
-        .collect::<Vec<_>>();
-    list.sort();
-    list
 }
