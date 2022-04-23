@@ -1,0 +1,12 @@
+[package]
+name = "convert-content-farm-list"
+version = "0.1.0"
+authors = ["DanSnow <dododavid006@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.57"
+indoc = "1.0.4"
+tap = "1.0.1"
+time = {version = "0.3.9", features = ["formatting", "macros"]}
+ureq = "2.4.0"
