@@ -3,6 +3,7 @@ name = "convert-content-farm-list"
 version = "0.1.1"
 authors = ["DanSnow <dododavid006@gmail.com>"]
 edition = "2021"
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.57"
