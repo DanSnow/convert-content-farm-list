@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220425
+! Version: 20220426
 ! Expires: 3 days
 
 ! Content farm
@@ -2775,6 +2775,7 @@
 ||carolibushnbl.pixnet.net
 ||carolywaynexy.pixnet.net
 ||carotv871.pixnet.net
+||carp.pub
 ||carriebe63570.pixnet.net
 ||cartergrayca.pixnet.net
 ||cartierwood.cn
@@ -2950,6 +2951,7 @@
 ||chiefstock.com
 ||childefish.com
 ||china-life.buzz
+||chinaaepl.com
 ||chinadaily.tw
 ||chinahot.org
 ||chinanewstruth.blogspot.*
@@ -3669,6 +3671,7 @@
 ||decouhome.com
 ||dedexiche.com
 ||deebaali.xyz
+||deer.wiki
 ||deerask.com
 ||defedu.me
 ||defelsko.net.cn
@@ -5419,6 +5422,7 @@
 ||gxdy168.com
 ||gxfunnyworld.com
 ||gxjygg.com
+||gxnmw.cn
 ||gxqm5.com
 ||gxqxd.com
 ||gxyunxing.com
@@ -13570,6 +13574,7 @@
 ||wufe55x.cn
 ||wuhenongye.com
 ||wui55cu20q.pixnet.net
+||wujinjixie.net
 ||wumugold.com
 ||wurenjiashiqiche.cn
 ||wusc0sack.pixnet.net
