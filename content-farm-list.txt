@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220501
+! Version: 20220502
 ! Expires: 3 days
 
 ! Content farm
@@ -1538,6 +1538,7 @@
 ||af009.com
 ||af036b7xzg.blog.fc2.com
 ||af088.co
+||affectionpet.com
 ||affinity-languages.buzz
 ||affordable-designs.buzz
 ||afton-pumps.buzz
@@ -1623,6 +1624,7 @@
 ||ak77449074.blog.fc2.com
 ||ak8yfq6.cn
 ||akersgata.buzz
+||akill.cc
 ||aktemedizin.com
 ||akzxwzp.cn
 ||al-muhaidib.buzz
@@ -7964,6 +7966,7 @@
 ||lik44wc87g.blog.fc2.com
 ||like3c.com
 ||likebl.com
+||likedeer.com
 ||likelife365.com
 ||lilliawilliev.pixnet.net
 ||lilligrce.co
