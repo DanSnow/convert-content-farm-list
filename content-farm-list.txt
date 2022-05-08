@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220507
+! Version: 20220508
 ! Expires: 3 days
 
 ! Content farm
@@ -1514,6 +1514,7 @@
 ||admin8844.cn
 ||admirelove.com
 ||adobeforum.buzz
+||adorable-pet.com
 ||adqoo.tw
 ||adrianlacamp.me
 ||adrnmkenn.co
@@ -2742,6 +2743,7 @@
 ||caida168.com
 ||caigeci.com
 ||caiguoxww.com
+||caikuainet.com
 ||cailaiipo.com
 ||cailunwang.com
 ||cainiao51.com
@@ -2952,6 +2954,7 @@
 ||chias.tw
 ||chiefstock.com
 ||childefish.com
+||childrenplayfun.com
 ||china-life.buzz
 ||chinaaepl.com
 ||chinadaily.tw
@@ -5634,6 +5637,7 @@
 ||haoduihao.com
 ||haohao16.com
 ||haohetech.com
+||haojdwx.com
 ||haojiaya.com
 ||haojvzi.com
 ||haolookr.com
@@ -7798,6 +7802,7 @@
 ||larrycastiv2.pixnet.net
 ||las5856kdq.pixnet.net
 ||laser-imprints.buzz
+||laserarea.com
 ||lastbattlerunfun.website
 ||laughbombclub.com
 ||laughingbombclub.com
@@ -8393,6 +8398,7 @@
 ||makalpls.co
 ||make9.com
 ||makingnctions.co
+||malagasolar.eu
 ||malaysiable.news
 ||malaysian.love
 ||malaysiatimes.org
@@ -9734,6 +9740,7 @@
 ||p2pdaohang.com
 ||p2pkj3cuao.pixnet.net
 ||p2z4a2mdl6.pixnet.net
+||p35y.com
 ||p3b3r9npb7.blog.fc2.com
 ||p3dxp.co
 ||p3fnb7vpz5.pixnet.net
@@ -10878,6 +10885,7 @@
 ||retiylife.co
 ||retrplusapp.co
 ||return-on-ideas.buzz
+||reviewiki.com
 ||rexuecn.com
 ||reynoldchardg.pixnet.net
 ||rf16137913.blog.fc2.com
@@ -11769,6 +11777,7 @@
 ||studiocavas.co
 ||studiotwlv.co
 ||studyfoation.co
+||stylewikitw.com
 ||suahnthp.co
 ||subaidajs.com
 ||subslculator.co
@@ -11907,6 +11916,7 @@
 ||sz22382283jiug.wordpress.com
 ||szcpyh.com
 ||szdazen.com
+||szdutre.com
 ||szec114.com
 ||szesv.com
 ||szfchj.cn
@@ -14861,6 +14871,7 @@
 ||zhishidianshouce.com
 ||zhixinlu.com
 ||zhizhejie.com
+||zhizhiguan.com
 ||zhj818.com
 ||zhjfood.com
 ||zhji599ooj.blog.fc2.com
