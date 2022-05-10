@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220509
+! Version: 20220510
 ! Expires: 3 days
 
 ! Content farm
@@ -3685,6 +3685,7 @@
 ||dehliwicast.co
 ||delhcat.co
 ||delhdcas.co
+||delicioushare.com
 ||delidc.co
 ||delinvip.com
 ||delxypx.cn
@@ -6283,6 +6284,7 @@
 ||i-funny.tw
 ||i-loves.online
 ||i-net-market.buzz
+||i-petlife.com
 ||i00oo29s.pixnet.net
 ||i01.in
 ||i0cqq0qouy.pixnet.net
@@ -6385,6 +6387,7 @@
 ||icnmall.com
 ||icofunny.com.hk
 ||iconabc.com
+||icopy.site
 ||icovideos.com
 ||icplf.cn
 ||id0m3f.cn
@@ -8465,6 +8468,7 @@
 ||marktomq1.pixnet.net
 ||marlaahlalth.co
 ||marlenejmel.pixnet.net
+||marotify.net
 ||marsharefreds.pixnet.net
 ||marthamaflore.pixnet.net
 ||martinfll.co
