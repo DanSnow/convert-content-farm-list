@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220521
+! Version: 20220522
 ! Expires: 3 days
 
 ! Content farm
@@ -3757,6 +3757,7 @@
 ||dhn13zv55b.blog.fc2.com
 ||dhrgm.com
 ||dhyjpkc.com
+||di02.biz
 ||di50775354.blog.fc2.com
 ||dianebarnnoe.pixnet.net
 ||dianecummia2.pixnet.net
@@ -5244,6 +5245,7 @@
 ||gogogm.com
 ||gogomun.club
 ||gogonews.cc
+||gogoreade.com
 ||gogoyahoo.buzz
 ||gohappyfoo.com
 ||gohappytify.com
@@ -6636,6 +6638,7 @@
 ||ixzzl8z.cn
 ||iy34.com
 ||iy86wo24.pixnet.net
+||iyelabs.eu
 ||iyibin.cn
 ||iyj3darthumar.pixnet.net
 ||iyohoo.cn
@@ -7549,6 +7552,7 @@
 ||koe8us82.blog.fc2.com
 ||kojin.me
 ||kokoinfo.com
+||kokoready.com
 ||kokyzone.com
 ||kolauthor.com
 ||kolotwtu.co
@@ -9947,6 +9951,7 @@
 ||personalcreatiions.buzz
 ||personbiler.buzz
 ||pet-angela.com
+||pet-encyclopedia.com
 ||pet-growth.com
 ||pet-hk.buzz
 ||pet2016.wordpress.com
@@ -11429,6 +11434,7 @@
 ||shenkehan.com
 ||shenlddq.co
 ||shenlisy.com
+||shenmedaquan.com
 ||shequlove.cn
 ||sherriadrs8.pixnet.net
 ||sherriixjej.pixnet.net
@@ -14928,6 +14934,7 @@
 ||zixundingzhi.com
 ||ziyouzhanshi.cn
 ||ziyuzhilian.cn
+||zizhuzhishi.com
 ||zj3kbg.cn
 ||zj4u.cn
 ||zjbspe.com
