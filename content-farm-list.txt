@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220530
+! Version: 20220531
 ! Expires: 3 days
 
 ! Content farm
@@ -168,6 +168,7 @@
 ||0w90qcd.cn
 ||0w9jvg6.cn
 ||0xjdhj.cn
+||0xzx.com
 ||0y4peu.cn
 ||10000.tw
 ||1000lily.com
@@ -1713,6 +1714,7 @@
 ||amww.cc
 ||an700.com
 ||analplug.cn
+||analysis-car.com
 ||ananread.com
 ||ancestryworldtree.buzz
 ||andersfobmhg.pixnet.net
@@ -7081,6 +7083,7 @@
 ||jonathatjbl.pixnet.net
 ||jonathnicolyc.pixnet.net
 ||jonesg864tsy.pixnet.net
+||jonlovefood.com
 ||jonygame.com
 ||joo51k1.pixnet.net
 ||josephbeckwol.pixnet.net
@@ -8737,6 +8740,7 @@
 ||mokegod.com
 ||mold-guide.buzz
 ||moleiseo.com
+||mom1love.com
 ||mombaby.tw
 ||momdata.blogspot.*
 ||momjr94.cn
@@ -8780,6 +8784,7 @@
 ||movepc.cn
 ||moveweite.co
 ||movieproducer.cn
+||moviereviewtoday.com
 ||moviescome.com
 ||moviesun.org
 ||mowangpapa.com
@@ -10186,6 +10191,7 @@
 ||pressyourmum.com
 ||pretagteam.com
 ||pretties.news
+||prettycutepet.com
 ||prettyhealth.life
 ||prew283.pixnet.net
 ||prfjt55937.blog.fc2.com
@@ -11836,6 +11842,7 @@
 ||suoluowan.com
 ||suomenut.co
 ||suonci.co
+||super-puppys.com
 ||super01.cc
 ||superbigapple.com
 ||superchanges.buzz
@@ -14887,6 +14894,7 @@
 ||zhijiaw.com
 ||zhiliangshouce.com
 ||zhipanyou.com
+||zhiqu.org
 ||zhishiblog.com
 ||zhishidianshouce.com
 ||zhixinlu.com
