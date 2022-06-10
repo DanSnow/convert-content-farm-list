@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220609
+! Version: 20220610
 ! Expires: 3 days
 
 ! Content farm
@@ -284,6 +284,7 @@
 ||17no1.com
 ||17qq.com
 ||17readthis.com
+||17sex.vip
 ||17travel.net
 ||17youhuiba.com
 ||18.141.160.82
@@ -435,6 +436,7 @@
 ||21shipping-ams.buzz
 ||21zhongyao.com
 ||2201343.cn
+||222.186.45.128
 ||2277449.cn
 ||228cp.cn
 ||229cq.com
@@ -7878,6 +7880,7 @@
 ||laojunshan2.cn
 ||laonmw.cn
 ||laoshu8.cn
+||laparrale.me
 ||lapetrick.pixnet.net
 ||lapiramideweb.buzz
 ||larid.hk
