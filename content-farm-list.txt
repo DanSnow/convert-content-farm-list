@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220612
+! Version: 20220613
 ! Expires: 3 days
 
 ! Content farm
@@ -2803,6 +2803,7 @@
 ||caremura.cc
 ||caretify.com
 ||carheadline.com
+||carlalucente.com
 ||carlholl14594.pixnet.net
 ||carloseduaryq.pixnet.net
 ||carlosmiltof4.pixnet.net
@@ -6518,6 +6519,7 @@
 ||iil8ihq.cn
 ||iishome.cn
 ||iitjeepage.buzz
+||iitrendwadai.com
 ||iixyf.cn
 ||ij76.com
 ||ijssz.com
@@ -8811,6 +8813,7 @@
 ||modernpntoring.co
 ||modify.news
 ||modoaydinlatma.buzz
+||moe.am
 ||mofun.ml
 ||mogujiela.com
 ||moilcae.co
