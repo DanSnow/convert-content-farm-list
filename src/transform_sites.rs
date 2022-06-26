@@ -4,7 +4,7 @@ pub fn transform_sites(content: &str) -> Vec<&str> {
         .skip_while(|line| line.starts_with("/"))
         .map(|line| line.split(' ').nth(0).unwrap().trim_end_matches('/'))
         .collect::<Vec<_>>();
-    list.sort();
+    list.sort_unstable();
     list
 }
 
