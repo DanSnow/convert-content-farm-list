@@ -1,8 +1,8 @@
 pub fn transform_sites(content: &str) -> Vec<&str> {
     let mut list = content
         .lines()
-        .skip_while(|line| line.starts_with("/"))
-        .map(|line| line.split(' ').nth(0).unwrap().trim_end_matches('/'))
+        .skip_while(|line| line.starts_with('/'))
+        .map(|line| line.split(' ').next().unwrap().trim_end_matches('/'))
         .collect::<Vec<_>>();
     list.sort();
     list
