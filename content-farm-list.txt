@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220705
+! Version: 20220706
 ! Expires: 3 days
 
 ! Content farm
@@ -3691,6 +3691,7 @@
 ||dbgt57sot.pixnet.net
 ||dbh0ks2.cn
 ||dbhcw.com
+||dbigr.com
 ||dbl52qz74u.blog.fc2.com
 ||dbp92lu89d.blog.fc2.com
 ||dbsjcl.com
@@ -4272,6 +4273,7 @@
 ||ekoclean-tavik.pl
 ||ektpzt.cn
 ||ekzact.buzz
+||ekzx.cc
 ||el50937912.pixnet.net
 ||elainejamesng.pixnet.net
 ||elainetoth.com
@@ -4686,6 +4688,7 @@
 ||fdccpw.com
 ||fdctop.cn
 ||fddnv57991.pixnet.net
+||fdf55.com
 ||fdjm99.com
 ||fdmwcl4.cn
 ||fdnybensopere.pixnet.net
@@ -12648,6 +12651,7 @@
 ||tpw4qed.cn
 ||tq3n8.pixnet.net
 ||tq45i7gpkm.pixnet.net
+||tqge.com
 ||tqlq6b6.cn
 ||tqoiac690.pixnet.net
 ||tqy2828hix.blog.fc2.com
@@ -15165,6 +15169,7 @@
 ||zkaf4d.cn
 ||zkjdz.cn
 ||zkjsq.cn
+||zksxdhg.com
 ||zkwnj.com
 ||zl73779939.pixnet.net
 ||zl81kpc5p.pixnet.net
