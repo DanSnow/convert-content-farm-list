@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220710
+! Version: 20220711
 ! Expires: 3 days
 
 ! Content farm
@@ -100,6 +100,7 @@
 ||0797t.com
 ||07f7yqf.cn
 ||07tc372.cn
+||081172.com
 ||0817fk.com
 ||0818hj.com
 ||0827df.com
@@ -459,6 +460,7 @@
 ||23cpc.com
 ||23e8.com
 ||23yhj.com
+||241614.com
 ||247hc0q.cn
 ||2481832.cn
 ||24cnews.com
@@ -733,6 +735,7 @@
 ||4000149668.com
 ||4000202123.com
 ||4000215018.com
+||4000246177.com
 ||4000534139.com
 ||4000571780.com
 ||4000840088.com
@@ -892,6 +895,7 @@
 ||51zdzq.com
 ||51zongji.com
 ||51zxcl.com
+||520renjie.com
 ||520shoping.com
 ||52114.org
 ||521252.com
@@ -1129,6 +1133,7 @@
 ||707o.com
 ||70thvictory.com.tw
 ||71usrc.cn
+||7200500.com
 ||720com.cn
 ||720exl.cn
 ||727823.com
@@ -1257,6 +1262,7 @@
 ||88kka.com
 ||88lovelypet.com
 ||88pig.cn
+||895733-com.com
 ||89d48xf.cn
 ||8ae438a.cn
 ||8awnd8p.cn
@@ -1729,6 +1735,7 @@
 ||ampblog.cn
 ||amphioninternational.buzz
 ||amplshsh.co
+||amwo2o.com
 ||amww.cc
 ||an700.com
 ||analplug.cn
@@ -2223,6 +2230,7 @@
 ||bbxyzs.com
 ||bc30083697.pixnet.net
 ||bccelue.com
+||bcgdst.com
 ||bclvlbf.cn
 ||bctv082.cn
 ||bcu5045izk.pixnet.net
@@ -3011,6 +3019,7 @@
 ||chinadaily.tw
 ||chinahot.org
 ||chinanewstruth.blogspot.*
+||chinaspamh.com
 ||chinatolink.cn
 ||chinatt.news
 ||chinawebonline.buzz
@@ -4049,6 +4058,7 @@
 ||dushiqy.com
 ||dustinwandcon.pixnet.net
 ||dutyio130.pixnet.net
+||duyidu.com
 ||dv08565825.blog.fc2.com
 ||dv4398cn45.blog.fc2.com
 ||dvdtjbzjd7.pixnet.net
@@ -4688,6 +4698,7 @@
 ||fdccpw.com
 ||fdctop.cn
 ||fddnv57991.pixnet.net
+||fdf42.com
 ||fdf55.com
 ||fdjm99.com
 ||fdmwcl4.cn
@@ -4733,6 +4744,7 @@
 ||ffv11dz11r.blog.fc2.com
 ||ffvab.com
 ||ffwvndd.cn
+||fgfxr.com
 ||fgj47451s1os.blogspot.*
 ||fgjrkh0769.com
 ||fgw65ta00m.blog.fc2.com
@@ -5465,6 +5477,7 @@
 ||gualaohan.com
 ||guangdongxiangfa.cn
 ||guangxiren.cn
+||guangzh.com
 ||guanhuigd.com
 ||guanse168.com
 ||guatelg.co
@@ -5478,6 +5491,7 @@
 ||guheihei.com
 ||guide-internaute.buzz
 ||guillaulles.co
+||guitarguangzhou.com
 ||gujisc.com
 ||guk120.com
 ||gukqkgaug6.pixnet.net
@@ -5536,6 +5550,7 @@
 ||gymeigou.com
 ||gymxdz.com
 ||gyp4600lnr.pixnet.net
+||gyqyyy.com
 ||gyrocon.buzz
 ||gystdcbzx.com
 ||gystzsh.com
@@ -5931,6 +5946,7 @@
 ||hellol.com
 ||hellopsy.ch
 ||helma.buzz
+||helongmuseum.com
 ||helplib.cn
 ||hendrart.co
 ||hengaimeng.com
@@ -6229,6 +6245,7 @@
 ||hscrystal.buzz
 ||hsf100.com
 ||hsix0bb.cn
+||hsjjsc.com
 ||hsjtjz.com
 ||hsksuo.com
 ||hsnilong.com
@@ -8706,6 +8723,7 @@
 ||melissalanglyphoto.co
 ||melodiya-stilya.ru
 ||mememanga.com
+||memeslong.com
 ||menclub.co
 ||mendezbenspen.pixnet.net
 ||mendezroget6.pixnet.net
@@ -8838,6 +8856,7 @@
 ||mmt10.com
 ||mmtw.org
 ||mmyigo.com
+||mmzz515.com
 ||mn55.cn
 ||mn61.cn
 ||mnbhyna.cn
@@ -9431,6 +9450,7 @@
 ||nordahl.me
 ||normanmills10.pixnet.net
 ||not32hu32z.pixnet.net
+||notd-angle.com
 ||notesfrmthclud.co
 ||nothingshare.com
 ||notmyfirstrodeoblog.me
@@ -11167,6 +11187,7 @@
 ||ronaldhej.pixnet.net
 ||rongduansi.com
 ||ronghuipin.com
+||rongyidagl.com
 ||ronia.me
 ||ronnewmanches.pixnet.net
 ||ror114t.pixnet.net
@@ -12140,6 +12161,7 @@
 ||szzffd.com
 ||szzhengtai.cn
 ||szzkw.cn
+||szzl999.com
 ||t021j3m.pixnet.net
 ||t0bgq1npxz.pixnet.net
 ||t0chd1jgj5.blog.fc2.com
@@ -13707,6 +13729,7 @@
 ||wns00098.com
 ||wnslnog.cn
 ||wnx8.cn
+||wo9ang.com
 ||woaichaofl.com
 ||wobida.cn
 ||wodegr.cn
@@ -14114,6 +14137,7 @@
 ||xieehui.com
 ||xieenjie.com
 ||xiezili.com
+||xigouhu.com
 ||xiguhkk.com
 ||xiling568.cn
 ||ximo91o.cn
@@ -14170,6 +14194,7 @@
 ||xizangwa.buzz
 ||xizhuanyx.com
 ||xjh7tmmarake.pixnet.net
+||xjj8201.com
 ||xjjfss.com
 ||xjjh520.com
 ||xjnshj.com
