@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220716
+! Version: 20220717
 ! Expires: 3 days
 
 ! Content farm
@@ -1705,6 +1705,7 @@
 ||almost.pub
 ||aln0aqw.cn
 ||alomashms.co
+||alonelanguagevery.buzz
 ||alpinemediagroup.buzz
 ||alraaoman.me
 ||alrwov8.cn
@@ -1875,6 +1876,7 @@
 ||armandtdawnqi.pixnet.net
 ||armour-tires.buzz
 ||aromes-sens.com
+||arranaroma.ru
 ||arrow-sales.buzz
 ||arruo.com
 ||art-chip.buzz
@@ -2307,6 +2309,8 @@
 ||bessca.com
 ||bessybug.buzz
 ||best-of-best.buzz
+||best-prizes.life
+||bestbonus-zone.life
 ||bestfreefootball.buzz
 ||besthuaxia.com
 ||bestinfo365.com
@@ -2397,11 +2401,13 @@
 ||bishoplawmarl.pixnet.net
 ||bisolsinus.buzz
 ||bisoqi.com
+||biuro61.com.pl
 ||biyejiuye.com
 ||biyfi.com
 ||biyga.com
 ||bizcomziper.com
 ||bizdatatw.com
+||biznestools.net
 ||bizrate.com
 ||bizrv.com
 ||bj-gaoda.cn
@@ -2480,6 +2486,7 @@
 ||blog.cti.app
 ||blog.hpybk.com
 ||blom7o0.cn
+||bloodissuefound.buzz
 ||blr97jb11b.blog.fc2.com
 ||blublu365.com
 ||blubluu.com
@@ -3113,6 +3120,7 @@
 ||clay-county.buzz
 ||claytobenrich.pixnet.net
 ||cldh8.com
+||cleancaptcha.top
 ||cleanup.jp.net
 ||clearday.cn
 ||clemensbooks.buzz
@@ -3400,6 +3408,7 @@
 ||cu0ky3s.cn
 ||cu10890980.pixnet.net
 ||cu1rcto.cn
+||cubicongardens.sk
 ||cucyqyuw6e.pixnet.net
 ||culturekr.com
 ||cumitast.co
@@ -3783,6 +3792,7 @@
 ||desiredconstlltions.co
 ||desotalk.com
 ||desperately.site
+||deteco.pl
 ||dev4living.com
 ||developpaper.com
 ||developreference.com
@@ -3884,6 +3894,7 @@
 ||distrocntk.co
 ||dit65xo96o.pixnet.net
 ||ditexas.cn
+||divatops.com
 ||diwujiequ.com
 ||dixiedirectory.buzz
 ||diyishipu.com
@@ -3940,6 +3951,7 @@
 ||dnxvjvtfbp.pixnet.net
 ||dnxzesj.cn
 ||doak5vx.cn
+||doaner.me
 ||doc01.cc
 ||docgord.buzz
 ||docs01.com
@@ -4216,6 +4228,7 @@
 ||ecagnzq.cn
 ||ecfly.cn
 ||echoxx.com
+||ecoconfort.es
 ||ecofuel.me
 ||econo-tax.buzz
 ||econsocietyy.co
@@ -4232,6 +4245,7 @@
 ||edithdianro0h.pixnet.net
 ||edithllp.cn
 ||edithturnercg.pixnet.net
+||edition-eltern.com
 ||edkdq3q.cn
 ||ednadwaynejc.pixnet.net
 ||ednancements.me
@@ -4259,6 +4273,7 @@
 ||eg78472813yaz.wordpress.com
 ||egaoshi.co
 ||eggplantwiy.blog.fc2.com
+||eggsfragrancememory.com
 ||eghsbs.blogspot.*
 ||egnmbjy.cn
 ||ego19.com
@@ -4437,6 +4452,7 @@
 ||evdbus.com
 ||eve74ss19h.blog.fc2.com
 ||eventidigitali.buzz
+||eventos-vida.es
 ||everetbubnj.pixnet.net
 ||everythingsll.co
 ||evilmaple.cn
@@ -4774,6 +4790,7 @@
 ||financesky.cn
 ||financetagtw.com
 ||finanziata.buzz
+||find-top-prizes-here.life
 ||find-top-prizes-here.life
 ||findarticles.com
 ||finefinesh.club
@@ -5392,6 +5409,7 @@
 ||goomba.cn
 ||gooread.com
 ||gophrthegrn.co
+||gordo.lv
 ||gordonnews.com
 ||gospel2rmnia.co
 ||goto222.com
@@ -5729,6 +5747,7 @@
 ||hamisu88.com
 ||hammonlillws.pixnet.net
 ||hamtap.com
+||hancel.org
 ||handbasie.me
 ||handformkeramik.buzz
 ||handfreecn.com
@@ -6515,6 +6534,7 @@
 ||id0m3f.cn
 ||id528.com
 ||idaote.com
+||idatatw.com
 ||idea543.net
 ||ideapit.com
 ||ideapit.net
@@ -6696,6 +6716,7 @@
 ||irsf0wal86535.pixnet.net
 ||irual.me
 ||isaacmariosc.pixnet.net
+||isabel-lopez-kubben.at
 ||isdce.com
 ||ise81nl38i.blog.fc2.com
 ||isecqqw.co
@@ -6707,6 +6728,7 @@
 ||island-magic.buzz
 ||iso2.cc
 ||ispot.news
+||isth2020.it
 ||isuduw.blogspot.*
 ||it-swarm.asia
 ||it1256.com
@@ -6781,6 +6803,7 @@
 ||izhato.me
 ||izhentoo.cc
 ||izmoroz.me
+||izumrud63.ru
 ||j02o0h2.cn
 ||j0auupr.cn
 ||j0czy6pbaw.pixnet.net
@@ -6932,6 +6955,7 @@
 ||jankanban.com
 ||jankanban.tw
 ||januaryprivilege.me
+||januszpozycza.pl
 ||japanbignew.es
 ||japanbooks.in.net
 ||japannowonline.fr
@@ -8024,6 +8048,7 @@
 ||leilei18.cn
 ||lek05wh61o.blog.fc2.com
 ||lemagnac.fr
+||lemissestetica.it
 ||lenahe8h636.pixnet.net
 ||lengku114.com
 ||lengyuexuan.com
@@ -8192,6 +8217,7 @@
 ||lky77aj91l.pixnet.net
 ||ll138.com
 ||ll31195519.pixnet.net
+||llhlf.com
 ||llibertatidemocracia.buzz
 ||llillianvernon.buzz
 ||lloydmy914.blog.fc2.com
@@ -8367,6 +8393,7 @@
 ||lunmm.com
 ||lunsui.com
 ||luobojianzhan.com
+||luocige.com
 ||luogou8.com
 ||luoow.com
 ||luowendong.com
@@ -9269,6 +9296,7 @@
 ||ndshs.com
 ||ne328.cn
 ||ne42967165.pixnet.net
+||nearfingerpresent.buzz
 ||needmorefood.com
 ||nefertitirecords.buzz
 ||negrall.com
@@ -9678,6 +9706,7 @@
 ||oh2ckvf.cn
 ||oh30244061.pixnet.net
 ||oh74.com
+||ohmencontain.buzz
 ||ohwonews.com
 ||oi04.com
 ||oilofleep.co
@@ -10183,6 +10212,7 @@
 ||picis.cn
 ||pidwxl.co
 ||pie243.cn
+||piemontecontributi.it
 ||piercemedn.pixnet.net
 ||pifyu8wfhi.pixnet.net
 ||pikicast.tw
@@ -10770,15 +10800,18 @@
 ||quceo.com
 ||qudu123.com
 ||queen-edu.cn
+||queenmobile.es
 ||quembre.buzz
 ||questionhub.com
 ||quickplay.tw
 ||quiet-city.buzz
 ||quiltgden.me
 ||quinellmsic.co
+||quing.im
 ||quinsaatbookeepingandtax.buzz
 ||quiz321.com
 ||quizpop.me
+||quotationsi.com
 ||quweinews.com
 ||quwenge.com
 ||quwgw86406.pixnet.net
@@ -11634,6 +11667,7 @@
 ||shipinyg.com
 ||shirleynistac.pixnet.net
 ||shishangdong.com
+||shishimom.com
 ||shiyiwu.cn
 ||shjunting.com
 ||shldbf.com
@@ -11867,6 +11901,7 @@
 ||spiritsolons.co
 ||splendidness.cc
 ||sportconwk.blogspot.*
+||sportechnology.ru
 ||sports-pools.buzz
 ||sportsclsity.co
 ||sportsems.co
@@ -11981,6 +12016,7 @@
 ||stud9dz.co
 ||studio-parquet-paris.eu
 ||studiocavas.co
+||studiodahu.com
 ||studiotwlv.co
 ||studyfoation.co
 ||stylewikitw.com
@@ -12457,6 +12493,7 @@
 ||thehealthdaily.org
 ||thehealther.com
 ||theironnews.site
+||thejee.co
 ||thejewelsry.co
 ||thejumproom.org
 ||thelazy.me
@@ -12511,6 +12548,7 @@
 ||tianye888.com
 ||tianyusky.cn
 ||tibet-internal.buzz
+||tiengtrung.cn
 ||tierre-laser.buzz
 ||tighdies.co
 ||tigotool.com
@@ -15004,6 +15042,7 @@
 ||zaoqijy.com
 ||zaoxu.com
 ||zaoyang365.com
+||zap3003.ru
 ||zapphi.com
 ||zasecag.cn
 ||zayasmorazzanicpa.buzz
@@ -15210,6 +15249,7 @@
 ||zm2100h.pixnet.net
 ||zm55134031.pixnet.net
 ||zm5537.com
+||zmarterlife.com
 ||zmdhdyc.com
 ||zmgood.com
 ||zmjayouzan.com
