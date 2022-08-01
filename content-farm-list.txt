@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220731
+! Version: 20220801
 ! Expires: 3 days
 
 ! Content farm
@@ -1341,6 +1341,7 @@
 ||97oxford.buzz
 ||980pj.cn
 ||985ds.me
+||985ys.com
 ||987yy.cn
 ||9897sf.com
 ||98ffn.cn
@@ -10318,6 +10319,7 @@
 ||pny555.com
 ||pny966.com
 ||pny995.com
+||pnyjjt.com
 ||po3c.com
 ||poad.net
 ||poemasenelre.co
@@ -11840,6 +11842,7 @@
 ||sm82k09.pixnet.net
 ||smaijie.com
 ||smallmediumlarge.co
+||smallpopo.com
 ||smart-gamma.com
 ||smartlife7.com
 ||smarttq.cn
@@ -12022,6 +12025,7 @@
 ||stonejoeloo6x.pixnet.net
 ||stoneneilke.pixnet.net
 ||storeoncpts.co
+||storfamily.com
 ||storm-mg.com
 ||story543.com
 ||storywall.me
@@ -12905,6 +12909,7 @@
 ||tzx11tb75j.blog.fc2.com
 ||tzz6tgi.cn
 ||tzzgcm.com
+||u-invoice.com
 ||u-mall.freecoupon.com.tw
 ||u0b9um3.cn
 ||u0sjo305sew.pixnet.net
