@@ -7,7 +7,7 @@ license = "MIT"
 
 [dependencies]
 anyhow = "1.0.59"
-indoc = "1.0.6"
+indoc = "1.0.7"
 tap = "1.0.1"
 time = {version = "0.3.12", features = ["formatting", "macros"]}
 ureq = "2.5.0"
