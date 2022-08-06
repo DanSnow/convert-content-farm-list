@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220805
+! Version: 20220806
 ! Expires: 3 days
 
 ! Content farm
@@ -308,6 +308,7 @@
 ||19long.com
 ||19sd.cn
 ||1adg.com
+||1applefit.com
 ||1applehealth.com
 ||1b43j7f.cn
 ||1bu1bu.com
@@ -336,6 +337,7 @@
 ||1mxpnus.cn
 ||1n50rhf.cn
 ||1nt9npc.cn
+||1oadsf.tokyo
 ||1on1teens.buzz
 ||1qplay.com
 ||1qsd.com
@@ -1489,6 +1491,7 @@
 ||absolute-sales.buzz
 ||absolutequalitylimo.buzz
 ||abstriction.buzz
+||ac-ay.com
 ||academyagent.buzz
 ||accentsgifts.buzz
 ||acceptanctgage.co
@@ -1570,6 +1573,7 @@
 ||agadezlaplage.buzz
 ||against24.blogspot.*
 ||agame01.com
+||agentura-atlas.cz
 ||aggw3fw.cn
 ||agnbik1853.pixnet.net
 ||agoracentredestudis.buzz
@@ -1674,6 +1678,7 @@
 ||alde.jp.net
 ||alecran.buzz
 ||alenshare.life
+||aleto.ee
 ||alexpatricp0.pixnet.net
 ||alfredfof01p.pixnet.net
 ||alfredriyuh8.pixnet.net
@@ -1707,6 +1712,7 @@
 ||allwanderlandstravel.buzz
 ||almost.pub
 ||aln0aqw.cn
+||alojenme.com
 ||alomashms.co
 ||alonelanguagevery.buzz
 ||alpinemediagroup.buzz
@@ -1725,6 +1731,7 @@
 ||ambassaran.co
 ||ambery20h7a.pixnet.net
 ||ambkct.com
+||ambroisemoreux-osteopathe.fr
 ||amercoffee.buzz
 ||americankidswear.buzz
 ||americantowns.com
@@ -1828,6 +1835,7 @@
 ||aoyoutao.com
 ||ap8o2.cn
 ||apartamenty-brzeznicka.pl
+||apartamentygilewskiego.pl
 ||apartmentcenters.buzz
 ||apasass.co
 ||apkhr.com
@@ -2200,8 +2208,10 @@
 ||barjazz.me
 ||barnettcha748.pixnet.net
 ||barnetterrah7.pixnet.net
+||barre-fitstudio.com
 ||barretwesllcl.pixnet.net
 ||barsch-marktforschung.buzz
+||basboeit.nl
 ||batadfg.blogspot.*
 ||batesr1r38ml3.pixnet.net
 ||bathnet.cn
@@ -2527,6 +2537,7 @@
 ||bobbies4b43c3.pixnet.net
 ||bobbydennisej.pixnet.net
 ||bobbyv0h6dqpy.pixnet.net
+||boblo.eu
 ||bobmichellehq.pixnet.net
 ||bobo01.com
 ||bobofun.com
@@ -2602,6 +2613,7 @@
 ||bradagna.co
 ||bradleydiaz30.pixnet.net
 ||brainstormpk.buzz
+||bramecine.com
 ||brandonvis.co
 ||brandopatbtc.pixnet.net
 ||brandyfloweny.pixnet.net
@@ -2802,6 +2814,7 @@
 ||cacanews.com
 ||cache.one
 ||cacnka.xyz
+||cafedetempelier.com
 ||cafegatto.com
 ||cahors-la.buzz
 ||caida168.com
@@ -2818,6 +2831,7 @@
 ||cakealitore.me
 ||cakemaster.cn
 ||califoestment.co
+||california-german-shepherds.com
 ||calyxcare.buzz
 ||cam4.pixnet.net
 ||camillesw94.pixnet.net
@@ -2837,6 +2851,7 @@
 ||careerengine.us
 ||caremura.cc
 ||caretify.com
+||carewikitw.com
 ||carheadline.com
 ||carlalucente.com
 ||carlholl14594.pixnet.net
@@ -3846,6 +3861,7 @@
 ||dhrgm.com
 ||dhyjpkc.com
 ||di02.biz
+||di13.biz
 ||di50775354.blog.fc2.com
 ||dianebarnnoe.pixnet.net
 ||dianecummia2.pixnet.net
@@ -4254,6 +4270,7 @@
 ||edkdq3q.cn
 ||ednadwaynejc.pixnet.net
 ||ednancements.me
+||edryllahn.xyz
 ||eds555.com
 ||educationalday.ch
 ||eduogou.com
@@ -4447,6 +4464,7 @@
 ||euhskwa.cn
 ||eujtiqv.cn
 ||eurclub.com
+||eurocio-events.eu
 ||eurostar-digital.buzz
 ||euxvfhw.cn
 ||euy90wr15e.pixnet.net
@@ -4938,6 +4956,7 @@
 ||frankknige53k.pixnet.net
 ||franktherossj.pixnet.net
 ||frat-movie.buzz
+||freakyboards.pl
 ||freax.be
 ||frecksbingandgas.co
 ||frednbf5dqm7w.pixnet.net
@@ -5024,6 +5043,7 @@
 ||funnytw.com
 ||funptt.com
 ||funqiqu.com
+||funsp.space
 ||funssy.co
 ||funssy.com
 ||funstory.co
@@ -5234,6 +5254,7 @@
 ||geraldipie16.pixnet.net
 ||gerecippower.buzz
 ||gergj.top
+||get-the-prize-ht3.live
 ||getaoquan.com
 ||getez.info
 ||getfun.cc
@@ -5943,6 +5964,7 @@
 ||healthtagtw.com
 ||healthtip.cc
 ||healthway.tips
+||healthwikitw.com
 ||healthy-resources.buzz
 ||healthylives.tw
 ||healthyshare.life
@@ -7628,6 +7650,7 @@
 ||khgfgf42.blogspot.*
 ||khkxbs.com
 ||khocc05.cn
+||khostia.com
 ||khushrajrathod.me
 ||khyhgy09.blogspot.*
 ||ki7p643662.pixnet.net
@@ -7946,6 +7969,7 @@
 ||label-america.buzz
 ||lacasajaguar.buzz
 ||lace11111.com
+||lacocinaderosa.es
 ||lacommandebessau.co
 ||lady513.com
 ||ladybig.com
@@ -8035,6 +8059,7 @@
 ||ldofi24.cn
 ||ldpgsbt.cn
 ||ldqijkv.cn
+||ldrz31.tokyo
 ||ldvl3jz95j.pixnet.net
 ||le16rb0.cn
 ||le1q0cn.cn
@@ -8912,8 +8937,10 @@
 ||mobiccae.xyz
 ||mobileadv.eu
 ||mobilecator.co
+||mobillegends.net
 ||modelosquetarojas.buzz
 ||modengzhan.com
+||moderncaptcha.top
 ||modernpntoring.co
 ||modify.news
 ||modoaydinlatma.buzz
@@ -9109,6 +9136,7 @@
 ||mytimes.org
 ||mytlebeechinfo.buzz
 ||mytnet.cn
+||mytouchstory.com
 ||mytrport.co
 ||myudesign.cn
 ||mywendu.com
@@ -9118,6 +9146,7 @@
 ||myytaoli.blogspot.*
 ||myz8.cn
 ||myzytx.com
+||mzcloud.info
 ||mzfhf873yx.blog.fc2.com
 ||mzjzvr.cn
 ||mzssc.com
@@ -9485,6 +9514,7 @@
 ||nonglinyumu.com
 ||nonlehui.com
 ||nonrcjh.cn
+||nonseisolo.eu
 ||nonsnews.com
 ||noodv.com
 ||nooho.net
@@ -9701,6 +9731,7 @@
 ||odp91no21b.pixnet.net
 ||odseti.cn
 ||odsgjl915.pixnet.net
+||odszkodowania-kontakt.pl
 ||odvj17juarb.pixnet.net
 ||odwxjz.cn
 ||odz69ip63v.pixnet.net
@@ -9747,6 +9778,7 @@
 ||ol54.com
 ||ol61.com
 ||ol64.com
+||ol7dp8.tokyo
 ||olc59ru72z.pixnet.net
 ||olcif.com
 ||old3x7.pixnet.net
@@ -10092,6 +10124,7 @@
 ||pasikayc16.wordpress.com
 ||pass345.com
 ||passionss.buzz
+||pastapizza.es
 ||patricbrreeve.pixnet.net
 ||patricsheil25.pixnet.net
 ||patrikbidsong.co
@@ -10383,6 +10416,7 @@
 ||ppyxapp.cn
 ||pqg8.cn
 ||pqm8.cn
+||pr24.plus
 ||pracujsprytniej.pl
 ||praspremim.co
 ||prbhexprts.co
@@ -11044,6 +11078,7 @@
 ||ranjgzo.cn
 ||rantasa.me
 ||raolve.com
+||rapelling.eu
 ||rapture.jp.net
 ||rate-movie.com
 ||raven-industries.buzz
@@ -11223,6 +11258,7 @@
 ||robinsh0b38.pixnet.net
 ||robnjk.co
 ||robobos.co
+||rockcloudarea.com
 ||rocketgeeks.com
 ||rocksearch.cc
 ||rockymtnloghomes.buzz
@@ -11602,6 +11638,7 @@
 ||sfpartmentt.co
 ||sfrq150.pixnet.net
 ||sfshppinast.co
+||sg-charpente.fr
 ||sg314.cn
 ||sg53mq2y3x.blog.fc2.com
 ||sgaas3ialicej.pixnet.net
@@ -11675,6 +11712,7 @@
 ||sherryneax22.pixnet.net
 ||shgon.cn
 ||shhbkfx.com
+||shhhoms.co
 ||shhtksd.com
 ||shhuyuandl.com
 ||shicheng.news
@@ -11747,6 +11785,7 @@
 ||sidecrance.co
 ||sidneykellyma.pixnet.net
 ||sifuqi123.com
+||sigmund-fliesen.de
 ||sihutong.cn
 ||sijintuan.com
 ||silconvallst.co
@@ -11759,6 +11798,7 @@
 ||silobuy.com
 ||silver-country.buzz
 ||simonarcher.me
+||simpledatings.life
 ||simpleue.co
 ||simplewma.com
 ||simulatiide.co
@@ -11771,6 +11811,7 @@
 ||singalosicpot.co
 ||singaporeable.cc
 ||singledream.cn
+||singlelettercry.top
 ||sino01.com
 ||sinochemlyg.cn
 ||sinoexam.com.cn
@@ -11880,6 +11921,7 @@
 ||sognrzh.cn
 ||sogo16888.com
 ||sogo341381879.wordpress.com
+||sogrbber.me
 ||soho-village.buzz
 ||sohopromo.buzz
 ||soinside.com
@@ -12012,6 +12054,7 @@
 ||stephedq541h.pixnet.net
 ||stephenmiao.cn
 ||stepheph1xu46.pixnet.net
+||steroidologia.com
 ||stevenmichsan.pixnet.net
 ||steventi5nm0p.pixnet.net
 ||stewarjfk43.pixnet.net
@@ -12044,6 +12087,7 @@
 ||suahnthp.co
 ||subaidajs.com
 ||subslculator.co
+||subvietnam.shop
 ||subzero6969.site
 ||success666.com
 ||successquote.org
@@ -12393,6 +12437,7 @@
 ||taoxiaodui.com
 ||taoxingyou.com
 ||taperdtee.co
+||tapipak.com
 ||tasarikurkmod.buzz
 ||tatcdz.com
 ||tatepaulbenja.pixnet.net
@@ -13234,6 +13279,7 @@
 ||v9xr1311rj.pixnet.net
 ||vaacase.com
 ||vaasotaa.buzz
+||vachmo.com
 ||vacuum-freeze.buzz
 ||vaehall.co
 ||vahaea.blogspot.*
@@ -13327,6 +13373,7 @@
 ||vipaid.cn
 ||vipdailian.com
 ||vipyl.com
+||viracore.work
 ||viralane.com
 ||viralcham.com
 ||virtualtoke.buzz
@@ -13443,6 +13490,7 @@
 ||vygqef.blogspot.*
 ||vyouq.com
 ||vyrni8a.cn
+||vys8as.tokyo
 ||vyuntuan.com
 ||vyzqij7.cn
 ||vz86219768.blog.fc2.com
