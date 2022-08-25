@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220824
+! Version: 20220825
 ! Expires: 3 days
 
 ! Content farm
@@ -578,6 +578,7 @@
 ||360doc.com
 ||360mdb.com
 ||360norm.com
+||361shipin.com
 ||36457.cn
 ||365dxpt.com
 ||365seal.com
@@ -2820,6 +2821,7 @@
 ||caida168.com
 ||caigeci.com
 ||caiguoxww.com
+||caihongta.com
 ||caikuainet.com
 ||cailaiipo.com
 ||cailunwang.com
@@ -3758,6 +3760,7 @@
 ||ddnews.xyz
 ||ddojoy.com
 ||ddpb82pa76117.pixnet.net
+||ddpei.com
 ||ddrf9xb17.pixnet.net
 ||ddsulian.com
 ||ddvweb.com
@@ -3925,6 +3928,7 @@
 ||djb44gq82g.pixnet.net
 ||djfd11.cn
 ||djlin10550.pixnet.net
+||djnegroup.com
 ||djxentnment.me
 ||djzz0q.cn
 ||dk7d3s.pixnet.net
@@ -4062,6 +4066,7 @@
 ||dsy39.com
 ||dt813.com
 ||dtdsnx.com
+||dtime.com
 ||dtj63br86a.pixnet.net
 ||dtj79bd11l.blog.fc2.com
 ||dtvg87wlz.pixnet.net
@@ -4970,6 +4975,7 @@
 ||frg70jg.cn
 ||friask.com
 ||fridayboy.cn
+||friend-color.com
 ||frjlw.cn
 ||frldm.com
 ||frlgkld.cn
@@ -8186,6 +8192,7 @@
 ||likecs.com
 ||likedeer.com
 ||likelife365.com
+||liliang.info
 ||lilliawilliev.pixnet.net
 ||lilligrce.co
 ||lilyid.com
@@ -8599,6 +8606,7 @@
 ||magarfid.com
 ||magarom.com
 ||magelinesc.com
+||maggie-siff.com
 ||magic82.wordpress.com
 ||magic8809.wordpress.com
 ||magicalcn.com
@@ -10595,6 +10603,7 @@
 ||pyk556.com
 ||pylllw.com
 ||python.iitter.com
+||pythonheidong.com
 ||pzdyj.com
 ||pzhfly.cn
 ||pzhnanke.com
