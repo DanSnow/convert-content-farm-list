@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220903
+! Version: 20220904
 ! Expires: 3 days
 
 ! Content farm
@@ -1570,6 +1570,7 @@
 ||affinity-languages.buzz
 ||affordable-designs.buzz
 ||afton-pumps.buzz
+||afusamcurico.cl
 ||ag8616e.cn
 ||agadezlaplage.buzz
 ||against24.blogspot.*
@@ -1742,6 +1743,7 @@
 ||amh4806oul.blog.fc2.com
 ||amhnn.com
 ||amillionpoems.buzz
+||amini.com.pl
 ||amoyman.com
 ||amp46oz92i.blog.fc2.com
 ||ampblog.cn
@@ -2501,6 +2503,7 @@
 ||bloccastll.co
 ||blog.cti.app
 ||blog.hpybk.com
+||blogsbodasdeisabel.com
 ||blom7o0.cn
 ||bloodissuefound.buzz
 ||blr97jb11b.blog.fc2.com
@@ -2591,6 +2594,7 @@
 ||bottle01.org
 ||bottle01.tw
 ||boulevardpets.com
+||bouncingbalconysuperior.com
 ||boutiqudlz.co
 ||bow8kmenddy.pixnet.net
 ||bowendaniellw.pixnet.net
@@ -2676,6 +2680,7 @@
 ||buccelli.buzz
 ||buchbx.co
 ||bucktop.com
+||budanghuishi.com
 ||buddhafate.com
 ||buddhanet01.com
 ||bugelun.com
@@ -2963,6 +2968,7 @@
 ||celsluus.co
 ||cen100.com
 ||centrimediline.buzz
+||centroricercainsubria.it
 ||century21realtor.buzz
 ||centurysun.cn
 ||ceramic-industry.buzz
@@ -3185,6 +3191,7 @@
 ||cnba.live
 ||cnbesing.com
 ||cnbjit.com
+||cnbook.top
 ||cndiling.com
 ||cndqhymh.com
 ||cndramae.com
@@ -3662,6 +3669,7 @@
 ||dailyhearter.net
 ||dailyposts.me
 ||dailytify.com
+||daimajiaoliu.com
 ||daipeini.com
 ||daisnvn.co
 ||daiyun787.cn
@@ -3905,6 +3913,7 @@
 ||diollarrentacar.buzz
 ||dioys.com
 ||direct-to-u.buzz
+||directgrillage.fr
 ||directoriogratis.buzz
 ||direqx.com
 ||dirprintty.co
@@ -4267,6 +4276,7 @@
 ||eddhee.co
 ||eddiemontnorm.pixnet.net
 ||edge435.com
+||ediliziaeponteggi.it
 ||editcode.net
 ||edithdianro0h.pixnet.net
 ||edithllp.cn
@@ -4518,6 +4528,7 @@
 ||ez3c.tw
 ||ezb69.pixnet.net
 ||ezerm.cn
+||ezerror.com
 ||ezeyny.com
 ||ezfymm.com
 ||ezgckg.com
@@ -4822,6 +4833,7 @@
 ||find-top-prizes-here.life
 ||find-top-prizes-here.life
 ||findarticles.com
+||findmylife.cc
 ||finefinesh.club
 ||fingerdaily.com
 ||fingermedia.tw
@@ -4960,6 +4972,7 @@
 ||francispublications.buzz
 ||frankknige53k.pixnet.net
 ||franktherossj.pixnet.net
+||franziskus-kinderhaus.de
 ||frat-movie.buzz
 ||freakyboards.pl
 ||freax.be
@@ -6025,6 +6038,7 @@
 ||hexielaw.com
 ||heyfiles.gb.net
 ||heyuanheng.com
+||heyvpnop.pages.dev
 ||hezhisw.com
 ||hezs88.com
 ||hf13579735.blog.fc2.com
@@ -6564,6 +6578,7 @@
 ||iclinking.com
 ||icnmall.com
 ||icode.best
+||icode9.com
 ||icofunny.com.hk
 ||iconabc.com
 ||icopy.site
@@ -6700,8 +6715,10 @@
 ||inonepodster.co
 ||inpmv672cf.pixnet.net
 ||inr7213eet.pixnet.net
+||insci.cn
 ||insightslife.news
 ||inspirationaltouching.blogspot.*
+||instalatorkrosno.pl
 ||instant.lvv2.com
 ||insurancewikitw.com
 ||integratedpaperservice.buzz
@@ -7369,6 +7386,7 @@
 ||jug07uy57w.blog.fc2.com
 ||juhangye.com
 ||juicy-news.hk
+||jujia.pub
 ||juk73kl19w.blog.fc2.com
 ||jukangsw.com
 ||juksy.club
@@ -8347,6 +8365,7 @@
 ||louisedww3.pixnet.net
 ||louiseimagine.me
 ||louisholmramo.pixnet.net
+||loutkovyfestivalpisek.cz
 ||lovebeads2021.co
 ||lovedaily.life
 ||lovedayfy.com
@@ -10247,6 +10266,7 @@
 ||phillipre294.wordpress.com
 ||philwoods.me
 ||phjvj95919.pixnet.net
+||pho-rotkreuz.ch
 ||phone-hk.buzz
 ||phonesnotebooks.fc2.net
 ||photo-fax.buzz
@@ -12083,6 +12103,7 @@
 ||storywall.me
 ||stpciip.co
 ||strickcmpp01.pixnet.net
+||string.quest
 ||striveconfrnce.co
 ||stroyka.me
 ||structcalc.buzz
@@ -12767,6 +12788,7 @@
 ||touchingstory6.blogspot.*
 ||touchtech.tw
 ||toukmankn.co
+||tousu.in
 ||toutiaohaowang.com
 ||toutiaosg.com
 ||touyanmo.com
@@ -12887,6 +12909,7 @@
 ||tuokehj.com
 ||turf-seed-china.buzz
 ||tusfam.com
+||tushudq.com
 ||tutorialfor.com
 ||tuudlisa52741.pixnet.net
 ||tuvanduhoc.buzz
@@ -13673,6 +13696,7 @@
 ||webholland.buzz
 ||weblanguage.cn
 ||weblogographic.com
+||weblogstack.com
 ||webptt.com
 ||webptt.com.tw
 ||webptt.net
@@ -14882,6 +14906,7 @@
 ||ythyyy14.com
 ||ytplqb.com
 ||ytsfc.com
+||ytu567.monster
 ||ytvgca.cn
 ||ytxjjx.com
 ||ytyiber.com
