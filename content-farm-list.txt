@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220907
+! Version: 20220908
 ! Expires: 3 days
 
 ! Content farm
@@ -1643,6 +1643,7 @@
 ||aituche.com
 ||aiweinews.com
 ||aizgu.com
+||aiznh.com
 ||aj315293.pixnet.net
 ||aj5g102.cn
 ||ajbdfs.blogspot.*
@@ -2303,6 +2304,7 @@
 ||beimaisi.com
 ||beitetuwen.com
 ||beiyi168.com
+||beiyuedu.com
 ||belgiusic.me
 ||belindanvj8.blog.fc2.com
 ||belleburg.co
@@ -6361,6 +6363,7 @@
 ||huanweiren.com
 ||huanwin.com
 ||huaqiang168.cn
+||huashu-inc.com
 ||huataiok.com
 ||huaxing198.com
 ||huaxuezhinan.com
@@ -6596,6 +6599,7 @@
 ||id528.com
 ||idaote.com
 ||idatatw.com
+||idczone.net
 ||idea543.net
 ||ideapit.com
 ||ideapit.net
@@ -11454,6 +11458,7 @@
 ||s1f9x37hb1.blog.fc2.com
 ||s1hndbs.cn
 ||s1nne7256u.pixnet.net
+||s1oo.com
 ||s1p3l5p9evs.pixnet.net
 ||s1pzr987kpf.blog.fc2.com
 ||s1r8b7w3cx7.blog.fc2.com
@@ -11941,6 +11946,7 @@
 ||smqz241.pixnet.net
 ||smszh.com
 ||smxgsswzp.com
+||smxs.com
 ||smy8.cn
 ||smyohoh.co
 ||smz44qo59s.pixnet.net
