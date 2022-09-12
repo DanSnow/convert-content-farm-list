@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20220911
+! Version: 20220912
 ! Expires: 3 days
 
 ! Content farm
@@ -1752,6 +1752,7 @@
 ||amplshsh.co
 ||amwo2o.com
 ||amww.cc
+||an-la.ch
 ||an700.com
 ||analplug.cn
 ||analysis-car.com
@@ -2372,6 +2373,7 @@
 ||bgj010.cn
 ||bglqts.com
 ||bgnepal.com
+||bgtero.co
 ||bgw114.com
 ||bgyjr.com
 ||bgzrw.com
@@ -2849,6 +2851,7 @@
 ||camillesw94.pixnet.net
 ||camlya.com
 ||campuslifeline.buzz
+||camracub.me
 ||canadarite.com
 ||canafoto.co
 ||canbeast.online
@@ -2973,6 +2976,7 @@
 ||celsluus.co
 ||cen100.com
 ||centrimediline.buzz
+||centrobenessereintegra.it
 ||centroricercainsubria.it
 ||century21realtor.buzz
 ||centurysun.cn
@@ -4613,6 +4617,7 @@
 ||f4idg7p6wps.pixnet.net
 ||f4r6p1.wordpress.com
 ||f4sd.com
+||f5.pm
 ||f57bf55j.pixnet.net
 ||f5bhk184ezt.pixnet.net
 ||f5d5l7ltt3.pixnet.net
@@ -4761,6 +4766,7 @@
 ||fdccpw.com
 ||fdctop.cn
 ||fddnv57991.pixnet.net
+||fdf41.com
 ||fdf42.com
 ||fdf55.com
 ||fdjm99.com
@@ -5222,6 +5228,7 @@
 ||gaokaobj.cn
 ||gaolou9899.cn
 ||gaomi88.com
+||gaoyongboke.com
 ||gaoyy.com
 ||garantiparamatik.buzz
 ||garfieldrr86.wordpress.com
@@ -7020,6 +7027,7 @@
 ||jameszx55.pixnet.net
 ||jamyi.com
 ||janefishrbtanicalart.co
+||janjarolim.cz
 ||jankanban.com
 ||jankanban.tw
 ||januaryprivilege.me
@@ -7353,6 +7361,7 @@
 ||jsdxt.cn
 ||jsemw122.com
 ||jsfgnbgl.com
+||jsgyjs.com
 ||jshwmc.com
 ||jsjifeng.com
 ||jsjm666.com
@@ -8008,6 +8017,7 @@
 ||lace11111.com
 ||lacocinaderosa.es
 ||lacommandebessau.co
+||ladabohacova.cz
 ||lady513.com
 ||ladybig.com
 ||ladydaigou.com
@@ -9118,6 +9128,7 @@
 ||mv2i7.cn
 ||mvcomcz.cn
 ||mvpautrtes.co
+||mvpode.co
 ||mvvvg796zn.blog.fc2.com
 ||mwboad.co
 ||mwd8.cn
@@ -10360,6 +10371,7 @@
 ||planetsuddenradio.xyz
 ||plant-wide.buzz
 ||plat96.com
+||plaxon.ch
 ||play01ground.com
 ||play543.com
 ||player96.buzz
@@ -12917,6 +12929,7 @@
 ||ttyiyuan.com
 ||ttyshi.com
 ||ttzhufu.com
+||tualau.co
 ||tuasiann.com
 ||tubu9.com
 ||tubulrwine.co
