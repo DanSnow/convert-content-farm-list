@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221012
+! Version: 20221013
 ! Expires: 3 days
 
 ! Content farm
@@ -527,6 +527,7 @@
 ||231395.com
 ||231685.com
 ||231728.com
+||23233.com.cn
 ||23539876.com
 ||2361.fun
 ||23cpc.com
@@ -550,6 +551,7 @@
 ||25cr2ni4w.com
 ||25umb5.cn
 ||2612610.com
+||26178.com.cn
 ||268137.com
 ||268213.com
 ||268231.com
@@ -878,6 +880,7 @@
 ||42640.cn
 ||42822.cn
 ||42xw.com
+||43420.com.cn
 ||43451.cn
 ||43484.cn
 ||43860.cn
@@ -1231,6 +1234,7 @@
 ||66678yx.com
 ||666814.co
 ||666b666.com
+||666bbb.com.cn
 ||6688bet.co
 ||668wb.cn
 ||669ws.cn
@@ -1439,6 +1443,7 @@
 ||840qmc5.cn
 ||84wk.com
 ||8522pk.com
+||8544775.com.cn
 ||8635sns.com
 ||8636236.com
 ||86697658.com
@@ -2129,6 +2134,7 @@
 ||appliances123.pixnet.net
 ||applicationsbuilder.buzz
 ||appliedlvittion.co
+||appliedsystem.com.cn
 ||appobs.com
 ||appolice.me
 ||appqianbao.com
@@ -2612,6 +2618,7 @@
 ||begreek.me
 ||behcetbicaklari.buzz
 ||beihaotouzi.cn
+||beijingtoday.com.cn
 ||beijingwm.com
 ||beijngnst.co
 ||beijstty.co
@@ -3544,6 +3551,7 @@
 ||clo01.hk
 ||clon7hlopegbs.pixnet.net
 ||clothw.com
+||cloudsos.com.cn
 ||cloudtree.me
 ||clp27ub76f.blog.fc2.com
 ||clqcqz.com
@@ -3665,7 +3673,6 @@
 ||collinmakiw.pixnet.net
 ||colyi.cn
 ||com-car.buzz
-||com.cn
 ||com543.com
 ||comdevtech.buzz
 ||comediacq.cl
@@ -3826,6 +3833,7 @@
 ||ctfwikp.buzz
 ||ctgqqcj.cn
 ||ctjr9999.com
+||ctocio.com.cn
 ||ctpn.cc
 ||ctx2236jgj.blog.fc2.com
 ||ctzdq.com
@@ -3916,6 +3924,7 @@
 ||czgeek.com
 ||czjcc88.com
 ||czjdhx.com
+||czjscxs.com.cn
 ||czjtdq.cn
 ||czkxjq.com
 ||cznono.xyz
@@ -4438,6 +4447,7 @@
 ||dodomin.com
 ||dodsonfineart.buzz
 ||doersdjo.co
+||dofe.com.cn
 ||dog93tw31c.pixnet.net
 ||dogfordogbrnds.co
 ||doggyhouse.idv.tw
@@ -4961,6 +4971,7 @@
 ||ete68e1.cn
 ||etf-world.buzz
 ||etfdep.cn
+||etop.com.cn
 ||etq3ae.cn
 ||etravelist.com
 ||etzel-ostfriesland.de
@@ -5350,6 +5361,7 @@
 ||fh9988.us
 ||fhb30vt00a.pixnet.net
 ||fhd6exs.cn
+||fheh.com.cn
 ||fhg78ir96c.pixnet.net
 ||fhjgh45fgj188.blogspot.*
 ||fhrl2018.com
@@ -5451,6 +5463,7 @@
 ||fm09589040.pixnet.net
 ||fm72694059.blog.fc2.com
 ||fmcafe.me
+||fmdesk.com.cn
 ||fmdzmf.com
 ||fmkhrfk.cn
 ||fn4thp.cn
@@ -5968,6 +5981,7 @@
 ||gn3guy7.cn
 ||gn9u60o.cn
 ||gnm47a.cn
+||gnmw.com.cn
 ||gntqruo.cn
 ||gnwxcy.com
 ||gny7725lvz.blog.fc2.com
@@ -6051,6 +6065,7 @@
 ||gotthumbs.buzz
 ||goufangbj.cn
 ||gougeili8.com
+||goulanyaozhai.com.cn
 ||gouma.org
 ||goyeah.tw
 ||gp44512935.pixnet.net
@@ -6116,6 +6131,7 @@
 ||gsgphoto.buzz
 ||gshpks.com
 ||gsjdgl.com
+||gslrmm.com.cn
 ||gsmy791.com
 ||gsnish.xyz
 ||gsoundss.com
@@ -6741,6 +6757,7 @@
 ||hjxge.top
 ||hjxgov.com
 ||hjydjj.com
+||hjyr.com.cn
 ||hk-backpack.com
 ||hk-yy.cn
 ||hk.maheshbhusal.com.np
@@ -9555,6 +9572,7 @@
 ||maximuum.com
 ||maxinemiv3j5.pixnet.net
 ||maybedarous.co
+||mayibanchang.com.cn
 ||mb69575090.pixnet.net
 ||mbe5dp.cyou
 ||mbezdv.cn
@@ -9657,6 +9675,7 @@
 ||menf.cc
 ||mengenche.co
 ||mengqitan.com
+||menpuwang.com.cn
 ||mentaltraining.jp.net
 ||meriambousselmi.me
 ||merylsantoptro.co
@@ -9986,6 +10005,7 @@
 ||muzijx.com
 ||mv2i7.cn
 ||mvcomcz.cn
+||mvom.deshunfang.com.cn
 ||mvpautrtes.co
 ||mvpode.co
 ||mvs77.com
@@ -10587,6 +10607,7 @@
 ||nzx91wu67d.blog.fc2.com
 ||nzyhacd.in
 ||nzzny.com
+||o-hope.com.cn
 ||o0268l8.cn
 ||o0dijve.cn
 ||o0fw73861g.pixnet.net
@@ -10688,6 +10709,7 @@
 ||oe91518630.blog.fc2.com
 ||oe94.com
 ||oeifhpv.cn
+||oekw.com.cn
 ||oes67dk68d.blog.fc2.com
 ||oexjiq7.cn
 ||of2h8kh.cn
@@ -10695,6 +10717,7 @@
 ||ofmg163.pixnet.net
 ||oggck424.blog.fc2.com
 ||ogiharasekiyu.buzz
+||ogng.com.cn
 ||ogv59bu55j.blog.fc2.com
 ||oh2ckvf.cn
 ||oh30244061.pixnet.net
@@ -11091,6 +11114,7 @@
 ||parkerchambbr.pixnet.net
 ||parksjul23578.pixnet.net
 ||parliege.co
+||partwu.com.cn
 ||partyd.cc
 ||pasboosoul.live
 ||pashfon.cn
@@ -11161,6 +11185,7 @@
 ||pehw.cn
 ||peigentea.com
 ||peipeimz.com
+||peixiang.com.cn
 ||peluqueriasuarez.es
 ||penghu.pub
 ||penzai.com
@@ -11700,6 +11725,8 @@
 ||qcqa8km86.pixnet.net
 ||qcsl364.pixnet.net
 ||qcwang211.cn
+||qcwjx985.com.cn
+||qcwjy.com.cn
 ||qcwpx.cn
 ||qcwxps.com
 ||qdabr0c.cn
@@ -11749,6 +11776,7 @@
 ||qi4csl.cn
 ||qiain.com
 ||qiananch.com
+||qiancaiwedu211.com.cn
 ||qiangjiks.com
 ||qiangkuo.com
 ||qiangyao.cn
@@ -12883,6 +12911,7 @@
 ||shukunjin.com
 ||shunanjy.com
 ||shunlixidi.com
+||shuyangyang.com.cn
 ||shuzaos.com
 ||shuzhiduo.com
 ||shvod.cn
@@ -12935,6 +12964,7 @@
 ||singlelettercry.top
 ||sino01.com
 ||sinochemlyg.cn
+||sinoexam.com.cn
 ||sinoma-yzhgs.cn
 ||sionvalleyst.co
 ||sipotech.com
@@ -13026,6 +13056,7 @@
 ||smqz241.pixnet.net
 ||smszh.com
 ||smxgsswzp.com
+||smxh.visualpixel.com.cn
 ||smxs.com
 ||smy8.cn
 ||smyohoh.co
@@ -13283,6 +13314,7 @@
 ||super01.cc
 ||superbigapple.com
 ||superchanges.buzz
+||superclubs.com.cn
 ||superfun-e.com
 ||superncah.fit
 ||support-hk.com
@@ -13686,6 +13718,7 @@
 ||teg9bz.cyou
 ||tejia800.com
 ||tekitmem.co
+||tele-cyber.com.cn
 ||tellus.jp.net
 ||temedtns.co
 ||tengxinzs.com
@@ -14176,6 +14209,7 @@
 ||tybyaf.com
 ||tyc8719.in
 ||tydhky.com
+||tyestate.com.cn
 ||tyfegov.site
 ||tyinfonet.buzz
 ||tyjoa.com
@@ -15098,6 +15132,7 @@
 ||whxdhzs.com
 ||whxdzs.com
 ||whxyjygm.com
+||why123.com.cn
 ||whyhow.online
 ||whynnn.com
 ||whytcf.com
@@ -15641,6 +15676,7 @@
 ||xin66666.co
 ||xin66666.in
 ||xinbocaifu.com
+||xinchangda.com.cn
 ||xinchunzz.com
 ||xinclub.cn
 ||xindd.cc
@@ -15675,6 +15711,7 @@
 ||xinyou1.com
 ||xinyu0772.com
 ||xinyuanming.cn
+||xinyueju.com.cn
 ||xinzeren.com
 ||xiongantb.com
 ||xipx09.cn
@@ -15788,6 +15825,7 @@
 ||xppul.com
 ||xpswrld.me
 ||xptian.com
+||xpwp.com.cn
 ||xpxqxzzx.com
 ||xpzuk7i.cn
 ||xqas41o.cn
@@ -16017,6 +16055,7 @@
 ||yanjianggu.com
 ||yanjiaoluntan.com
 ||yanjiuzhinan.com
+||yantaifushi.com.cn
 ||yanwuzhilv.club
 ||yao51.com
 ||yaohuwh.com
@@ -16367,6 +16406,7 @@
 ||yundabao.net.cn
 ||yungou86.com
 ||yunjinyaju.com
+||yunniukd.com.cn
 ||yunsh.cc
 ||yunyoulu.com
 ||yunyusky.cn
@@ -16626,6 +16666,7 @@
 ||zerotimes.net
 ||zeroww.co
 ||zeshan168.com
+||zetofun.com.cn
 ||zevteqj.cn
 ||zezhouhong.com
 ||zfb5.com
