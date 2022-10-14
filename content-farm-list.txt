@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221013
+! Version: 20221014
 ! Expires: 3 days
 
 ! Content farm
@@ -94,6 +94,7 @@
 ||0523sp.com
 ||0527abc.com
 ||0527yc.com
+||0531jxsl.com
 ||0531tclg.com
 ||0539dk.com
 ||0543qc.com
@@ -355,6 +356,7 @@
 ||1837283.cn
 ||1888dj.com
 ||189qt.com
+||18comic.vip
 ||190avnue.co
 ||191cs.cn
 ||191zy.cn
@@ -548,6 +550,7 @@
 ||2559722.com
 ||256930.com
 ||2587862.com
+||258porn.com
 ||25cr2ni4w.com
 ||25umb5.cn
 ||2612610.com
@@ -577,6 +580,7 @@
 ||272422.com
 ||28.sc.cn
 ||2828sj.co
+||2886715.com
 ||289a.com
 ||28f57.com
 ||28hyl.com
@@ -639,6 +643,7 @@
 ||3288bet.co
 ||3299456.cn
 ||33104.cn
+||3324y.com
 ||332gd.cn
 ||334422.co
 ||3344333.co
@@ -920,9 +925,12 @@
 ||4836524.com
 ||48430.cn
 ||488ck9ima.xyz
+||490ii.com
 ||4910.com
 ||499sk44d.cn
+||499uu.co
 ||49enu3.cn
+||4b4zu4.cyou
 ||4beaumont.buzz
 ||4bisblw.cn
 ||4bulldogs.buzz
@@ -935,6 +943,7 @@
 ||4desserts.buzz
 ||4dgarch.buzz
 ||4dkmbza.cn
+||4dog.info
 ||4dophpv.cn
 ||4e0zj7u.cn
 ||4easyweb.buzz
@@ -1013,6 +1022,7 @@
 ||51zdzq.com
 ||51zongji.com
 ||51zxcl.com
+||520name.com
 ||520renjie.com
 ||520shoping.com
 ||52114.org
@@ -1047,6 +1057,7 @@
 ||528883.co
 ||52aika.com
 ||52apin.com
+||52binzhou.com
 ||52dbdi.cn
 ||52dcr.com
 ||52dlsq.com
@@ -1057,6 +1068,7 @@
 ||52hnncw.com
 ||52huitang.com
 ||52ptt.com
+||52pzqk.com
 ||52station.com
 ||52tfutr.cn
 ||52wbt.com
@@ -1095,6 +1107,8 @@
 ||5610930.cc
 ||5611061.cc
 ||5611161.cc
+||562578.com
+||562ax.com
 ||5634111.com
 ||565zt2.cn
 ||568159.com
@@ -1249,6 +1263,7 @@
 ||686511.com
 ||686513.com
 ||686763.com
+||686842.com
 ||686983.com
 ||688yf.cn
 ||689xpj.com
@@ -1256,6 +1271,7 @@
 ||68csj.com
 ||68ej0nn.cn
 ||68pyy7k.cn
+||68shu.cn
 ||68sxtc.com
 ||68xcw.com
 ||69700008.com
@@ -1282,6 +1298,7 @@
 ||6uodaily.com
 ||6uodailynews.com
 ||6uonewsdaily.com
+||6uy.fit
 ||6v1nipj.cn
 ||6v5s3je.cn
 ||6wunk205gk.blog.fc2.com
@@ -1333,6 +1350,7 @@
 ||76likyx.cn
 ||7701238.com
 ||771k52p.cn
+||773kp.vip
 ||7761551.com
 ||777enterprise.buzz
 ||77qi.xyz
@@ -1358,6 +1376,7 @@
 ||79umi0z.cn
 ||7a7a7a.co
 ||7aj4vik.cn
+||7bet888.co
 ||7c39ui.cyou
 ||7chetuan.com
 ||7cka.com
@@ -1558,6 +1577,7 @@
 ||95eo.com
 ||95lady.com
 ||9616x.com
+||963fz.com
 ||971700.com
 ||973web.buzz
 ||975hus.cn
@@ -1589,9 +1609,11 @@
 ||99bizhi.com
 ||99bookgame.com
 ||99caipiaoyl.cn
+||99pp83.com
 ||99ppc.cn
 ||99sf.org.cn
 ||99suliao.com
+||99zhenren.co
 ||9a7b83.com
 ||9alife.com
 ||9ct156h.cn
@@ -1696,6 +1718,7 @@
 ||aagov.shop
 ||aalaicc.com
 ||aalsw.com
+||aap5.com
 ||aasou.cc
 ||aastar.co
 ||abba-escorts.buzz
@@ -1816,6 +1839,7 @@
 ||against24.blogspot.*
 ||agame01.com
 ||age-redesign.com
+||agencyfordogs.eu
 ||agentura-atlas.cz
 ||aggw3fw.cn
 ||aglukon.co
@@ -1990,6 +2014,7 @@
 ||amercoffee.buzz
 ||americaexample.xyz
 ||americankidswear.buzz
+||americansnowmobile.com
 ||americantowns.com
 ||ameridrvice.co
 ||amerrole892.com
@@ -2005,6 +2030,7 @@
 ||amphioninternational.buzz
 ||amplshsh.co
 ||amtt.cc
+||amusing.pub
 ||amwo2o.com
 ||amww.cc
 ||an-la.ch
@@ -2026,6 +2052,7 @@
 ||andybarphy.me
 ||andysebastian.me
 ||andysutt22644.pixnet.net
+||andywarholwatch.com
 ||anercn.com
 ||angelalbum.buzz
 ||angelande6490.pixnet.net
@@ -2060,6 +2087,7 @@
 ||anonymous-proxy.buzz
 ||anonymousjuice.buzz
 ||anpaicao.cn
+||anrevika.lt
 ||anrezg.com
 ||ansambelzrgon.co
 ||answer-king.com
@@ -2087,6 +2115,7 @@
 ||aobo3.co
 ||aobo5.co
 ||aobo55.co
+||aobo88888.co
 ||aobwfwglechri.pixnet.net
 ||aodumm.cn
 ||aoeset.cn
@@ -2154,6 +2183,7 @@
 ||aqtt.cc
 ||aquacool-gaffney.buzz
 ||aquaoxygnae.co
+||ar-gos.in
 ||ar3326k.cn
 ||arabian-gallery.buzz
 ||arabicmoviesdirect.buzz
@@ -2223,8 +2253,10 @@
 ||asians-xxx.buzz
 ||ask.com
 ||ask.sov5.cn
+||askleather.com
 ||asklight.cn
 ||askraft.buzz
+||askshould.com
 ||askypu.cn
 ||asnn.cc
 ||aspecialsomething.me
@@ -2274,6 +2306,7 @@
 ||autocheckvin.buzz
 ||autoescuelalaureano.es
 ||autofficinaroma.rm.it
+||autohandel-xenia.de
 ||autonetonline.buzz
 ||autotimeit.buzz
 ||auuur.com
@@ -2282,12 +2315,15 @@
 ||avbo.shop
 ||avenuetosuccess.buzz
 ||avkoc33.cn
+||avle.xyz
 ||avninga.co
 ||avogov.com
+||avvocatoluigifalcone.it
 ||avwife.xyz
 ||avzwbiv.cn
 ||aw10kq.cn
 ||aw35062812.blog.fc2.com
+||awesomewalls.info
 ||awesomz.me
 ||awf81yl36p.blog.fc2.com
 ||awilwave.co
@@ -2434,6 +2470,7 @@
 ||b9vrt9hrz9.pixnet.net
 ||b9xpt1d3tp3.pixnet.net
 ||b9zll1dznf.pixnet.net
+||ba0088.co
 ||ba1111.co
 ||ba1122.co
 ||babiesjh.com
@@ -2461,14 +2498,17 @@
 ||baifusy.com
 ||baijiabo365.com
 ||baijiaie.co
+||baike.com
 ||bailang.co
 ||baileyrobin.buzz
 ||bailliphornay.co
+||bailong.pub
 ||bailubufa.com
 ||baipat.com
 ||baisex.co
 ||baishengmedia.cn
 ||baiweisao.com
+||baixardownload.in
 ||baixsb.cn
 ||baiyidaijia.com
 ||baiyongqin.cc
@@ -2489,7 +2529,9 @@
 ||bananadaily.net
 ||bananarivfishng.co
 ||bandwidth9.buzz
+||banfaji.com
 ||banfun.cn
+||bangbang.pub
 ||bangbogl.com
 ||bangdezs.com
 ||banginbooty.buzz
@@ -2567,7 +2609,9 @@
 ||bbxvb93199.pixnet.net
 ||bbxyzs.com
 ||bc30083697.pixnet.net
+||bc648.in
 ||bccelue.com
+||bccpackermover.com
 ||bcgdst.com
 ||bclvlbf.cn
 ||bcqaw.com
@@ -2668,10 +2712,12 @@
 ||betermondo.com
 ||bethelroadsweepers.buzz
 ||bethtyon.co
+||betiche.com
 ||betriebspaedagogik.buzz
 ||betteeam.co
 ||bettymanod.pixnet.net
 ||betweengos.com
+||betwin999.in
 ||beulahvz481.blog.fc2.com
 ||beyondbookkeeper.buzz
 ||beyondnewsnet.com
@@ -2747,6 +2793,7 @@
 ||binfun.cn
 ||biniang.co
 ||binjiangjx.com
+||biobu.it
 ||biol02.cn
 ||biotradefair.buzz
 ||birra-club.buzz
@@ -2793,6 +2840,7 @@
 ||bjkwin148.pixnet.net
 ||bjlwjc.com
 ||bjmileland.com
+||bjqgkm.com
 ||bjrsgd.com
 ||bjsc139.com
 ||bjsglt.xyz
@@ -2933,6 +2981,7 @@
 ||boosuccess.org
 ||booswr.cn
 ||borasweb.buzz
+||borsa-pazardjik.in
 ||borsa-pazardjik.info
 ||bos119.com
 ||bossiercountry.buzz
@@ -3025,6 +3074,7 @@
 ||btlhxzz.com
 ||btnf6vx31f.blog.fc2.com
 ||btt33vt33j.blog.fc2.com
+||bttzyw53.com
 ||btvalleeduloir.co
 ||bty571.com
 ||bu3veroniciru.pixnet.net
@@ -3041,6 +3091,7 @@
 ||buitragonotaria.buzz
 ||bujincycy.co
 ||bulinwh.com
+||bulkybaba.com
 ||bullticle.com
 ||bultrier.me
 ||bumbbbls.co
@@ -3177,6 +3228,7 @@
 ||c9s7w6.wordpress.com
 ||c9t87ml.cn
 ||c9ugg1lvhs.blog.fc2.com
+||cableav.tv
 ||caca.press
 ||cacanews.com
 ||cache.one
@@ -3199,6 +3251,7 @@
 ||cajuncodies.me
 ||cakealitore.me
 ||cakemaster.cn
+||calcubuilder.com
 ||califoestment.co
 ||california-german-shepherds.com
 ||calyxcare.buzz
@@ -3215,6 +3268,7 @@
 ||candymush.com
 ||cangkool.com
 ||cangzhou8.cn
+||canyinms.com
 ||capitalretro.buzz
 ||captchaless.top
 ||captivamortgage.buzz
@@ -3253,6 +3307,7 @@
 ||cassandjohngr.pixnet.net
 ||cassanjeasod.pixnet.net
 ||castle-cctv.cn
+||castlel.com
 ||castroan64876.pixnet.net
 ||castsg.com
 ||cat3uwkarcmuf.pixnet.net
@@ -3431,6 +3486,7 @@
 ||childefish.com
 ||childrenplayfun.com
 ||china-life.buzz
+||china-stemmata.com
 ||chinaaepl.com
 ||chinadaily.tw
 ||chinahot.org
@@ -3506,6 +3562,7 @@
 ||cityggmm.cn
 ||cityhomesatlanta.buzz
 ||cityzx.cn
+||ciu4.com
 ||civbvh.cn
 ||ciyun.life
 ||cizsjedx.cn
@@ -3594,11 +3651,13 @@
 ||cnls8.com
 ||cnmeil.com
 ||cnpentair.cn
+||cnporcelain.net
 ||cnpython.com
 ||cnread.news
 ||cnreon.com
 ||cnsasj.com
 ||cnvbea.cn
+||cnyangniu.net
 ||cnyyop.co
 ||cnzzcdn.com
 ||coachinga01.com
@@ -3655,6 +3714,7 @@
 ||codertw.com
 ||codetd.com
 ||codewdw.com
+||codingdict.com
 ||codingnote.cc
 ||codyadamfe.pixnet.net
 ||coffee143307469.wordpress.com
@@ -3705,6 +3765,7 @@
 ||contw.co
 ||contw.com
 ||cooco.pixnet.net
+||cooctour.shop
 ||cookcntral.co
 ||cooker01.com
 ||cookinvdeo.co
@@ -3753,6 +3814,7 @@
 ||cpna.tw
 ||cpon3.online
 ||cpt78linphili.pixnet.net
+||cpumicromart.com
 ||cq3t.com
 ||cq9f7.pixnet.net
 ||cqcpcy.com
@@ -3808,6 +3870,7 @@
 ||crystalclrradio.co
 ||cs1121.com
 ||cs5vy3p.cn
+||cs608.co
 ||cscorigin.com
 ||csdake.com
 ||csdetec.com
@@ -3828,6 +3891,7 @@
 ||csseoxm.com
 ||cswiipiu03.com
 ||csxbd.com
+||ct10000.com
 ||ct32d2o.cn
 ||ctchoops.buzz
 ||ctfwikp.buzz
@@ -3937,6 +4001,7 @@
 ||czxinwen.com
 ||czxmmj.com
 ||czzrui.com
+||czzuanjing.com
 ||czzxtl.com
 ||czzymy.com
 ||d.zymrg.com
@@ -4109,9 +4174,11 @@
 ||danengtzs.com
 ||danielconneo5.pixnet.net
 ||danieljun7788.pixnet.net
+||danmec.xyz
 ||dannyj8qu2sp.pixnet.net
 ||dannyw408f6cb.blog.fc2.com
 ||dansww.buzz
+||danvsheng.com
 ||daogoutuan.com
 ||daosuchaokuai.cn
 ||daoyu.me
@@ -4119,6 +4186,7 @@
 ||dapb.cc
 ||dape.cc
 ||dapg.cc
+||daping.club
 ||dapx.cc
 ||daquandaquan.com
 ||dariesias.me
@@ -4133,6 +4201,7 @@
 ||datansuo.net
 ||datatianji.com
 ||datianlong.cn
+||datingtipsnetwork.com
 ||datougou.cn
 ||dauc.cc
 ||daueac.co
@@ -4160,6 +4229,7 @@
 ||dazhuanlan.com
 ||db55vz1j.blog.fc2.com
 ||db5ds.com
+||dbaia.co
 ||dbbsfs.cn
 ||dbghelp.online
 ||dbgt57sot.pixnet.net
@@ -4258,10 +4328,12 @@
 ||desou.cc
 ||desperately.site
 ||deteco.pl
+||detroitediblecbd.com
 ||dev4living.com
 ||developpaper.com
 ||developreference.com
 ||devfgrt.com
+||device-variety.xyz
 ||devk-agentur.buzz
 ||deyi.com
 ||deyitea.cc
@@ -4285,6 +4357,7 @@
 ||dgdaheng.cn
 ||dgdongrong.cn
 ||dgguangcheng.cn
+||dggyjs.com
 ||dghairong.cn
 ||dghfhjf15jik.blogspot.*
 ||dghongen.cn
@@ -4510,6 +4583,7 @@
 ||dreamwe1.com
 ||dresource.cn
 ||drfdlnznnzbd.blog.fc2.com
+||dripholx.co
 ||drlvx15551.pixnet.net
 ||drol248.pixnet.net
 ||dropsdai.com
@@ -4523,9 +4597,11 @@
 ||ds9zskq.cn
 ||dsafasff.cn
 ||dscswl8.com
+||dsdownload.co
 ||dsevr.com
 ||dsfgfhg12.blogspot.*
 ||dsfyzx.com
+||dsj003.co
 ||dsj51.com
 ||dsjhd2.cn
 ||dsmmjd.com
@@ -4533,6 +4609,7 @@
 ||dsoftwaepodcs.co
 ||dsrfo411vl.pixnet.net
 ||dsy39.com
+||dsz31.com
 ||dt813.com
 ||dtdsnx.com
 ||dtime.com
@@ -4829,6 +4906,7 @@
 ||eleanoy14e60a.pixnet.net
 ||elecstar.cn
 ||electricgreetings.buzz
+||electricscooters.info
 ||electronicstrip.buzz
 ||element-ui.cn
 ||elemw.cn
@@ -4941,6 +5019,7 @@
 ||eroms.cn
 ||eroomin.com
 ||erraztiltza.co
+||errom5.cyou
 ||ersutsim.co
 ||ertegrt.com
 ||ertod.com
@@ -4967,6 +5046,7 @@
 ||et47615272.pixnet.net
 ||et52106494.pixnet.net
 ||et66424950.pixnet.net
+||etalon-lis.com
 ||ete5803xke.blog.fc2.com
 ||ete68e1.cn
 ||etf-world.buzz
@@ -5190,6 +5270,7 @@
 ||fabioinghiramiwatch.buzz
 ||fabrizpiclla.co
 ||facecg.com
+||fachservice.eu
 ||factoriiz.co
 ||faf.in.net
 ||faf.plus
@@ -5232,6 +5313,7 @@
 ||fanzhitech.com
 ||faqs.tw
 ||farmerb7760.pixnet.net
+||farrisevents.com
 ||fas68s6sf12.com
 ||fashionmanbuy.blogspot.*
 ||fashionwaltz.com
@@ -5341,6 +5423,7 @@
 ||ff57553917.pixnet.net
 ||ff8yns.cn
 ||ffdcny.buzz
+||ffdshow.co
 ||ffff518.com
 ||ffg0p84.cn
 ||ffl45sw52q.pixnet.net
@@ -5374,6 +5457,7 @@
 ||fiat600ricambi.fr
 ||fibrenet.cn
 ||fidabc926.pixnet.net
+||fidapcodcom.fr
 ||fifth028.com
 ||fightertify.com
 ||fijvlydialoui.pixnet.net
@@ -5382,6 +5466,7 @@
 ||file007.com
 ||filemoku.com
 ||filesmac.com
+||filmdatabase.in
 ||filtrago.buzz
 ||finance.nx04.com
 ||financesky.cn
@@ -5446,7 +5531,9 @@
 ||fl19767199.pixnet.net
 ||fl99v97hdvv.pixnet.net
 ||flamingows.com
+||flimzone.com
 ||fll8.cn
+||flmd.in
 ||flnxxzfxhfjd.blog.fc2.com
 ||flogwear.buzz
 ||floranth.co
@@ -5472,6 +5559,7 @@
 ||fnd59dl11r.blog.fc2.com
 ||fnd8.cn
 ||fnephu273.pixnet.net
+||fngabs.xyz
 ||fni81zz02v.blog.fc2.com
 ||fnkjw.com
 ||fno1w7julifkv.pixnet.net
@@ -5538,11 +5626,13 @@
 ||franktherossj.pixnet.net
 ||franziskus-kinderhaus.de
 ||frat-movie.buzz
+||fratelli-italialombardia.it
 ||freakyboards.pl
 ||freax.be
 ||frecksbingandgas.co
 ||frednbf5dqm7w.pixnet.net
 ||fredpeterpxc.pixnet.net
+||free.hr
 ||freedomymqcb.sa.com
 ||freeguo.com
 ||freejobalerts24.com
@@ -5702,6 +5792,7 @@
 ||fzpa18.cn
 ||fzrui637tq.pixnet.net
 ||fzsmlcn.com
+||fzvril.xyz
 ||fzxunjie.com
 ||g.odam.us
 ||g0bcd5.cn
@@ -5778,6 +5869,7 @@
 ||gailarnoldray.pixnet.net
 ||galacticwraps.at
 ||galenachef.it
+||galiaoba.com
 ||galleri50.com
 ||game2.tw
 ||gamecasa.cn
@@ -5903,12 +5995,14 @@
 ||gi62.com
 ||gibps6q.cn
 ||giffinfinancial.buzz
+||gift-lys.com
 ||giftflower.com
 ||gifts-of-time.buzz
 ||gifttagtw.com
 ||gigacircle.com
 ||gigcasa.com
 ||gik48tq35k.blog.fc2.com
+||gilakoo.com
 ||ginafiroa.co
 ||ginseemore.live
 ||girard-lakecity.buzz
@@ -6032,6 +6126,7 @@
 ||gonglue123.com
 ||gongshixuexi.com
 ||gongyige.com
+||gongyilvshi.com
 ||gonzomura.cc
 ||gonzosky.com
 ||goo.cafe
@@ -6041,6 +6136,7 @@
 ||good635.wordpress.com
 ||goodarticle.life
 ||goodgoodread.com
+||goodhoa.me
 ||goodlifeyou.bumbnews.com
 ||goodmastegve0.pixnet.net
 ||goodmeihao.com
@@ -6070,6 +6166,7 @@
 ||goyeah.tw
 ||gp44512935.pixnet.net
 ||gp5vllt.cn
+||gpbctv.com
 ||gpqii.com
 ||gpseiok.com
 ||gpsvo.com
@@ -6080,6 +6177,7 @@
 ||gq22.cn
 ||gqbtwld.com
 ||gqd90bq72e.blog.fc2.com
+||gqtod.com
 ||gqx7978732re.wordpress.com
 ||gr80611263.pixnet.net
 ||gra55ajessisv.pixnet.net
@@ -6214,6 +6312,7 @@
 ||gxdy168.com
 ||gxfunnyworld.com
 ||gxjygg.com
+||gxlzxx.com
 ||gxnmw.cn
 ||gxqm5.com
 ||gxqxd.com
@@ -6308,6 +6407,7 @@
 ||h1x1h13xv3.pixnet.net
 ||h1zfd3b1jvd.blog.fc2.com
 ||h1zfd3nrbt.blog.fc2.com
+||h2333.us
 ||h265r.cn
 ||h2oov070.pixnet.net
 ||h2oplus.com.tw
@@ -6439,6 +6539,7 @@
 ||haoboyz.com
 ||haocaizhan.com
 ||haoduihao.com
+||haofang365.com
 ||haohao16.com
 ||haohetech.com
 ||haojdwx.com
@@ -6696,6 +6797,7 @@
 ||hfwhzy.com
 ||hfxcbg.com
 ||hfzhuochen.com
+||hg-ent.co
 ||hg0032.cn
 ||hgds688.com
 ||hgo8090.com
@@ -6738,6 +6840,7 @@
 ||historical-cycling.buzz
 ||historymore.com
 ||historyslice.com
+||hitma.shop
 ||hittt-fun.blogspot.*
 ||hittt.blogspot.*
 ||hivaoapearllodge.buzz
@@ -6928,6 +7031,7 @@
 ||hottimes.org
 ||hotvdo.info
 ||hotxww.com
+||hotyoga888.com
 ||housekook.com
 ||houseword.com
 ||houtaiyun.com
@@ -6949,6 +7053,7 @@
 ||hpapt.cn
 ||hpb1fx79.blog.fc2.com
 ||hpecopu.cn
+||hpfsas.com
 ||hphbr33539.pixnet.net
 ||hportersystms.co
 ||hpto.cc
@@ -7089,6 +7194,7 @@
 ||hx502.com
 ||hx55828303.pixnet.net
 ||hxcm576.com
+||hxcmcm.xyz
 ||hxd256.com
 ||hxf9hx31.blog.fc2.com
 ||hxfw2008.com
@@ -7243,6 +7349,7 @@
 ||ib65193469.pixnet.net
 ||ibaobaoche.com
 ||ibeenker.com
+||ibestchoice.com
 ||ibizfree.co
 ||ibizsadise.co
 ||ibj.tw
@@ -7250,6 +7357,7 @@
 ||ibrahimzs708.wordpress.com
 ||icam8.com
 ||icanw.cn
+||icarusqaq.club
 ||iccie.tw
 ||iccstage.com
 ||icdxh.cn
@@ -7257,6 +7365,7 @@
 ||icemaker17880326.wordpress.com
 ||icgelxo.cn
 ||ichiryuhk.com
+||ichrak.net
 ||ichunqing.com
 ||iclinking.com
 ||icnmall.com
@@ -7296,6 +7405,7 @@
 ||ifanhuaji.com
 ||ifc16o5deniln.pixnet.net
 ||ifcg9r.cn
+||ifstto.xyz
 ||iftqffdv.cn
 ||ifun01.com
 ||ifunblog.com
@@ -7309,6 +7419,7 @@
 ||igdjvjf.cn
 ||igdmcwn.cn
 ||igfvt.ch
+||igkbet.us
 ||igotojapan.com
 ||igrapoker.buzz
 ||igservizi.buzz
@@ -7401,6 +7512,8 @@
 ||injurylawyernewportnews.com
 ||inkworker.com
 ||inletexemc.shop
+||inletexemc.us
+||inn-train.com
 ||inndulgehotel.buzz
 ||innerloop-prod.buzz
 ||innxm.com
@@ -7703,6 +7816,7 @@
 ||j9zhj7pfrz.pixnet.net
 ||jabal-umar.buzz
 ||jabir4721.pixnet.net
+||jable.tv
 ||jablehk.co
 ||jack-in-the-box.jp.net
 ||jackasswax.buzz
@@ -7725,6 +7839,7 @@
 ||japanbignew.es
 ||japanbooks.in.net
 ||japannowonline.fr
+||japanse.co
 ||japare.com
 ||jasve.com
 ||javacodeqa.cc
@@ -7782,6 +7897,7 @@
 ||jeanetr8rd7ha.pixnet.net
 ||jeanjennin68.wordpress.com
 ||jeanneoffbks.co
+||jeepxie.net
 ||jefferdebbinl.pixnet.net
 ||jeffersonwz617.wordpress.com
 ||jeffhildebrand.buzz
@@ -7800,6 +7916,7 @@
 ||jertcm.com
 ||jessiereyno10.pixnet.net
 ||jesslininteriors.buzz
+||jessymoreira.com
 ||jesushelbreder.buzz
 ||jesusjunction.buzz
 ||jet-ex-logistic.buzz
@@ -7895,6 +8012,7 @@
 ||jingpd.com
 ||jingrun888.com
 ||jingtiantx.com
+||jingtonggy.com
 ||jingyan88.cn
 ||jingyanbus.com
 ||jingzhou88.cn
@@ -7925,10 +8043,12 @@
 ||jj-romance.com
 ||jj249.cn
 ||jj41409976.pixnet.net
+||jj910.co
 ||jj930.co
 ||jj930.us
 ||jj950.co
 ||jj950.us
+||jjbkw.com
 ||jjgw86.com
 ||jjhrt.net
 ||jjkangdi.com
@@ -7986,6 +8106,7 @@
 ||jmxb6brownbng.pixnet.net
 ||jmzhongda.cn
 ||jmzpqy.com
+||jn0511.us
 ||jn38800.com
 ||jnd38.pixnet.net
 ||jngk4d4.cn
@@ -8020,6 +8141,7 @@
 ||jojavierfy5.pixnet.net
 ||jojo5.com
 ||jojon.cn
+||jok.cool
 ||jokeblog.tv
 ||jokerhuman.com
 ||jokestoyou.buzz
@@ -8028,6 +8150,7 @@
 ||jonathatjbl.pixnet.net
 ||jonathnicolyc.pixnet.net
 ||jonesg864tsy.pixnet.net
+||jonketiah.com
 ||jonlovefood.com
 ||jonygame.com
 ||joo51k1.pixnet.net
@@ -8363,6 +8486,7 @@
 ||kawauso-net.buzz
 ||kayap4c16m4y2.pixnet.net
 ||kb113dh.cn
+||kbexapp.co
 ||kbie4ab.cn
 ||kbkb7.com
 ||kbo.tw
@@ -8382,6 +8506,7 @@
 ||kdlcaie.cn
 ||kdnugv.cn
 ||ke2t7bwebbab6.pixnet.net
+||ke55555.in
 ||ke72298639.pixnet.net
 ||ke88888.co
 ||ke97374781.blog.fc2.com
@@ -8391,6 +8516,7 @@
 ||keecnya.xyz
 ||keeping-health.com
 ||kefu111.cn
+||keikey.com
 ||keithbevehymf.pixnet.net
 ||keke01.net
 ||kekeplays.cc
@@ -8507,6 +8633,7 @@
 ||kmbqzw.co
 ||kmbvpjo.cn
 ||kmbymh.co
+||kmcha.com
 ||kmcits0377.com
 ||kmdmy.cn
 ||kmdqwys.cn
@@ -8571,6 +8698,7 @@
 ||kpraise.com
 ||kpwovem.cn
 ||kpzs.com
+||kpzsg.com
 ||kq3hxcw3.pixnet.net
 ||kq68.cn
 ||kq82.cn
@@ -8590,6 +8718,7 @@
 ||ks-photo.me
 ||ks316.cn
 ||ks745.com
+||ks8625.com
 ||ks903m1.pixnet.net
 ||kshjzz.com
 ||ksjd13.cn
@@ -8798,6 +8927,7 @@
 ||lalouve.buzz
 ||lam777.com
 ||lamberdu84571.pixnet.net
+||lanabel.co
 ||lanaranja.cl
 ||lancekatdwn2.pixnet.net
 ||landisem.com
@@ -8832,6 +8962,7 @@
 ||lav4317owr.pixnet.net
 ||lawkoo.com
 ||lawtagtw.com
+||lazio.it
 ||lazyjerry.com
 ||lb060.com
 ||lb1323.club
@@ -8860,6 +8991,7 @@
 ||lcyama.com
 ||lcz888.com
 ||ld13449563.pixnet.net
+||ld3388.co
 ||ld6494ep16.blog.fc2.com
 ||ld969.com
 ||ldc0.com
@@ -8868,6 +9000,7 @@
 ||ldd91ld31z.blog.fc2.com
 ||ldjljmh.cn
 ||ldkwi.top
+||ldlconsultinginc.com
 ||ldlgzs.com
 ||ldmeyjimmyjed.pixnet.net
 ||ldnpslv.cn
@@ -8897,6 +9030,7 @@
 ||lefx.cc
 ||legfinz.buzz
 ||legrandpiege.buzz
+||lehewi.xyz
 ||lehu66.cn
 ||lehuotuan.com
 ||leifengtv.com
@@ -8915,6 +9049,7 @@
 ||lepetitcadenas.fr
 ||leps.me
 ||lerunsteel.com
+||lerutle.com
 ||lerw.ru
 ||lesartisansdubio.fr
 ||lesliehigg00m.pixnet.net
@@ -8927,6 +9062,7 @@
 ||levigrey.buzz
 ||lewisdontrfj.pixnet.net
 ||leyendatour.buzz
+||lezzet-lokantasi.com
 ||lf82.cn
 ||lf998.com
 ||lfhowshare.com
@@ -9008,6 +9144,7 @@
 ||likecs.com
 ||likedeer.com
 ||likelife365.com
+||likestar.pub
 ||liliang.info
 ||lilliawilliev.pixnet.net
 ||lilligrce.co
@@ -9021,6 +9158,7 @@
 ||linexcorpschrsti.co
 ||lingerieorless.buzz
 ||linghaolou.com
+||lingqiao.cc
 ||lingxi8.com
 ||linhejiu.com
 ||linhwaa.com
@@ -9035,6 +9173,7 @@
 ||linyuanfs.com
 ||lipcvk.me
 ||liqijmg.com
+||liqun6.com
 ||liquorloveyou.com
 ||lir29sm97g.pixnet.net
 ||lirenfs.com
@@ -9117,9 +9256,11 @@
 ||lnx55zb91p.blog.fc2.com
 ||lnzzkj.com
 ||loansbutton.xyz
+||loanslooking.xyz
 ||loansnothing.xyz
 ||loansresponse.xyz
 ||loanssales.xyz
+||loanswarning.xyz
 ||loansyoung.xyz
 ||localnplurs.co
 ||locks.wiki
@@ -9130,6 +9271,7 @@
 ||logiqx.me
 ||loituma.co
 ||loivcs.xyz
+||lolacg.shop
 ||lolafinea.co
 ||lolclothng.co
 ||loldlle.com
@@ -9276,6 +9418,7 @@
 ||lujuba.cc
 ||lukoince.co
 ||lulugaobag.com
+||lululu.one
 ||lunbet.co
 ||lunmm.com
 ||lunsui.com
@@ -9309,6 +9452,7 @@
 ||lxix95211230ji.wordpress.com
 ||lxmt168.cn
 ||lxmweb.cn
+||lxnxw.com
 ||lxvp31bj.wordpress.com
 ||ly44201348.pixnet.net
 ||lybtlgs.com
@@ -9317,10 +9461,12 @@
 ||lydgas.com
 ||lydialong4921.pixnet.net
 ||lydimei.com
+||lyglive.club
 ||lygmj.com
 ||lygzywl.com
 ||lyishu.com
 ||lyjdls.com
+||lyjizd.xyz
 ||lyjwb.com
 ||lyjyzl.co
 ||lylxwuliu.com
@@ -9613,8 +9759,11 @@
 ||mdgh8mn.cn
 ||mdk85be66f.blog.fc2.com
 ||mdkp617.pixnet.net
+||mdkpw.com
+||mdlftl.xyz
 ||mdna-used-machines-locator.buzz
 ||mdndy.com
+||mdny.vip
 ||mdrealtyteam.buzz
 ||mdscubasw.co
 ||mdshkltd.com
@@ -9633,6 +9782,7 @@
 ||medialnk.co
 ||medialnk.com
 ||mediatagtw.com
+||medical-textbook-deals.in
 ||medistaryn.com
 ||meditatioore.co
 ||meetptt.com
@@ -9739,6 +9889,7 @@
 ||mili010.net
 ||milkhndgifts.co
 ||millerthut7.pixnet.net
+||millionairebusinesscreditbootcamp.com
 ||miltonbeatyie.pixnet.net
 ||miltonlouisut.pixnet.net
 ||milubuy.com
@@ -9757,6 +9908,7 @@
 ||minnielylfly.pixnet.net
 ||mintcx.com
 ||minutepatternbook.xyz
+||miohco.co
 ||mip.gb.net
 ||mip.xinnet.com
 ||miriamlaurdai.pixnet.net
@@ -9790,6 +9942,7 @@
 ||mjsq.me
 ||mjsq.men
 ||mjsq.one
+||mjsq.xyz
 ||mjsq1.in
 ||mjsq1.net
 ||mjsq10.net
@@ -10027,6 +10180,7 @@
 ||my0546.com
 ||my697.com
 ||my74158876.pixnet.net
+||my7475.com
 ||myaladdin.cn
 ||myangkare.co
 ||mybezza.live
@@ -10087,6 +10241,7 @@
 ||mzssc.com
 ||mzv84nv.cn
 ||n01wk42.pixnet.net
+||n02x.net
 ||n0azhi0.cn
 ||n0cpvq.cn
 ||n0pib456iy1.blog.fc2.com
@@ -10251,6 +10406,7 @@
 ||nbsd0923.com
 ||nbssmy.cn
 ||nbtfglxs.com
+||nbtscan.co
 ||nbtv.tw
 ||nbxiyaf.cn
 ||nbyoho.com
@@ -10314,6 +10470,7 @@
 ||newdragonhostelbeijing.cn
 ||newerawire.com
 ||newheel.fr
+||newipad.co
 ||newlife.sale
 ||newmalaylife.com
 ||newmobilelife.com
@@ -10776,6 +10933,7 @@
 ||om05846367.blog.fc2.com
 ||om1pazq7lo.pixnet.net
 ||om81978416.pixnet.net
+||omalliancepackers.com
 ||omarwraikat.me
 ||omej439.pixnet.net
 ||omerdesser.buzz
@@ -10794,11 +10952,13 @@
 ||onb41kv10r.blog.fc2.com
 ||oncc.site
 ||onday.cc
+||oneal360.com
 ||onebea.com
 ||onefunnyjoke.com
 ||onehumanfamily.me
 ||oneinfo.tw
 ||onepiece520.com
+||oneprofile.info
 ||onepron.com
 ||onevendrange.co
 ||oneworld99.com
@@ -10989,6 +11149,7 @@
 ||p3i6k3bhr7.pixnet.net
 ||p3l1j7n9vnt.blog.fc2.com
 ||p3mfjhx.cn
+||p3nk.com
 ||p3rfx7rxn7.pixnet.net
 ||p3rhj3xxpv.pixnet.net
 ||p3rrj7n15f.pixnet.net
@@ -11104,6 +11265,7 @@
 ||panpans.cn
 ||pantd.com
 ||panyi.cc
+||panyjiu.co
 ||paoniu360.com
 ||paoshijian.com
 ||paoshijian.xyz
@@ -11231,6 +11393,7 @@
 ||pgj9648.pixnet.net
 ||pgq365.com
 ||pgtqcec.cn
+||ph1688.co
 ||ph1688.us
 ||ph2699.co
 ||ph4steven2470.pixnet.net
@@ -11252,6 +11415,7 @@
 ||phonesnotebooks.fc2.net
 ||photo-fax.buzz
 ||photocaro-inc.buzz
+||photocutout24.com
 ||photoproxi.buzz
 ||photosyu.com
 ||phphqc.cc
@@ -11280,6 +11444,7 @@
 ||pineapple99.com
 ||pingyan643681.pixnet.net
 ||pinkiyy.com
+||pinksands.in
 ||pinksands.shop
 ||pinkupost.com
 ||pinlue.com
@@ -11407,7 +11572,10 @@
 ||poporead.com
 ||poqna.top
 ||porn-girls.buzz
+||pornb.shop
+||pornbest.org
 ||pornl.co
+||pornlulu.com
 ||porno-rama.buzz
 ||pornolesbians.buzz
 ||pornovisio.buzz
@@ -11474,6 +11642,7 @@
 ||print-gs.ru
 ||printfinshingstre.co
 ||printfog.co
+||printingservices.info
 ||prisci61.pixnet.net
 ||privacyesgbt.ru.com
 ||privod.me
@@ -11790,6 +11959,7 @@
 ||qianyanxx.com
 ||qiaofiao.com
 ||qibinquzang.co
+||qicaisi.com
 ||qichejiashi.com
 ||qicheziliaoku.com
 ||qidaty.com
@@ -11800,10 +11970,13 @@
 ||qikan519.com
 ||qilook.com
 ||qimowly.top
+||qindaosou.com
 ||qingdaolaili.com
 ||qinggua.net
 ||qingkeyy.com
 ||qingpingshan.com
+||qingse.one
+||qingseav.xyz
 ||qingshi8.cn
 ||qinianqing.com
 ||qiq.jp.net
@@ -11830,6 +12003,7 @@
 ||qiuxuenet.com
 ||qiuyueseed.com
 ||qiv00vc00g.pixnet.net
+||qixin.com
 ||qiyeztc.com
 ||qizhaoyj.com
 ||qjh8.cn
@@ -12146,6 +12320,7 @@
 ||rainbowsluts.buzz
 ||raincolops.co
 ||raisu-engineering.buzz
+||rajaraj.com
 ||rajasthantrism.co
 ||rakurakulf.co
 ||ralphbettyron.pixnet.net
@@ -12299,6 +12474,7 @@
 ||rileyjonatq1.pixnet.net
 ||rio6180lst.blog.fc2.com
 ||rioslydia3085.pixnet.net
+||ririka.co
 ||risashi.pixnet.net
 ||risecny.buzz
 ||ritamedillx.pixnet.net
@@ -12510,6 +12686,7 @@
 ||rzghbuf.cn
 ||rzh53jb51b.blog.fc2.com
 ||rzhpv13537.pixnet.net
+||rzldn.com
 ||rzso047.pixnet.net
 ||rzt8.cn
 ||rzurl.com
@@ -12683,6 +12860,7 @@
 ||scqsnc.com
 ||scrapyarough.co
 ||screenty.com
+||scryale.me
 ||scsagr.com
 ||scshzy.cn
 ||scswv.com
@@ -12757,11 +12935,15 @@
 ||seoeol.com
 ||seopupil.com
 ||seortpa.co
+||seraphicclinic.com
+||serenbedding.com
 ||sergiofoto.lv
 ||sergiogwqx.pixnet.net
 ||seselu.co
+||sevgikurtulmaz.com
 ||sexcc.co
 ||sexptt.tk
+||sexstories.com
 ||sextoys-and-more.buzz
 ||sexyphotographs.buzz
 ||sezxlw.cn
@@ -12960,6 +13142,7 @@
 ||singalosicpot.co
 ||singaporeable.cc
 ||singificant.shop
+||singificant.us
 ||singledream.cn
 ||singlelettercry.top
 ||sino01.com
@@ -12972,6 +13155,7 @@
 ||sis8.com
 ||sitehonor.com
 ||siv6q88.cn
+||siyeqing.com
 ||sj41784819.pixnet.net
 ||sj4o.cc
 ||sj582j5x.pixnet.net
@@ -13026,6 +13210,7 @@
 ||slatersteel.buzz
 ||slco2.com
 ||slcukkafe.co
+||sleepingtabletz.com
 ||slide-away.buzz
 ||slixlfp.cn
 ||slobodapatient.me
@@ -13073,6 +13258,7 @@
 ||snvialla.xyz
 ||snyderalictr.pixnet.net
 ||so71732767.blog.fc2.com
+||socdad.co
 ||sodeog.com
 ||softwarebrother.com
 ||softwaresex.buzz
@@ -13086,6 +13272,7 @@
 ||sohopromo.buzz
 ||soikids.co
 ||soinside.com
+||solare-kuehlung.info
 ||solarthrmx.co
 ||soltysdrukuje.pl
 ||solutions-team.buzz
@@ -13158,6 +13345,7 @@
 ||sqn8.cn
 ||sqp.buzz
 ||squidoo.com
+||sqwyt.co
 ||sr0csj.cn
 ||sr0lsgr.cn
 ||sr1490.com
@@ -13184,6 +13372,7 @@
 ||ssjxhy.com
 ||ssnkr.cn
 ||sso.com.tw
+||sspapertech.com
 ||ssq02.com
 ||ssq13.com
 ||ssq38.com
@@ -13205,9 +13394,11 @@
 ||stargogo.com
 ||starlucky.cc
 ||starpark.tw
+||starrymaple.club
 ||starsign.club
 ||starsign.news
 ||startery.co
+||startips.in
 ||startnewstoday.com
 ||startunvas.co
 ||state-savings.buzz
@@ -13226,11 +13417,13 @@
 ||steffieshundesalon.ch
 ||steinlingaerten.ch
 ||stendon.co
+||step9999.shop
 ||step9999.us
 ||stephedq541h.pixnet.net
 ||stephenmiao.cn
 ||stepheph1xu46.pixnet.net
 ||steroidologia.com
+||stethalgia.shop
 ||stevenmichsan.pixnet.net
 ||steventi5nm0p.pixnet.net
 ||stewarjfk43.pixnet.net
@@ -13254,10 +13447,13 @@
 ||strickcmpp01.pixnet.net
 ||string.quest
 ||striveconfrnce.co
+||stroawp.co
 ||stroyka.me
 ||structcalc.buzz
+||sts6666.co
 ||sts6666.shop
 ||stud9dz.co
+||studentloansnow.info
 ||studio-parquet-paris.eu
 ||studiocavas.co
 ||studiodahu.com
@@ -13317,6 +13513,7 @@
 ||superclubs.com.cn
 ||superfun-e.com
 ||superncah.fit
+||superncar.fit
 ||support-hk.com
 ||supportdap.online
 ||supportph.com
@@ -13392,6 +13589,7 @@
 ||symsn1.top
 ||sync-computers.com
 ||syrugbypt.co
+||sysagri.fr
 ||sysbpgl.com
 ||syshizhi.com
 ||system-flow.xyz
@@ -13424,6 +13622,7 @@
 ||sz-hbs.cn
 ||sz13.cn
 ||sz22382283jiug.wordpress.com
+||szbjs88.com
 ||szcpyh.com
 ||szdazen.com
 ||szdiaoyi.com
@@ -13652,6 +13851,7 @@
 ||tatepaulbenja.pixnet.net
 ||tatest.cn
 ||tati-tatis.ru
+||tattoostar.fr
 ||tauckbridges.buzz
 ||tauckvacations4less.buzz
 ||tauklar.co
@@ -13762,6 +13962,7 @@
 ||theastrologypage.com
 ||thebmovierats.buzz
 ||thebowrin.co
+||thecharterhouseinn.com
 ||thecommonsdaily.tw
 ||thecrownvics.me
 ||thedesigver.co
@@ -13777,6 +13978,7 @@
 ||thegymcam.buzz
 ||thehealthdaily.org
 ||thehealther.com
+||theheightsmi.com
 ||theironnews.site
 ||thejee.co
 ||thejewelsry.co
@@ -13784,9 +13986,11 @@
 ||thelazy.me
 ||themerciergroup.buzz
 ||thenews.cc
+||thenoninfluencer.com
 ||theodoagurodr.pixnet.net
 ||theogreiner.buzz
 ||thepenguinsquad.buzz
+||theporndude.com
 ||thepunnel.me
 ||therapist-list.buzz
 ||therestdkw7.pixnet.net
@@ -13862,6 +14066,7 @@
 ||tio93ob80m.blog.fc2.com
 ||tioc167.pixnet.net
 ||tipelse.com
+||tirkhabar.com
 ||tisher98.co
 ||titanapply.com
 ||titanhde.co
@@ -13910,6 +14115,7 @@
 ||tkfwee.co
 ||tkjt999.com
 ||tklefpe.cn
+||tktube.com
 ||tl1485141yihu.wordpress.com
 ||tl3m8.pixnet.net
 ||tl77475712lian.wordpress.com
@@ -13995,6 +14201,7 @@
 ||touchingstory6.blogspot.*
 ||touchtech.tw
 ||toukmankn.co
+||toulouse2031.fr
 ||tousu.in
 ||toutiaohaowang.com
 ||toutiaosg.com
@@ -14076,6 +14283,7 @@
 ||truck-racks.buzz
 ||truenews.tw
 ||truschzinski.buzz
+||truthsocial.com
 ||trvhyxw.cn
 ||trvztx15r.pixnet.net
 ||trw10ty85b.pixnet.net
@@ -14094,6 +14302,8 @@
 ||tsw94ie76i.pixnet.net
 ||tsydys.com
 ||tsyhgp612.pixnet.net
+||tt1177.in
+||tt1177.us
 ||tt1d5qj.cn
 ||ttaaj.com
 ||ttd8.cn
@@ -14125,6 +14335,7 @@
 ||tudoudileii.com
 ||tues221394583.wordpress.com
 ||tuhanhan.com
+||tuita.co
 ||tum01nu20p.pixnet.net
 ||tuokehj.com
 ||turf-seed-china.buzz
@@ -14161,6 +14372,7 @@
 ||twcdq.me
 ||twd8.cn
 ||twenga.com
+||twfeq.com
 ||twfgfjgov.shop
 ||twgreatdaily.com
 ||twgreatdaily.fun
@@ -14231,6 +14443,7 @@
 ||tzhvj79733.pixnet.net
 ||tzm8.cn
 ||tzqfmy.com
+||tzrseo.com
 ||tzv19nj13z.blog.fc2.com
 ||tzv97pp31x.blog.fc2.com
 ||tzx11tb75j.blog.fc2.com
@@ -14331,6 +14544,7 @@
 ||uefprb290.pixnet.net
 ||uegqre.com
 ||uerelease.com
+||uesugitakayuki.com
 ||ueswq68446.pixnet.net
 ||uetie.com
 ||ueubzya.cn
@@ -14368,6 +14582,7 @@
 ||ukp76oa.cn
 ||ukuw0gi46c.pixnet.net
 ||ukz14jc83f.blog.fc2.com
+||ul0d0p.cyou
 ||ulcqin091.pixnet.net
 ||ulen8denis803.pixnet.net
 ||ulkhmiim.cn
@@ -14421,6 +14636,7 @@
 ||urlove.cc
 ||urontz.com
 ||urreply.info
+||us-them.com
 ||us749r8z.blog.fc2.com
 ||usa135.com
 ||usachinatech.buzz
@@ -14512,6 +14728,7 @@
 ||v2s5y3epyf.pixnet.net
 ||v2zpx67xgg.pixnet.net
 ||v36bbi1.pixnet.net
+||v3bet.us
 ||v3bln1zjj9.pixnet.net
 ||v3d5h9xpdv.pixnet.net
 ||v3d9v5npnt.pixnet.net
@@ -15034,6 +15251,7 @@
 ||weifx.cc
 ||weiji100.com
 ||weijiachen.club
+||weijy.com
 ||weilai-shop.cn
 ||weilan9.com
 ||weilong518.cn
@@ -15157,6 +15375,7 @@
 ||winourway.cn
 ||winstoncupscene.buzz
 ||winterhts.co
+||winthu.com
 ||wioau.com
 ||wise16.com
 ||wisegeek.com
@@ -15168,6 +15387,7 @@
 ||wj4leonardai.pixnet.net
 ||wjbex.cn
 ||wjbk.site
+||wjbkb.com
 ||wjbutton.cn
 ||wjimgji744.pixnet.net
 ||wjka001.com
@@ -15185,6 +15405,7 @@
 ||wla50se.cn
 ||wlccb.cn
 ||wli5m84.cn
+||wlku.com
 ||wlnewkj.com
 ||wlo7blaima.pixnet.net
 ||wloor.com
@@ -15276,6 +15497,7 @@
 ||wqoeiwpoqd.top
 ||wqzx.cc
 ||wrapetcompagnie-bordeaux.fr
+||wrgb.net
 ||wrie10hanse59.pixnet.net
 ||wrightramsnrb.pixnet.net
 ||wrq6ljg.cn
@@ -15396,6 +15618,7 @@
 ||wyt66.cn
 ||wyw3steebritt.pixnet.net
 ||wyyz72.co
+||wyyz72.in
 ||wz-cz.com
 ||wz636.cn
 ||wzbanjiags.com
@@ -15616,6 +15839,8 @@
 ||xh34860999.pixnet.net
 ||xha9rnc.cn
 ||xhbxgg.com
+||xhc888.co
+||xhc888.in
 ||xhf37.com
 ||xhfree.com
 ||xhg.net.cn
@@ -15675,6 +15900,7 @@
 ||xin33333.co
 ||xin66666.co
 ||xin66666.in
+||xinbada.info
 ||xinbocaifu.com
 ||xinchangda.com.cn
 ||xinchunzz.com
@@ -15752,6 +15978,7 @@
 ||xl59wz8g7l.blog.fc2.com
 ||xlcjz.com
 ||xld6688.co
+||xld9999.co
 ||xldph91319.pixnet.net
 ||xleag653ml.pixnet.net
 ||xlfinance.cn
@@ -15802,6 +16029,8 @@
 ||xnuhmtw.buzz
 ||xnvpx33779.pixnet.net
 ||xnxqljd.com
+||xnxx.com
+||xnxx.tv
 ||xo3hn8q.cn
 ||xo98212418.blog.fc2.com
 ||xobfukf.cn
@@ -15815,6 +16044,7 @@
 ||xp7rb9.cn
 ||xp88925678.pixnet.net
 ||xp89525158.pixnet.net
+||xpapvn.xyz
 ||xpf17nx31b.blog.fc2.com
 ||xph13hf51p.pixnet.net
 ||xphym.com
@@ -15884,6 +16114,7 @@
 ||xuejingjia.com
 ||xuezhuandaosu.cn
 ||xujianhong.com
+||xukai.online
 ||xumanshu.com
 ||xumengbin.com
 ||xunii.com
@@ -15896,6 +16127,7 @@
 ||xuxun77410.pixnet.net
 ||xvcoc.com
 ||xvdh3p.cn
+||xvideos2.com
 ||xvj92lt18z.blog.fc2.com
 ||xvtja5jcb2.pixnet.net
 ||xvv97fx33l.blog.fc2.com
@@ -15949,6 +16181,7 @@
 ||xzsndz.com
 ||xzspzeo.cn
 ||xztipss.com
+||xzvva.com
 ||xzz99lh17f.blog.fc2.com
 ||y0c3o9.wordpress.com
 ||y0e0a4ocmq.pixnet.net
@@ -16073,6 +16306,7 @@
 ||yau28kq42c.pixnet.net
 ||yaugs844xl.pixnet.net
 ||yauie4eyew.pixnet.net
+||yazhouse8.com
 ||yb1133.co
 ||yb1166.co
 ||yb1199.co
@@ -16126,6 +16360,7 @@
 ||yeslib.com
 ||yeyese.co
 ||yf1109pe39.blog.fc2.com
+||yf2811.in
 ||yf67065976.blog.fc2.com
 ||yf9968.com
 ||yfdhw.com
@@ -16143,6 +16378,7 @@
 ||ygpmdo729.pixnet.net
 ||ygzkf.com
 ||yh0555.in
+||yh1119.top
 ||yhfckbl.cn
 ||yhj7ejoynkrb.pixnet.net
 ||yhjaysd.blogspot.*
@@ -16228,7 +16464,9 @@
 ||ykjsxy.net
 ||ykn956.com
 ||yknspne.buzz
+||ykp655.com
 ||ykyfny.com
+||yl7788.co
 ||ylallstar.com
 ||ylc678.co
 ||ylctvc.com
@@ -16345,7 +16583,9 @@
 ||yrs1ye5ba.pixnet.net
 ||ys321.in
 ||ys3333.co
+||ys5555.in
 ||ys630.com
+||ysado.com
 ||ysbkg.com
 ||yshxkj.com
 ||ysjig.com
@@ -16381,6 +16621,7 @@
 ||yucwmb510.pixnet.net
 ||yuda1223.com
 ||yue44oa48c.blog.fc2.com
+||yuebaike.com
 ||yuechaji.com
 ||yuechetuan.com
 ||yueqibaike.com
@@ -16402,9 +16643,11 @@
 ||yun2012.co
 ||yun2111.in
 ||yun2155.in
+||yun2255.co
 ||yun2288.co
 ||yundabao.net.cn
 ||yungou86.com
+||yungouos.co
 ||yunjinyaju.com
 ||yunniukd.com.cn
 ||yunsh.cc
@@ -16430,6 +16673,7 @@
 ||yw91018005.pixnet.net
 ||ywdhcbd.buzz
 ||ywftxb.com
+||ywnggympa.co
 ||ywtongfa.com
 ||ywxiuli.cn
 ||ywy19kw58a.pixnet.net
@@ -16466,11 +16710,13 @@
 ||yz0743.com
 ||yz1666.com
 ||yz59315471.pixnet.net
+||yz82.co
 ||yzcctv7.com
 ||yzeeabn.cn
 ||yzf6.com
 ||yzgcn8.cn
 ||yzhl999.com
+||yzmssc.com
 ||yzonelife.com
 ||yzsysq.com
 ||yzutbw.cn
@@ -16499,6 +16745,7 @@
 ||z1t3v3hloz.pixnet.net
 ||z1vvj5rfb1.blog.fc2.com
 ||z29d.com
+||z2k.cc
 ||z2myu5f6qvm.pixnet.net
 ||z2trv1chzq.pixnet.net
 ||z2w48oo.pixnet.net
@@ -16618,6 +16865,7 @@
 ||zan.news
 ||zanyouxi.com
 ||zao957m1s62.pixnet.net
+||zaoci.top
 ||zaojvdashi.com
 ||zaoqijy.com
 ||zaoxu.com
@@ -16907,6 +17155,7 @@
 ||zrc8.cn
 ||zroto.com
 ||zs3311.com
+||zs5599.co
 ||zsdmc.cn
 ||zseo32o.cn
 ||zsi2316ers.blog.fc2.com
@@ -16939,6 +17188,7 @@
 ||zuowenzhinan.com
 ||zuowenzhou.com
 ||zuqiouyouxi.cn
+||zuqiuyi.com
 ||zv03ukvm.pixnet.net
 ||zvl79vb39l.pixnet.net
 ||zvpdrlh1p5.pixnet.net
