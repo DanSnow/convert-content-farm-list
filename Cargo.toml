@@ -1,6 +1,6 @@
 [package]
 name = "convert-content-farm-list"
-version = "0.1.1"
+version = "0.2.0"
 authors = ["DanSnow <dododavid006@gmail.com>"]
 edition = "2021"
 license = "MIT"
