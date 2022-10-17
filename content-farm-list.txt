@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221016
+! Version: 20221017
 ! Expires: 3 days
 
 ! Content farm
@@ -1351,6 +1351,7 @@
 ||budanghuishi.com
 ||buddhafate.com
 ||buddhanet01.com
+||bugelun.com
 ||bujincycy.co
 ||bullticle.com
 ||bultrier.me
@@ -2290,6 +2291,7 @@
 ||dsfgfhg12.blogspot.*
 ||dsn66668888.com
 ||dsoftwaepodcs.co
+||dspsuper.com
 ||dsrfo411vl.pixnet.net
 ||dsy39.com
 ||dtdsnx.com
@@ -2874,6 +2876,7 @@
 ||find-top-prizes-here.life
 ||findarticles.com
 ||findmylife.cc
+||findservice.xyz
 ||finefinesh.club
 ||fingerdaily.com
 ||fingermedia.tw
@@ -2900,6 +2903,7 @@
 ||fkpi581.pixnet.net
 ||fl19767199.pixnet.net
 ||fl99v97hdvv.pixnet.net
+||flacourtiaceous-flakage-oddlegs.xyz
 ||flnxxzfxhfjd.blog.fc2.com
 ||floranth.co
 ||florenleonabw.pixnet.net
@@ -4615,6 +4619,7 @@
 ||katiex13e6u2n.pixnet.net
 ||katrinarobhq.pixnet.net
 ||katrinka77476.pixnet.net
+||kawunimy.com
 ||kayap4c16m4y2.pixnet.net
 ||kbo.tw
 ||kbv22vq17b.blog.fc2.com
@@ -5820,6 +5825,7 @@
 ||nha3032dmq.blog.fc2.com
 ||ni5h18.pixnet.net
 ||nib8198244tushaop.wordpress.com
+||niceanimegames.com
 ||nicesou.cc
 ||nicholswaf4.pixnet.net
 ||nicolascorre.fr
@@ -5859,6 +5865,7 @@
 ||nonamesrry.co
 ||nongjia888.com
 ||nonglinyumu.com
+||nonotro.name
 ||nonseisolo.eu
 ||nonsnews.com
 ||nooho.net
@@ -6633,6 +6640,7 @@
 ||push01.net
 ||pushme.news
 ||pushnews.net
+||puskc.xyz
 ||puteri.me
 ||putneyfamilysrvces.co
 ||pv53jf1z.blog.fc2.com
@@ -7389,6 +7397,7 @@
 ||siliconvst.co
 ||silicorantst.co
 ||silkasigame.com
+||similianxi.com
 ||simonarcher.me
 ||simpledatings.life
 ||simpleue.co
@@ -7546,6 +7555,7 @@
 ||steelebrettmu.pixnet.net
 ||steelefra1066.pixnet.net
 ||steemit.com
+||steffanrock.com
 ||steffieshundesalon.ch
 ||steinlingaerten.ch
 ||stendon.co
@@ -7566,6 +7576,7 @@
 ||stpciip.co
 ||strickcmpp01.pixnet.net
 ||string.quest
+||stripchat.com
 ||striveconfrnce.co
 ||stroawp.co
 ||stroyka.me
@@ -9079,6 +9090,7 @@
 ||xl59wz8g7l.blog.fc2.com
 ||xldph91319.pixnet.net
 ||xleag653ml.pixnet.net
+||xlivrdr.com
 ||xlnwkldonlw.blogspot.*
 ||xm.jok97.xyz
 ||xm018v3.pixnet.net
