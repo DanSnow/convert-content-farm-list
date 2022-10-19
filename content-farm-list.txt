@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221018
+! Version: 20221019
 ! Expires: 3 days
 
 ! Content farm
@@ -508,6 +508,7 @@
 ||99bookgame.com
 ||9game.cn
 ||9kd.com
+||9to5answer.com
 ||a-gui.com
 ||a0cuy6cmk2.pixnet.net
 ||a0iis34cye.pixnet.net
@@ -790,6 +791,7 @@
 ||apple01.cc
 ||apple01.co
 ||apple01.net
+||appleasks.com
 ||applenews.ws
 ||appleofmyeye.com.tw
 ||appleship.club
@@ -1025,6 +1027,7 @@
 ||baiyuns.me
 ||bajiao003.com
 ||bajiaoyingshi.com
+||baktomoon.co
 ||bali3dok.co
 ||ballcarrimm.pixnet.net
 ||ballgametime.com
@@ -1115,6 +1118,7 @@
 ||beijingtoday.com.cn
 ||beijngnst.co
 ||beijstty.co
+||beiku.com
 ||beiyuedu.com
 ||beizigen.com
 ||belgiusic.me
@@ -1225,6 +1229,7 @@
 ||bkucukguzel.me
 ||bl5fharryr5oq.pixnet.net
 ||blackline.jp.net
+||blacksunheating.ch
 ||blairnewtjri.pixnet.net
 ||blairwarnec3u.pixnet.net
 ||blanchegf920.wordpress.com
@@ -1578,6 +1583,7 @@
 ||cheer01.me
 ||cheerfulprsdent.co
 ||chen-ton.com
+||chengyucidian.net
 ||chenxiuyong.com
 ||chenzhekl.me
 ||cherryknow.com
@@ -1618,6 +1624,7 @@
 ||chsjtl.com
 ||chsou.cc
 ||chtime.com.tw
+||chuaijuzi.com
 ||chunew.com
 ||chunew.net
 ||cib67bm27z.blog.fc2.com
@@ -1667,6 +1674,7 @@
 ||cnba.live
 ||cnbook.top
 ||cnews.world
+||cnfla.com
 ||cnkeensr.co
 ||cnporcelain.net
 ||cnpython.com
@@ -2125,6 +2133,7 @@
 ||derrichagt0.pixnet.net
 ||desatascosintegralescordoba.es
 ||desenoboschhcg.blog.fc2.com
+||deshuoshuo.com
 ||design-fabrica.com
 ||desiredconstlltions.co
 ||desotalk.com
@@ -2167,6 +2176,7 @@
 ||diangongwugwugwu.com
 ||diannepedroby.pixnet.net
 ||dianshijizhinan.com
+||diaoshuoshuo.com
 ||diawjj.club
 ||dida321.com
 ||didamagne.co
@@ -2308,6 +2318,7 @@
 ||duckhk.com
 ||dugreat.com
 ||dugushici.com
+||duhougan.net
 ||duhpba.co
 ||duncaninvestigation.me
 ||duncanjan3984.pixnet.net
@@ -2509,8 +2520,6 @@
 ||endethod.co
 ||enercell.me
 ||energy-story.net
-||enews.com.tw
-||enews.tw
 ||enewspace.com
 ||enfx.cc
 ||enghuai.com
@@ -3059,6 +3068,7 @@
 ||fvt59vn11h.blog.fc2.com
 ||fw72210114.blog.fc2.com
 ||fwfdg72989.pixnet.net
+||fwsir.com
 ||fwtd.cn
 ||fxghghj105.blogspot.*
 ||fxm8641lex.blog.fc2.com
@@ -3351,6 +3361,7 @@
 ||gulnzshp.co
 ||gungor162.pixnet.net
 ||guohuzhinan.com
+||guowenban.com
 ||guowenme.cc
 ||gupiao.sg
 ||gushiciku.cn
@@ -4052,6 +4063,7 @@
 ||investing-reads.com
 ||investwikitw.com
 ||io02527879.pixnet.net
+||io0bb.com
 ||ipaicoanfund.co
 ||ipcbia.me
 ||ipetgroup.com
@@ -4504,6 +4516,8 @@
 ||justindaniefr.pixnet.net
 ||justinjeffrey.com
 ||juzhappy.com
+||juzideng.com
+||juzigui.com
 ||jv11717335.blog.fc2.com
 ||jvfxj55531.blog.fc2.com
 ||jvh57jv53r.blog.fc2.com
@@ -4610,6 +4624,7 @@
 ||kanwatch.pro
 ||kanwatch.site
 ||kanwatch.today
+||kaoke.com
 ||karinridgers.me
 ||karlkenl7sb.pixnet.net
 ||karlmarionv.pixnet.net
@@ -5834,6 +5849,7 @@
 ||nijigenfun.com
 ||nina.az
 ||ninafranc8493.pixnet.net
+||niubb.net
 ||niuzhan.com
 ||nj56980857.blog.fc2.com
 ||njarts.cn
@@ -5914,9 +5930,11 @@
 ||ntk69.pixnet.net
 ||ntpn.cc
 ||ntvhn35519.pixnet.net
+||nuanshuoshuo.com
 ||nub40xi91k.pixnet.net
 ||nukfunboxlego.blog.fc2.com
 ||nunque.com
+||nuoshuoshuo.com
 ||nuti063.pixnet.net
 ||nuy33ql20i.pixnet.net
 ||nv15531131.pixnet.net
@@ -6032,6 +6050,7 @@
 ||ofmg163.pixnet.net
 ||oggck424.blog.fc2.com
 ||ogv59bu55j.blog.fc2.com
+||oh100.com
 ||oh30244061.pixnet.net
 ||oh74.com
 ||ohmencontain.buzz
@@ -6422,6 +6441,7 @@
 ||pie243.cn
 ||piemontecontributi.it
 ||piercemedn.pixnet.net
+||pieshuoshuo.com
 ||pifyu8wfhi.pixnet.net
 ||pikicast.tw
 ||pineapple99.com
@@ -6738,6 +6758,7 @@
 ||qiananch.com
 ||qiangkuo.com
 ||qiangyao.cn
+||qianjuzi.com
 ||qianlaiye.com
 ||qianqu.cc
 ||qianxilaibanjia.com
@@ -7166,6 +7187,7 @@
 ||ruizsamuels4.pixnet.net
 ||rularse.co
 ||rule873.wordpress.com
+||runshuoshuo.com
 ||runxinzhi.com
 ||ruralredoubt.me
 ||rustlenews.com
@@ -7380,6 +7402,14 @@
 ||shoujiwan.com
 ||shouye-wang.com
 ||shukunjin.com
+||shuoshuocun.com
+||shuoshuodie.com
+||shuoshuogan.com
+||shuoshuojiong.com
+||shuoshuokeng.com
+||shuoshuonang.com
+||shuoshuowai.com
+||shuoshuozhuai.com
 ||shuyangyang.com.cn
 ||shuzhiduo.com
 ||shxy888.com
@@ -7823,6 +7853,7 @@
 ||taogelist.com
 ||taperdtee.co
 ||tapipak.com
+||tashuoshuo.com
 ||tastones.com
 ||tatepaulbenja.pixnet.net
 ||tati-tatis.ru
@@ -8674,6 +8705,9 @@
 ||wandarogerss.pixnet.net
 ||wanderpping.com
 ||wangluoliuxing.com
+||wangmingchun.com
+||wangmingdiu.com
+||wangmingshou.com
 ||waorder.co
 ||warchina.com
 ||wardglenlarso.pixnet.net
@@ -8730,6 +8764,7 @@
 ||wenjutv.com
 ||wenku.51job.com
 ||wenku1.com
+||wenshubang.com
 ||werkstatt-galerie.ch
 ||werkthewb.co
 ||wetalk.tw
@@ -8858,6 +8893,7 @@
 ||wubzj616kv.pixnet.net
 ||wui55cu20q.pixnet.net
 ||wujinjixie.net
+||wukur.com
 ||wusc0sack.pixnet.net
 ||wustelbalad.com
 ||wutl590002.blog.fc2.com
@@ -9071,6 +9107,7 @@
 ||xinnengyuanhuanbao.com
 ||xinsearch.cc
 ||xinwennews.com
+||xiongshuoshuo.com
 ||xiqiangnm.com
 ||xiu2.net
 ||xiumeipai.com
@@ -9252,6 +9289,7 @@
 ||yanjiaoluntan.com
 ||yanjiuzhinan.com
 ||yao51.com
+||yaoshuoshuo.com
 ||yardwarmine.xyz
 ||yatt.cc
 ||yau28kq42c.pixnet.net
@@ -9396,6 +9434,7 @@
 ||yw91018005.pixnet.net
 ||ywy19kw58a.pixnet.net
 ||ywzbhr710.pixnet.net
+||yxfanwen.com
 ||yxfashao.com
 ||yxj77us70p.blog.fc2.com
 ||yxjdcc.com
@@ -9564,7 +9603,9 @@
 ||zhachuo.com
 ||zhangshengrong.com
 ||zhdate.com
+||zheijuzi.com
 ||zhenbo.org
+||zhengjuzi.com
 ||zhentoo.com
 ||zhentoo.net
 ||zhentoo.site
@@ -9622,6 +9663,7 @@
 ||zmsmwsm.cn
 ||zn08256143.pixnet.net
 ||zn101q5.pixnet.net
+||zn66.cn
 ||znh53hj59z.pixnet.net
 ||znj.com
 ||znljiayou.com
@@ -9656,7 +9698,9 @@
 ||zungxvehuan.pixnet.net
 ||zuopy.com
 ||zuotianwenti.com
+||zuowen.net
 ||zuowen8.com
+||zuowenba.net
 ||zuowenzhinan.com
 ||zuowenzhou.com
 ||zuqiuyi.com
