@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221019
+! Version: 20221020
 ! Expires: 3 days
 
 ! Content farm
@@ -526,6 +526,7 @@
 ||a2vrtemj.pixnet.net
 ||a3035144chenwei.wordpress.com
 ||a3dfm817vkh.pixnet.net
+||a3erf.com
 ||a3k9f51jr6.pixnet.net
 ||a3kvr5iwz9.pixnet.net
 ||a4g6k6y8qgo.pixnet.net
@@ -569,6 +570,7 @@
 ||abcnews.asia
 ||abcsearch.cc
 ||abcsou.cc
+||abdwap.work
 ||abitareprjct.co
 ||ablaxy.me
 ||about.com
@@ -576,6 +578,7 @@
 ||aboutfitnesser.com
 ||abouthealther.com
 ||aboutlove.cc
+||abriduski.vda.it
 ||ac-ay.com
 ||acceptanctgage.co
 ||acedqmrm7pt9x.pixnet.net
@@ -688,6 +691,7 @@
 ||alliedlemuir.com
 ||allisonorejqn.pixnet.net
 ||allisovgowa72.pixnet.net
+||almasumare.ro
 ||almost.pub
 ||alojenme.com
 ||alomashms.co
@@ -845,6 +849,7 @@
 ||asia01.club
 ||asiamedia.tw
 ||asianews.cc
+||asiritown.com
 ||ask.com
 ||ask.sov5.cn
 ||askleather.com
@@ -1131,6 +1136,7 @@
 ||bensonpw3xchy.pixnet.net
 ||benzfa.pixnet.net
 ||berckbing.me
+||beritagan.com
 ||bernardbertyt.pixnet.net
 ||bernarmediane.pixnet.net
 ||berryq3.wordpress.com
@@ -1306,6 +1312,8 @@
 ||boydmaxinl84i.pixnet.net
 ||bplxn77355.pixnet.net
 ||bpm1579.com
+||bpnhklcgf.sa.com
+||bpnhkndunskh.sa.com
 ||bpx31nz91b.pixnet.net
 ||bqaeghj.blogspot.*
 ||bqtt.cc
@@ -1573,6 +1581,7 @@
 ||charlijessper.pixnet.net
 ||charlobritidf.pixnet.net
 ||charm.jp.net
+||charng-lung.com.tw
 ||chaussmode.fr
 ||chavezcarropx.pixnet.net
 ||chavezw15462.pixnet.net
@@ -1675,6 +1684,9 @@
 ||cnbook.top
 ||cnews.world
 ||cnfla.com
+||cnfreedomgicwq.ru.com
+||cnfreedomldlra.ru.com
+||cnfreedomrtveas.ru.com
 ||cnkeensr.co
 ||cnporcelain.net
 ||cnpython.com
@@ -1761,6 +1773,7 @@
 ||complementsvaiil.co
 ||compresdairpa.co
 ||coms.pub
+||comtocom.it
 ||conc100.pixnet.net
 ||conglinds.com
 ||conroy712.pixnet.net
@@ -2217,6 +2230,7 @@
 ||djxentnment.me
 ||dk7d3s.pixnet.net
 ||dkck.uk.com
+||dlaflorysty.pl
 ||dlg53he44v.blog.fc2.com
 ||dll53tl95z.pixnet.net
 ||dlr11zh97p.blog.fc2.com
@@ -2286,6 +2300,7 @@
 ||dragontechs.live
 ||dragontechs2.live
 ||drama01.com
+||draughtslondon.com
 ||drbl99tfn.pixnet.net
 ||dreamerwin.com
 ||dreamwe1.com
@@ -2727,6 +2742,7 @@
 ||f8x8n43ov5.pixnet.net
 ||f8ybi9zee7.blog.fc2.com
 ||f91pl35d.pixnet.net
+||f93ir.com.es
 ||f9a2b08qt1.blog.fc2.com
 ||f9b5l3p7vxl.pixnet.net
 ||f9dnt7fh55.pixnet.net
@@ -2984,10 +3000,12 @@
 ||frednbf5dqm7w.pixnet.net
 ||fredpeterpxc.pixnet.net
 ||free.hr
+||freedomxmfnh.sa.com
 ||freedomymqcb.sa.com
 ||freejobalerts24.com
 ||freek.jp.net
 ||freesunn.co
+||freeunblockauyqckn.ru.com
 ||freeunblockfpaxoau.za.com
 ||fresh-poc-portal.focus-entmt.com
 ||freshdelver.co
@@ -3155,6 +3173,7 @@
 ||gaoyy.com
 ||garfieldrr86.wordpress.com
 ||gaseu8mms.pixnet.net
+||gaveyy.me
 ||gavp186.pixnet.net
 ||gax43hc23k.pixnet.net
 ||gbef481.pixnet.net
@@ -3316,6 +3335,7 @@
 ||grahamiy40.pixnet.net
 ||gramhir.com
 ||grantleerx.pixnet.net
+||graphicvp.ru
 ||gravespagoyrr.pixnet.net
 ||grcamerada.com
 ||greatdaily.fun
@@ -3629,6 +3649,7 @@
 ||healthtip.cc
 ||healthway.tips
 ||healthwikitw.com
+||healthylane.life
 ||healthylives.tw
 ||healthyshare.life
 ||healthysharing.life
@@ -3809,6 +3830,7 @@
 ||howpet.net
 ||howtodothings.com
 ||howtoip.com
+||howtovpnuquh.ru.com
 ||hp404j7a05.pixnet.net
 ||hpb1fx79.blog.fc2.com
 ||hphbr33539.pixnet.net
@@ -4028,6 +4050,7 @@
 ||imkmm66422.pixnet.net
 ||immediates.net
 ||imobile01.com
+||impresadipuliziemilano.mi.it
 ||imradsdo.co
 ||imtopsales.com
 ||imynest.com
@@ -4282,6 +4305,7 @@
 ||j9ttf5rzvl.pixnet.net
 ||j9yye6.pixnet.net
 ||j9zhj7pfrz.pixnet.net
+||jaavnacsdw.com
 ||jabir4721.pixnet.net
 ||jack-in-the-box.jp.net
 ||jacobsholn5.pixnet.net
@@ -4515,6 +4539,7 @@
 ||justhotnews.site
 ||justindaniefr.pixnet.net
 ||justinjeffrey.com
+||jutsekw.me
 ||juzhappy.com
 ||juzideng.com
 ||juzigui.com
@@ -4895,6 +4920,7 @@
 ||l9xjz1jlj9.blog.fc2.com
 ||l9xrt99lbb.blog.fc2.com
 ||laadle.co
+||laboratoriovirologiacs.it
 ||lacivettanelcamino.it
 ||lacocinaderosa.es
 ||lacommandebessau.co
@@ -5080,6 +5106,7 @@
 ||locstylfc.co
 ||logicareerp.co
 ||logiqx.me
+||logisfrance-architecture.fr
 ||lolafinea.co
 ||lolclothng.co
 ||loltftpro.com
@@ -5116,6 +5143,7 @@
 ||louisedww3.pixnet.net
 ||louiseimagine.me
 ||louisholmramo.pixnet.net
+||lounasravintolaeverest.fi
 ||loutkovyfestivalpisek.cz
 ||lovebeads2021.co
 ||lovedaily.life
@@ -5382,6 +5410,7 @@
 ||meaeya.blogspot.*
 ||measuretime.ru
 ||mecsnsn.co
+||med-mash.ru
 ||media8.asia
 ||media8.info
 ||media8.me
@@ -5394,6 +5423,8 @@
 ||meetwill.xyz
 ||meifagu.com
 ||meihuijj.com
+||meinkraft.ch
+||meinsaarlouis360.de
 ||meisearch.cc
 ||meishuile.com
 ||meishujixun.com
@@ -5412,6 +5443,7 @@
 ||mentaltraining.jp.net
 ||meriambousselmi.me
 ||merylsantoptro.co
+||messina.it
 ||metalballs.co
 ||metalballs.com
 ||metallkshor.co
@@ -5537,6 +5569,7 @@
 ||morabs.me
 ||moralesbusyyp.pixnet.net
 ||morefiles.gb.net
+||moreloadsdprmns.za.com
 ||morenogoodcun.pixnet.net
 ||moreptt.com
 ||moretify.com
@@ -5814,6 +5847,7 @@
 ||newsdirectory3.com
 ||newskaleidoscope.xyz
 ||newskks.com
+||newsoftsomusw.sa.com
 ||newsptt.com
 ||newsreadco.com
 ||newstube01.tv
@@ -5834,6 +5868,7 @@
 ||ngelw652mw.blog.fc2.com
 ||nglesivo.co
 ||ngnnn.com
+||ngulikan.com
 ||nh11351573.blog.fc2.com
 ||nh99513557.blog.fc2.com
 ||nha17ey78f.blog.fc2.com
@@ -5889,6 +5924,7 @@
 ||nordahl.me
 ||normanmills10.pixnet.net
 ||not32hu32z.pixnet.net
+||notas-flauta.es
 ||notd-angle.com
 ||notebz.com
 ||notesfrmthclud.co
@@ -5956,6 +5992,7 @@
 ||nx57159034.pixnet.net
 ||nxavti328.pixnet.net
 ||nxrg204.pixnet.net
+||nxtpsh.top
 ||nxvnh99355.pixnet.net
 ||ny37294124.blog.fc2.com
 ||ny9400533lia.wordpress.com
@@ -6095,6 +6132,7 @@
 ||omgnews.cc
 ||omgnews.life
 ||omgtw.com
+||omniummackenzie.com
 ||omobi.cc
 ||omura.me
 ||on9news.com
@@ -6390,6 +6428,7 @@
 ||penghu.pub
 ||peopleinsider.blogspot.*
 ||peopleinsider.net
+||peritiagrari.fr.it
 ||perkine3t0m.pixnet.net
 ||perkinsarmsco.pixnet.net
 ||persiya-kafe.ru
@@ -6545,6 +6584,7 @@
 ||praspremim.co
 ||prbhexprts.co
 ||prbzv19793.pixnet.net
+||predire.vs.it
 ||presentvzvr.pixnet.net
 ||presslocalhk.com
 ||presslogic.com
@@ -7185,6 +7225,7 @@
 ||ruiouwir.co
 ||ruiwen.com
 ||ruizsamuels4.pixnet.net
+||rujula.me
 ||rularse.co
 ||rule873.wordpress.com
 ||runshuoshuo.com
@@ -7443,6 +7484,7 @@
 ||singlelettercry.top
 ||sinoexam.com.cn
 ||sionvalleyst.co
+||siracusa.it
 ||siraortsu.co
 ||sis8.com
 ||sj41784819.pixnet.net
@@ -7470,6 +7512,8 @@
 ||slcukkafe.co
 ||slobodapatient.me
 ||slwqp.com
+||sm3ha.store
+||sm3ha2.store
 ||sm45577204.pixnet.net
 ||sm62470210.pixnet.net
 ||sm82k09.pixnet.net
@@ -7499,6 +7543,7 @@
 ||softwarebrother.com
 ||softwustry.me
 ||sofy9re856.pixnet.net
+||sogeinfo.com
 ||sogo341381879.wordpress.com
 ||sogrbber.me
 ||soikids.co
@@ -7604,6 +7649,7 @@
 ||story543.com
 ||storywall.me
 ||stpciip.co
+||stream-core.xyz
 ||strickcmpp01.pixnet.net
 ||string.quest
 ||stripchat.com
@@ -7902,6 +7948,7 @@
 ||terricha70363.pixnet.net
 ||testdomg.co
 ||testrubwant.xyz
+||tetedail.fr
 ||textlnker.co
 ||texttiile.co
 ||tf19919351.pixnet.net
@@ -8047,6 +8094,8 @@
 ||topbester.com
 ||topitinfo.com
 ||topnews8.com
+||toptanzarfdunyasi.com
+||torino.it
 ||toscablyn.co
 ||toto.jp.net
 ||totoread.com
@@ -8122,6 +8171,7 @@
 ||trvztx15r.pixnet.net
 ||trw10ty85b.pixnet.net
 ||trytohear.com
+||trzebieszewo.pl
 ||ts35810323.pixnet.net
 ||tscars.co
 ||tsfx.cc
@@ -8165,6 +8215,7 @@
 ||tw.observer
 ||tw.phonecardsoftware.com
 ||tw.sumry.org
+||tw100s.com
 ||tw1988.link
 ||tw223com.blogspot.*
 ||tw520.me
@@ -8176,6 +8227,7 @@
 ||twenga.com
 ||twfeq.com
 ||twfgfjgov.shop
+||twfreedomumrms.ru.com
 ||twgreatdaily.com
 ||twgreatdaily.fun
 ||twgreatdaily.life
@@ -8192,7 +8244,9 @@
 ||twtravelwiki.com
 ||twtwdfjgov.xyz
 ||twvpneuhqy.sa.com
+||twvpnmpuu.ru.com
 ||twvrj.me
+||twvscnwggzpt.za.com
 ||twvxp.me
 ||twwiki.com
 ||twword.com
@@ -8335,6 +8389,7 @@
 ||urreply.info
 ||us-them.com
 ||us749r8z.blog.fc2.com
+||usenetfilesjlbomdo.za.com
 ||usersale.org
 ||usgickw2eg.pixnet.net
 ||usinsengmi.co
@@ -8546,6 +8601,7 @@
 ||vivitw.us
 ||vjbzh53113.pixnet.net
 ||vjd78od68h.blog.fc2.com
+||vkihco.me
 ||vkj2387gsq.blog.fc2.com
 ||vl55773351.blog.fc2.com
 ||vlh39hb15h.blog.fc2.com
@@ -8579,6 +8635,7 @@
 ||vovo798.com
 ||vovonews.com
 ||vpb13tv15z.blog.fc2.com
+||vpncncjmkb.za.com
 ||vpncnihyym.za.com
 ||vpri1d5loria8.pixnet.net
 ||vpsdx.com
@@ -8759,6 +8816,7 @@
 ||welfareml.com
 ||wellbay.cc
 ||wen01.com.tw
+||wenda123.org
 ||wendylonnraf.pixnet.net
 ||wendymyrtlf.pixnet.net
 ||wenjutv.com
