@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221021
+! Version: 20221022
 ! Expires: 3 days
 
 ! Content farm
@@ -815,6 +815,7 @@
 ||arcieri4castella.it
 ||ardpn25903.pixnet.net
 ||argentsecuritycnslt.co
+||arieax.co
 ||arizonawateness.co
 ||arlib.gb.net
 ||armandtdawnqi.pixnet.net
@@ -7338,6 +7339,7 @@
 ||sassari.it
 ||satehj.blogspot.*
 ||sauerduels.me
+||sayasdf.com
 ||sayfethoasla.pixnet.net
 ||sazzadhsan.co
 ||sbks53blak16.pixnet.net
@@ -8377,6 +8379,7 @@
 ||unsereins.me
 ||unzx.cc
 ||uo813c0iet.blog.fc2.com
+||uonfu.com
 ||uoowx540vc.pixnet.net
 ||up8xksherrixi.pixnet.net
 ||upicksles.co
