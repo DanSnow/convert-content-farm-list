@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221023
+! Version: 20221024
 ! Expires: 3 days
 
 ! Content farm
@@ -145,6 +145,7 @@
 ||231262.com
 ||231271.com
 ||231279.com
+||231327.com
 ||231685.com
 ||231728.com
 ||2361.fun
@@ -485,6 +486,7 @@
 ||8im.info
 ||8im.me
 ||8im.site
+||8kpp.net
 ||8md.me
 ||9-9822.com
 ||900.tw
@@ -881,6 +883,7 @@
 ||atatyyu.blogspot.*
 ||atcoine.me
 ||atdew.xyz
+||ateliercatering.es
 ||athen-heppenheim.de
 ||athlet.me
 ||atoomu.com
@@ -1291,7 +1294,9 @@
 ||bobtify.wiki
 ||bogaziciforrk.co
 ||bogkbn.top
+||boldtsafety.com
 ||bolitglva.co
+||bollywoods.ru.com
 ||bomb01.asia
 ||bomb01.cc
 ||bomb01.club
@@ -1326,6 +1331,7 @@
 ||bowengk444ne.pixnet.net
 ||bowenm7ebvb3.pixnet.net
 ||bowislmber.co
+||boxhoidap.com
 ||boydmaxinl84i.pixnet.net
 ||bplxn77355.pixnet.net
 ||bpm1579.com
@@ -1525,6 +1531,7 @@
 ||carriebe63570.pixnet.net
 ||cartergrayca.pixnet.net
 ||cartoontalking.com
+||casadeldeporte.cl
 ||casaeams.me
 ||casainlatina.it
 ||caseyrobiu3.pixnet.net
@@ -1538,6 +1545,7 @@
 ||castsg.com
 ||cat3uwkarcmuf.pixnet.net
 ||catchtwenydu.co
+||catchyourlife.com.tw
 ||cateringbphylls.co
 ||catha.life
 ||catherinetr9.blog.fc2.com
@@ -1840,6 +1848,7 @@
 ||cqw4im48.blog.fc2.com
 ||cqwxsd.com
 ||craigob640ij.pixnet.net
+||crashlyticsapi.com
 ||crazyfun698.net
 ||createdessentls.co
 ||crediasurement.co
@@ -1887,6 +1896,7 @@
 ||cv10570945.pixnet.net
 ||cv71314834.pixnet.net
 ||cvaughnx256.pixnet.net
+||cvbnm01.pixnet.net
 ||cvvq.cc
 ||cwcrazypet.com
 ||cwptz.com
@@ -2165,6 +2175,7 @@
 ||dennisbardlsw.pixnet.net
 ||denshishoseki.jp.net
 ||deputech.fr
+||dercomotos.cl
 ||derrichagt0.pixnet.net
 ||desatascosintegralescordoba.es
 ||desenoboschhcg.blog.fc2.com
@@ -2474,6 +2485,7 @@
 ||ebsk579.pixnet.net
 ||ecoconfort.es
 ||ecofuel.me
+||ecomsolutions.net
 ||econsocietyy.co
 ||ecoturismolapancha.cl
 ||ecoynodo.co
@@ -3867,6 +3879,7 @@
 ||howpet.net
 ||howtodothings.com
 ||howtoip.com
+||howtovpnsqpl.ru.com
 ||howtovpnuquh.ru.com
 ||hp404j7a05.pixnet.net
 ||hpb1fx79.blog.fc2.com
@@ -3881,6 +3894,7 @@
 ||hrashed.co
 ||hrbgzw.com
 ||hrd95nn37n.pixnet.net
+||hrlaborlaw.com.tw
 ||hrnylslts.co
 ||hrt53vb71r.blog.fc2.com
 ||hs3dg91x64v3.pixnet.net
@@ -4784,6 +4798,7 @@
 ||kkz9443yfp.blog.fc2.com
 ||klm0911.pixnet.net
 ||klmtz02.com
+||klubickasnu.cz
 ||kmbymh.co
 ||kmcha.com
 ||kmg360.com
@@ -5186,6 +5201,7 @@
 ||lornajodan.co
 ||lorraijonatt8.pixnet.net
 ||loser.news
+||lotteryno.one
 ||lotteskitchen.com
 ||loudoun-valley.com
 ||louisbark3815.pixnet.net
@@ -5487,6 +5503,7 @@
 ||melissalanglyphoto.co
 ||melodiya-stilya.ru
 ||memeslong.com
+||menapodologo.es
 ||menclub.co
 ||mendezbenspen.pixnet.net
 ||mendezroget6.pixnet.net
@@ -5541,6 +5558,7 @@
 ||mingchengxuanze.com
 ||mingtianfangjia.com
 ||mingyanjiaju.org
+||minkia.me
 ||minniefa92589.pixnet.net
 ||minnielylfly.pixnet.net
 ||minutepatternbook.xyz
@@ -5893,6 +5911,7 @@
 ||newrkur.co
 ||news-adding.com
 ||news-lihkg.com
+||news.jxcn.cn
 ||news01.cc
 ||news17zf.pixnet.net
 ||news18nepal.com
@@ -5918,6 +5937,7 @@
 ||nextsingapo.com
 ||nfg28tb60h.pixnet.net
 ||nfiwve782.pixnet.net
+||nfrpress.com
 ||nfrzix195.pixnet.net
 ||nfsfashin.co
 ||ngelw652mw.blog.fc2.com
@@ -5940,6 +5960,7 @@
 ||nina.az
 ||ninafranc8493.pixnet.net
 ||niubb.net
+||niul.net
 ||niuzhan.com
 ||nj56980857.blog.fc2.com
 ||njarts.cn
@@ -6123,6 +6144,7 @@
 ||ocbnkz698.pixnet.net
 ||occ91bk38q.blog.fc2.com
 ||och3378fvl.blog.fc2.com
+||ochill.ru
 ||ocn0078qgo.blog.fc2.com
 ||ocs86xx44h.blog.fc2.com
 ||octaviomp781.wordpress.com
@@ -6461,6 +6483,7 @@
 ||pbxfp31197.pixnet.net
 ||pbyhr74611.pixnet.net
 ||pbz73tx17x.blog.fc2.com
+||pc-mediapoint.ro
 ||pcasg.com
 ||pci4eoep5l.pixnet.net
 ||pcmgkkv.co
@@ -6545,6 +6568,7 @@
 ||pieshuoshuo.com
 ||pifyu8wfhi.pixnet.net
 ||pikicast.tw
+||pineapple-bun.com
 ||pineapple99.com
 ||pingyan643681.pixnet.net
 ||pinkupost.com
@@ -7379,6 +7403,7 @@
 ||sabelrca.co
 ||sabrifr725.pixnet.net
 ||sabrifr725.wordpress.com
+||sadhub.org
 ||safdtechgy.co
 ||safx.cc
 ||saikweb.co
@@ -7775,6 +7800,7 @@
 ||super01.cc
 ||superbigapple.com
 ||superfun-e.com
+||superm.cl
 ||support-hk.com
 ||supportdap.online
 ||supportph.com
@@ -8445,6 +8471,7 @@
 ||ulm257.co
 ||ulzx.top
 ||umagdaily.com
+||umbau-gmbh.ch
 ||umtalk.net
 ||umy6580401ganzhi3.wordpress.com
 ||underwears99.blogspot.*
@@ -9187,6 +9214,7 @@
 ||x9z5j7vfhz.blog.fc2.com
 ||x9zjl3tlr5.pixnet.net
 ||x9zpv59bzt.pixnet.net
+||xa8.net
 ||xafgbnj.blogspot.*
 ||xahaihongbz.com
 ||xasfwz.com
@@ -9313,6 +9341,7 @@
 ||xr56265789.blog.fc2.com
 ||xs76176406.blog.fc2.com
 ||xs84cc.com
+||xsear.ch
 ||xsp97ov25a.pixnet.net
 ||xsy02.cc
 ||xtd95br53n.pixnet.net
@@ -9344,6 +9373,7 @@
 ||xxv24lr18c.blog.fc2.com
 ||xxz71dr93v.blog.fc2.com
 ||xxz97zp1jv.pixnet.net
+||xydnc.co
 ||xyl6335hwt.blog.fc2.com
 ||xyttt.com
 ||xyun.org
