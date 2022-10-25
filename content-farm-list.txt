@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221024
+! Version: 20221025
 ! Expires: 3 days
 
 ! Content farm
@@ -562,6 +562,7 @@
 ||a9k3x5u4yz6.blog.fc2.com
 ||a9qfx7f0qo3.blog.fc2.com
 ||a9t3gu5.pixnet.net
+||aa386500.pixnet.net
 ||aae18uq67j.blog.fc2.com
 ||aaeflmm.co
 ||aagov.shop
@@ -651,6 +652,7 @@
 ||aiheaven.com
 ||aijan4.me
 ||aijianggu.com
+||ailaojia.com
 ||aimilai.co
 ||aipaba.com
 ||aipetweb.com
@@ -796,6 +798,7 @@
 ||apartamenty-brzeznicka.pl
 ||apartamentygilewskiego.pl
 ||apartca.fr
+||apartmaji-kokalj.si
 ||apasass.co
 ||apehs.cn
 ||apolmont.eu
@@ -888,6 +891,7 @@
 ||athlet.me
 ||atoomu.com
 ||atoomu.net
+||atwilling.top
 ||atzv.cn
 ||auabu.com
 ||aubz.cn
@@ -1175,6 +1179,7 @@
 ||betweengos.com
 ||beulahvz481.blog.fc2.com
 ||beyondnewsnet.com
+||bezpecnazasilka.cz
 ||bezx.cc
 ||bfdvjtd37b.pixnet.net
 ||bfjxvnf1jv.pixnet.net
@@ -1337,6 +1342,7 @@
 ||bpm1579.com
 ||bpnhklcgf.sa.com
 ||bpnhkndunskh.sa.com
+||bpnhkpejsvf.za.com
 ||bpx31nz91b.pixnet.net
 ||bqaeghj.blogspot.*
 ||bqtt.cc
@@ -1511,6 +1517,7 @@
 ||canbeast.online
 ||candymush.com
 ||canyinms.com
+||capemayjobbing.com
 ||captchaless.top
 ||careerengine.us
 ||caremura.cc
@@ -1582,6 +1589,7 @@
 ||ces.net.pl
 ||cew38gr52z.blog.fc2.com
 ||cf21k11.pixnet.net
+||cfacat.cn
 ||cfo1299yrp.blog.fc2.com
 ||cfsksupport.co
 ||cftc-monoprix.fr
@@ -1820,6 +1828,7 @@
 ||coola.pro
 ||coolfity.com
 ||coolnews.cc
+||coolpen.org
 ||coolsaid.com
 ||coowx.com
 ||copy.3f-rent.ru
@@ -2334,6 +2343,7 @@
 ||dr17bz1t.blog.fc2.com
 ||dr381e7aie.blog.fc2.com
 ||dradio.me
+||dragohomes.es
 ||dragontechs.live
 ||dragontechs2.live
 ||drama01.com
@@ -2691,6 +2701,7 @@
 ||ezvivi.com
 ||ezvivi2.com
 ||ezvivi3.com
+||f0971100018.pixnet.net
 ||f0k802oo.pixnet.net
 ||f117p79fhxp.pixnet.net
 ||f132.com
@@ -3230,6 +3241,7 @@
 ||gdto.cc
 ||geek-share.com
 ||geeksqa.com
+||geflow.com
 ||gegugu.com
 ||gemis.vn
 ||genedelgadls.pixnet.net
@@ -3312,6 +3324,7 @@
 ||godakshnn.co
 ||godayup.com
 ||godloveme.cn
+||goetrack.top
 ||goez1.com
 ||goez3.com
 ||gogo.pet
@@ -3335,6 +3348,7 @@
 ||gomynews.net
 ||gonglue123.com
 ||gongshixuexi.com
+||gongyibaocp.com
 ||gongyilvshi.com
 ||gonzomura.cc
 ||gonzosky.com
@@ -3832,6 +3846,7 @@
 ||homeonics.co
 ||hon6578elr.blog.fc2.com
 ||honey99.net
+||hongda-steeltube.cn
 ||hongkongha.com
 ||hongyibag.com
 ||honsnews.com
@@ -4124,6 +4139,7 @@
 ||inj13qv28b.blog.fc2.com
 ||injurylawyernewportnews.com
 ||inneneinrichtung-sochor.ch
+||innypunkt.pl
 ||inonepodster.co
 ||inpmv672cf.pixnet.net
 ||inr7213eet.pixnet.net
@@ -4369,6 +4385,7 @@
 ||jacquem8f6s6u.pixnet.net
 ||jacquesj523.pixnet.net
 ||jah32v8dalens.pixnet.net
+||jakefornewton.com
 ||jameszx55.pixnet.net
 ||janefishrbtanicalart.co
 ||janjarolim.cz
@@ -4449,8 +4466,10 @@
 ||jiamenggonglue.com
 ||jiangkang.host
 ||jiangximeishi.cn
+||jianjuke.cn
 ||jiankanghou.com
 ||jiasuniao.com
+||jiayunzudao.com
 ||jiegouzhinan.com
 ||jieyouw.com
 ||jihmypd.co
@@ -4462,6 +4481,7 @@
 ||jinchengzhilv.com
 ||jinfantongyici.com
 ||jingyanbus.com
+||jingzhoucn.cn
 ||jinianlai.com
 ||jinlisting.com
 ||jinrih.com
@@ -4589,6 +4609,7 @@
 ||jumelage34800.fr
 ||junehazelj362.pixnet.net
 ||jungle461489226.wordpress.com
+||junlaibao.cn
 ||jup47ngi0.pixnet.net
 ||jusbert.co
 ||justfenxiang.net
@@ -4825,6 +4846,7 @@
 ||koolcardls.co
 ||kora-mesr.com
 ||koronazino.co
+||kosmetikacalendula.cz
 ||koug310.pixnet.net
 ||koujipu.co
 ||kousokudrve.co
@@ -5012,6 +5034,7 @@
 ||las5856kdq.pixnet.net
 ||las88889999.com
 ||laserarea.com
+||lasermyskin.com
 ||lastbattlerunfun.website
 ||lastexitdc.com
 ||laughbombclub.com
@@ -5432,6 +5455,7 @@
 ||martinfll.co
 ||martinwacodyj.pixnet.net
 ||maryks01.pixnet.net
+||massoterapia.tn.it
 ||mathewo7258.pixnet.net
 ||mathieucroset.me
 ||matthewsu0.pixnet.net
@@ -5489,6 +5513,7 @@
 ||meditatioore.co
 ||meetptt.com
 ||meetwill.xyz
+||megafilesqhxty.sa.com
 ||meifagu.com
 ||meihuijj.com
 ||meinkraft.ch
@@ -5720,6 +5745,7 @@
 ||mygsyelq.pixnet.net
 ||myheart.com.tw
 ||myjctt78.pixnet.net
+||mymoneypp.pixnet.net
 ||mynoush.co
 ||myomgnews.net
 ||mypagnaje.co
@@ -5880,6 +5906,7 @@
 ||nclbys945.pixnet.net
 ||nd27093673.blog.fc2.com
 ||ndfxvd.blogspot.*
+||ndmsmj.com
 ||ndup.cc
 ||ne42967165.pixnet.net
 ||nearfingerpresent.buzz
@@ -5992,6 +6019,7 @@
 ||nonamesrry.co
 ||nongjia888.com
 ||nonglinyumu.com
+||nongyawang.com
 ||nonotro.name
 ||nonseisolo.eu
 ||nonsnews.com
@@ -6521,6 +6549,7 @@
 ||pet1314.com
 ||pet2016.wordpress.com
 ||pet88.cc
+||peteradv.co
 ||petercshop.blog.fc2.com
 ||petitisicovka.cz
 ||petitrygaku.co
@@ -6538,6 +6567,7 @@
 ||pgj9648.pixnet.net
 ||ph4steven2470.pixnet.net
 ||phantmobile.co
+||pharmacie-jolivet.fr
 ||pharmacistplus.com
 ||pharmknow.com
 ||pharmnaturo.fr
@@ -6695,6 +6725,7 @@
 ||probeballat.co
 ||procnw.xyz
 ||prodlgiousdates.com
+||profyi.com
 ||programgo.com
 ||programmersought.com
 ||programminghunter.com
@@ -6943,6 +6974,7 @@
 ||qpup.cc
 ||qq-name.cn
 ||qq8u.com
+||qqi9.cn
 ||qql0587szb.pixnet.net
 ||qqmaovike.co
 ||qqnews2u.com
@@ -7407,6 +7439,8 @@
 ||safdtechgy.co
 ||safx.cc
 ||saikweb.co
+||salegoode.pixnet.net
+||salegoodn.pixnet.net
 ||sallyangel319.pixnet.net
 ||saloidant.co
 ||salonbauxmonde.nl
@@ -8047,6 +8081,7 @@
 ||tekitmem.co
 ||tellus.jp.net
 ||temedtns.co
+||tenri.cn
 ||tepyoff.cfd
 ||terabitweb.com
 ||terrainal.co
@@ -8334,6 +8369,7 @@
 ||twenga.com
 ||twfeq.com
 ||twfgfjgov.shop
+||twfreedomosouh.ru.com
 ||twfreedomumrms.ru.com
 ||twgreatdaily.com
 ||twgreatdaily.fun
@@ -8734,6 +8770,7 @@
 ||voe4burke5400.pixnet.net
 ||voidcc.com
 ||voidcn.com
+||voidsa.co
 ||voiurisabogados.es
 ||vom1pdunnov.pixnet.net
 ||voncho.me
@@ -8748,6 +8785,7 @@
 ||vpb13tv15z.blog.fc2.com
 ||vpncncjmkb.za.com
 ||vpncnihyym.za.com
+||vpncnscasuha.ru.com
 ||vpri1d5loria8.pixnet.net
 ||vpsdx.com
 ||vptdp19793.blog.fc2.com
@@ -8992,6 +9030,7 @@
 ||wkm88uc48y.blog.fc2.com
 ||wkmm.cc
 ||wkto.cc
+||wlkankan.com
 ||wlku.com
 ||wlo7blaima.pixnet.net
 ||wloor.com
@@ -9780,6 +9819,7 @@
 ||zgjm.wiki
 ||zgserver.com
 ||zgxue.com
+||zgysxh.cn
 ||zhachuo.com
 ||zhangshengrong.com
 ||zhdate.com
@@ -9792,6 +9832,7 @@
 ||zhetiaohe.com
 ||zhewang.me
 ||zhfish.cn
+||zhfreevnoc.za.com
 ||zhfx.cc
 ||zhhappiness.com
 ||zhhappytify.info
@@ -9827,6 +9868,7 @@
 ||zizhukekong.org
 ||zizhuzhishi.com
 ||zjkge.top
+||zjwangying.com
 ||zjwsrcw.com
 ||zjyelb872.pixnet.net
 ||zksxdhg.com
