@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221030
+! Version: 20221031
 ! Expires: 3 days
 
 ! Content farm
@@ -76,6 +76,7 @@
 ||19long.com
 ||1applefit.com
 ||1applehealth.com
+||1cmd0.za.com
 ||1gt404.co
 ||1minute4health.com
 ||1oadsf.tokyo
@@ -182,6 +183,7 @@
 ||360doc.com
 ||361shipin.com
 ||365seal.com
+||37.1.213.100
 ||37078.cn
 ||3723nbc.co
 ||373023.com
@@ -307,6 +309,7 @@
 ||41954.shop
 ||4910.com
 ||4k8k.xyz
+||4poseidon.com
 ||4surgery.ru
 ||5068.com
 ||5175011.com
@@ -345,6 +348,7 @@
 ||52eo.com
 ||52food.co
 ||52ptt.com
+||52shijing.com
 ||52yuer.cn
 ||5339901.com
 ||5339902.com
@@ -422,6 +426,7 @@
 ||68shu.cn
 ||69vj.xyz
 ||6aiok.me
+||6tiku.com
 ||6uodaily.com
 ||6uodailynews.com
 ||6uonewsdaily.com
@@ -434,6 +439,7 @@
 ||7376.fun
 ||7511156.com
 ||7511157.com
+||7581511.com
 ||76098.cn
 ||7624.net
 ||76292.site
@@ -475,7 +481,9 @@
 ||86lsw.com
 ||86playgame.com
 ||8712122.com
+||8775550.com
 ||886bl.com
+||8888.wiki
 ||889x4.xyz
 ||88gag.com
 ||88lovelypet.com
@@ -603,6 +611,7 @@
 ||adabkde.me
 ||adamsblankie.co
 ||adamsfra66341.pixnet.net
+||adanse3fm.com
 ||addemrar.co
 ||adelapc911.wordpress.com
 ||adfhdfgrrwe.pixnet.net
@@ -611,6 +620,7 @@
 ||adorable-pet.com
 ||adqoo.tw
 ||adrianlacamp.me
+||adrianrc.com.es
 ||adrnmkenn.co
 ||adsdealersrvce.co
 ||adsquke.co
@@ -715,9 +725,11 @@
 ||amai34lc23.pixnet.net
 ||amassly.com
 ||amaz435981521.wordpress.com
+||amazfeet.info
 ||ambassaran.co
 ||ambery20h7a.pixnet.net
 ||ambkct.com
+||ambrodogskennel.it
 ||ambroisemoreux-osteopathe.fr
 ||americantowns.com
 ||ameridrvice.co
@@ -751,23 +763,28 @@
 ||andywarholwatch.com
 ||angelande6490.pixnet.net
 ||angelwingure.co
+||angularbites.com
 ||anhengli.com.tw
 ||anhuilife.com
 ||anime01kingdom.com
 ||animefans21.com
 ||ankaili.com
 ||annagiushen.co
+||annanchic.com
 ||annanderum.pixnet.net
 ||annchristintc.pixnet.net
 ||anneedwin7631.pixnet.net
 ||annelieberg.com
+||annemiekmaatman.nl
 ||annettbanksw6.pixnet.net
 ||annettebrowbe.pixnet.net
 ||anniejudycj0.pixnet.net
 ||anniemarieup.pixnet.net
 ||annraymondmar.pixnet.net
+||annuaire-vire.com
 ||annugoo.fr
 ||anrevika.lt
+||ans19.ru
 ||ansambelzrgon.co
 ||answer-king.com
 ||answerbag.com
@@ -775,6 +792,7 @@
 ||anthailand.com
 ||antimonopolylaw.org
 ||antleblanc.me
+||antysanctioncgercz.za.com
 ||anufh886wl.pixnet.net
 ||anyelse.com
 ||anysearch.cc
@@ -825,6 +843,7 @@
 ||aqtt.cc
 ||aquaoxygnae.co
 ||arcieri4castella.it
+||ardcoran.co
 ||ardpn25903.pixnet.net
 ||argentsecuritycnslt.co
 ||arieax.co
@@ -1045,12 +1064,15 @@
 ||bagua5.net
 ||bahis2022.co
 ||baidow.com
+||baigouweb.com
 ||baijiabo365.com
 ||baike.com
 ||bailliphornay.co
 ||bailong.pub
 ||baiyongqin.cc
+||baiyunpiaopiao.com
 ||baiyuns.me
+||baja-shop.com
 ||bajiao003.com
 ||bajiaoyingshi.com
 ||baktomoon.co
@@ -1066,6 +1088,7 @@
 ||bangbang.pub
 ||bangdezs.com
 ||bangjun168.com
+||bangniwuye.com
 ||bangqu.com
 ||bangzhuzhiyin.xyz
 ||banksovetnik-saratov.ru
@@ -1081,6 +1104,7 @@
 ||barberiaavila.es
 ||barcelonanting.co
 ||barjazz.me
+||barnes-pump.com
 ||barnettcha748.pixnet.net
 ||barnetterrah7.pixnet.net
 ||barre-fitstudio.com
@@ -1121,6 +1145,7 @@
 ||bd7359om49.blog.fc2.com
 ||bd74w.pixnet.net
 ||bdfqy.com
+||bdhbbsr.co
 ||bdt71rt99d.pixnet.net
 ||bduichenb.xyz
 ||beabast.co
@@ -1132,6 +1157,7 @@
 ||beautytagtw.com
 ||beckerminnmar.pixnet.net
 ||beckertho1890.pixnet.net
+||beefgme.co
 ||beefun01.com
 ||beep01.com
 ||beeper.live
@@ -1164,6 +1190,7 @@
 ||berryq3.wordpress.com
 ||berufsbildungsradio.ch
 ||beskh818iu.pixnet.net
+||best-insu.com
 ||best-prizes.life
 ||bestbonus-zone.life
 ||bestinfo365.com
@@ -1197,6 +1224,7 @@
 ||bgtero.co
 ||bgyjr.com
 ||bh18530260.pixnet.net
+||bhhhg.com
 ||bhj13vp39v.blog.fc2.com
 ||bhj15tt99v.pixnet.net
 ||bhjlj77179.pixnet.net
@@ -1226,11 +1254,13 @@
 ||bignews365.com
 ||bigshuang.com
 ||bigusd.club
+||bijouxgrossiste.com
 ||bike66.club
 ||bimobang.com
 ||biniang.co
 ||binjiangjx.com
 ||biobu.it
+||biomifarming.nl
 ||birtherdebnkers.co
 ||biscontauto.co
 ||bishoplawmarl.pixnet.net
@@ -1275,6 +1305,7 @@
 ||blubluu.com
 ||bluesbear.tw
 ||blukoko.com
+||blvbiaa.co
 ||blx59zt55n.blog.fc2.com
 ||bmnn.cc
 ||bmte.yh1115.top
@@ -1297,6 +1328,7 @@
 ||bobofun.com
 ||bobtify.cc
 ||bobtify.wiki
+||bofiao.com
 ||bogaziciforrk.co
 ||bogkbn.top
 ||boldtsafety.com
@@ -1323,8 +1355,10 @@
 ||booksee261.pixnet.net
 ||boosuccess.com
 ||boosuccess.org
+||borsosh.ru
 ||bossmurmur.com
 ||bosu.pixnet.net
+||botitb.me
 ||bottle01.com
 ||bottle01.org
 ||bottle01.tw
@@ -1340,11 +1374,13 @@
 ||boydmaxinl84i.pixnet.net
 ||bplxn77355.pixnet.net
 ||bpm1579.com
+||bpnhkggao.za.com
 ||bpnhklcgf.sa.com
 ||bpnhkndunskh.sa.com
 ||bpnhkpejsvf.za.com
 ||bpx31nz91b.pixnet.net
 ||bqaeghj.blogspot.*
+||bqfwx.com
 ||bqtt.cc
 ||bqwfpu809.pixnet.net
 ||bradagna.co
@@ -1355,6 +1391,7 @@
 ||brandyfloweny.pixnet.net
 ||brandymairene.pixnet.net
 ||brandymoormki.pixnet.net
+||bratans.me
 ||bravotabld.co
 ||brb75pf97f.blog.fc2.com
 ||brbtyt.com
@@ -1482,6 +1519,7 @@
 ||c6oya2a8geak.pixnet.net
 ||c6tzy5ism7.pixnet.net
 ||c7j9u5szt2.pixnet.net
+||c7pos.com
 ||c7z4v63pf1.pixnet.net
 ||c8162879meife.wordpress.com
 ||c82mc49lth.blog.fc2.com
@@ -1508,6 +1546,7 @@
 ||califoestment.co
 ||california-german-shepherds.com
 ||cam4.pixnet.net
+||cameosfl.co
 ||camillesw94.pixnet.net
 ||camlya.com
 ||campestrecosmetica.cl
@@ -1541,6 +1580,8 @@
 ||casadeldeporte.cl
 ||casaeams.me
 ||casainlatina.it
+||casaleregina.it
+||cascinavaraita.it
 ||caseyrobiu3.pixnet.net
 ||cashball85.pixnet.net
 ||cashchien.pixnet.net
@@ -1585,13 +1626,16 @@
 ||centrumdit.pl
 ||ceospacela.com
 ||ceptchina.com
+||ceramic-pro.ro
 ||cerelys.co
 ||ces.net.pl
 ||cew38gr52z.blog.fc2.com
 ||cf21k11.pixnet.net
 ||cfacat.cn
 ||cfo1299yrp.blog.fc2.com
+||cfonexgen.com
 ||cfsksupport.co
+||cfsrc.it
 ||cftc-monoprix.fr
 ||cfulo517fx.pixnet.net
 ||cgf35eb83x.pixnet.net
@@ -1608,6 +1652,7 @@
 ||channel.jp.net
 ||chaonvgu.com
 ||chaosou.cc
+||chaozei.co
 ||chapmanj35075.pixnet.net
 ||charlehele844.pixnet.net
 ||charlesdowdy.me
@@ -1625,8 +1670,10 @@
 ||chblishing.co
 ||checked.news
 ||checkiton.club
+||checklist-turkije.nl
 ||cheer01.me
 ||cheerfulprsdent.co
+||chefpannullo.it
 ||chen-ton.com
 ||chengyucidian.net
 ||chenxiuyong.com
@@ -1638,10 +1685,13 @@
 ||chezmoer.co
 ||chianciongoni.me
 ||chias.tw
+||chibalans-nh.nl
 ||chiefstock.com
+||childmortgage.com
 ||childrenplayfun.com
 ||china-life.buzz
 ||chinaaepl.com
+||chinabelleagency.com
 ||chinadaily.tw
 ||chinahot.org
 ||chinanewstruth.blogspot.*
@@ -1672,9 +1722,11 @@
 ||chuaijuzi.com
 ||chunew.com
 ||chunew.net
+||cialisv3u.com
 ||cib67bm27z.blog.fc2.com
 ||ciba365.com
 ||cibeiwen.com
+||cichantuve.ru.com
 ||cicicou.com
 ||cifrogid.ru
 ||cilixxxs.com
@@ -1694,6 +1746,7 @@
 ||ckzja726ax.pixnet.net
 ||cl19s7.pixnet.net
 ||classicofloves.com
+||claudiolippi.com
 ||claytobenrich.pixnet.net
 ||cleancaptcha.top
 ||cleanup.jp.net
@@ -1710,6 +1763,7 @@
 ||cloudtree.me
 ||clp27ub76f.blog.fc2.com
 ||clrh0i8.pixnet.net
+||club-oeta.com
 ||clubduesst.co
 ||clubfeeast.co
 ||clydebrittkq.pixnet.net
@@ -1727,6 +1781,7 @@
 ||cnporcelain.net
 ||cnpython.com
 ||cnread.news
+||cnunblockitsfgrw.za.com
 ||cnyangniu.net
 ||cnyyop.co
 ||coachinga01.com
@@ -1804,6 +1859,7 @@
 ||comicck.com
 ||comist.co
 ||commreader.com
+||como.it
 ||comparestillplural.top
 ||comphard.eu
 ||complementsvaiil.co
@@ -1811,6 +1867,7 @@
 ||coms.pub
 ||comtocom.it
 ||conc100.pixnet.net
+||confianzamagazine.nl
 ||conglinds.com
 ||conroy712.pixnet.net
 ||consta28.pixnet.net
@@ -1835,6 +1892,8 @@
 ||copyan.com
 ||copyfuture.com
 ||corp.com.tw
+||corpcbeu.com
+||corpcbeu.finance
 ||corpoamar.cl
 ||corumrld.co
 ||cosoread.com
@@ -1863,6 +1922,7 @@
 ||crediasurement.co
 ||crefinadcst.co
 ||crffj937ze.pixnet.net
+||crimessul.com
 ||cristiducci.co
 ||croatiadcast.co
 ||croaticast.co
@@ -2029,10 +2089,12 @@
 ||d8t2y.pixnet.net
 ||d8uiz8ed9s.pixnet.net
 ||d9b1b3xvtx.pixnet.net
+||d9eik.hair
 ||d9fhb57vfj.pixnet.net
 ||d9h5l5f7xl7.pixnet.net
 ||d9j0k3qdmf.pixnet.net
 ||d9jxz1djvf.pixnet.net
+||d9kwd.hair
 ||d9p2c1pltu.pixnet.net
 ||d9pdl73jlt.blog.fc2.com
 ||d9pxb15vpz.pixnet.net
@@ -2093,6 +2155,7 @@
 ||dapb.cc
 ||dape.cc
 ||dapg.cc
+||dapingpai.com
 ||dapx.cc
 ||daquandaquan.com
 ||dariesias.me
@@ -2172,9 +2235,11 @@
 ||defense.rocks
 ||dehlicofcast.co
 ||dehliwicast.co
+||deilue.com
 ||deiniang.com
 ||delhcat.co
 ||delhdcas.co
+||delicatedate.net
 ||delicioushare.com
 ||delidc.co
 ||demedmm.co
@@ -2202,11 +2267,13 @@
 ||dezwuv942.pixnet.net
 ||df56163128.pixnet.net
 ||df79997937.blog.fc2.com
+||dfbsmm.co
 ||dfh4g84f56.com
 ||dfkwos654.pixnet.net
 ||dfnvn33773.pixnet.net
 ||dfrvd91355.pixnet.net
 ||dfxiaoshuo.com
+||dg-edu.com
 ||dg24790414.pixnet.net
 ||dgaera.blogspot.*
 ||dgboligang.com
@@ -2229,13 +2296,16 @@
 ||dianebarnnoe.pixnet.net
 ||dianecummia2.pixnet.net
 ||diangongwugwugwu.com
+||diannaoshiyong.com
 ||diannepedroby.pixnet.net
 ||dianshijizhinan.com
 ||diaoshuoshuo.com
 ||diawjj.club
+||diazai.com
 ||dida321.com
 ||didamagne.co
 ||didiadidia.com
+||diefiao.com
 ||dietsupptgp.co
 ||dietwikitw.com
 ||dif41vp73y.blog.fc2.com
@@ -2253,6 +2323,7 @@
 ||dinerpar.co
 ||dingdnews.com
 ||diningtagtw.com
+||dinohell.co
 ||dioks.blogspot.*
 ||directcpmfwr.com
 ||directgrillage.fr
@@ -2297,8 +2368,10 @@
 ||dnf1121cru.pixnet.net
 ||dnlp7richa773.pixnet.net
 ||dnp82gi25k.blog.fc2.com
+||dnt-ontharder.nl
 ||dnxvjvtfbp.pixnet.net
 ||doaner.me
+||doans.wiki
 ||dobs-tds.com
 ||doc01.cc
 ||docs01.com
@@ -2317,6 +2390,7 @@
 ||doitwell.app
 ||doj9989asp.pixnet.net
 ||doknow.pub
+||dol-svyazist.ru
 ||dolclna.co
 ||domainelespailles.net
 ||dongfeng.me
@@ -2324,7 +2398,9 @@
 ||dongqiuxiang.net
 ||dorfplatz-ja.ch
 ||dorh73.pixnet.net
+||doujila.com
 ||dounaite.com
+||douyin443.com
 ||dovov.com
 ||downol.com
 ||downtownlloyd.com
@@ -2365,6 +2441,7 @@
 ||dsoftwaepodcs.co
 ||dspsuper.com
 ||dsrfo411vl.pixnet.net
+||dstg-th.de
 ||dsy39.com
 ||dtdsnx.com
 ||dtime.com
@@ -2385,6 +2462,7 @@
 ||duncaninvestigation.me
 ||duncanjan3984.pixnet.net
 ||dundartor.co
+||dunfiao.com
 ||dungwa.com
 ||dushiliangpin.com
 ||dustinwandcon.pixnet.net
@@ -2421,7 +2499,9 @@
 ||dzn77bt19x.blog.fc2.com
 ||dzxban.com
 ||dzypz892hy.pixnet.net
+||e-dresscode.pl
 ||e-mono.jp.net
+||e-oligo.fr
 ||e0aqm6gagy.pixnet.net
 ||e0nfn39azm.pixnet.net
 ||e0oym4gcgg.pixnet.net
@@ -2492,6 +2572,7 @@
 ||ebcbuzz.com
 ||ebcbuzz.net.tw
 ||ebcbuzz.tw
+||ebookkeepergroup.com
 ||ebsk579.pixnet.net
 ||ecoconfort.es
 ||ecofuel.me
@@ -2552,6 +2633,7 @@
 ||elabor.vip
 ||elads.kocpc.com.tw
 ||elainejamesng.pixnet.net
+||elakelaisetuusimaa.fi
 ||elcaugfic.co
 ||eleanoy14e60a.pixnet.net
 ||element-ui.cn
@@ -2570,8 +2652,10 @@
 ||elliottrachnm.pixnet.net
 ||elmerdianehc.pixnet.net
 ||elodie-bisson.me
+||elrohny.co
 ||em-goldex.jp.net
 ||ema633rogejg.pixnet.net
+||embaixadangola.ru
 ||emckoeoq0w.blog.fc2.com
 ||ememsmqgqs.pixnet.net
 ||emertga.co
@@ -2603,6 +2687,7 @@
 ||enww.cc
 ||eny65tv61e.blog.fc2.com
 ||enymv67177.pixnet.net
+||enzhei.com
 ||eoeo365.com
 ||eoeolike.com
 ||eoeonews.com
@@ -2647,6 +2732,7 @@
 ||etop.com.cn
 ||etravelist.com
 ||eujen.space
+||eureka.com.es
 ||eurocio-events.eu
 ||euy90wr15e.pixnet.net
 ||evanotty.net
@@ -2670,6 +2756,7 @@
 ||ex28305017.pixnet.net
 ||examiner.com
 ||exceptionshub.com
+||exclusievecoatings.nl
 ||exctelco.co
 ||expensive88.online
 ||experts-exchange.com
@@ -2678,7 +2765,10 @@
 ||expressfun.net
 ||ext7429zoq.blog.fc2.com
 ||exzt93615356muan.wordpress.com
+||ey588.net
 ||eyctm.com
+||eyeseenews.com
+||eyminr.me
 ||eyn2425fernwq.pixnet.net
 ||eyutong.net.cn
 ||ez01.info
@@ -2739,6 +2829,7 @@
 ||f3dff7rvtt.pixnet.net
 ||f3f5z3bj71.pixnet.net
 ||f3freddietswc.pixnet.net
+||f3g6j.gb.net
 ||f3genehh.pixnet.net
 ||f3hdn1ltvl.pixnet.net
 ||f3iug538qwa.pixnet.net
@@ -2794,6 +2885,7 @@
 ||f8x8n43ov5.pixnet.net
 ||f8ybi9zee7.blog.fc2.com
 ||f91pl35d.pixnet.net
+||f92kc.za.com
 ||f93ir.com.es
 ||f9a2b08qt1.blog.fc2.com
 ||f9b5l3p7vxl.pixnet.net
@@ -2833,6 +2925,7 @@
 ||faminereports.blogspot.*
 ||fanaade.co
 ||fanaystart.com
+||fanfanwen.com
 ||fangyan100.com
 ||fanli7.net
 ||fanpiece.com
@@ -2842,6 +2935,7 @@
 ||fanwenyuan.com
 ||fanyia.com
 ||fanyizhinan.com
+||fapv.cz
 ||faqs.tw
 ||farmerb7760.pixnet.net
 ||fas68s6sf12.com
@@ -2901,8 +2995,11 @@
 ||fe21889019.blog.fc2.com
 ||fe3596236zhu.wordpress.com
 ||fearof.org
+||febeltigg.live
 ||febeshopping.blogspot.*
 ||fedexclis.co
+||feellila.co
+||feieng.com
 ||feishuxiangmu.cn
 ||felixlawrilh.pixnet.net
 ||femmewetalk.com
@@ -2959,9 +3056,11 @@
 ||fingerdaily.com
 ||fingermedia.tw
 ||finkintime.club
+||finop-vvebeheer.nl
 ||finzkm490.pixnet.net
 ||fireferjobs.me
 ||firhub69.com
+||first-suzuki.ru
 ||fishday-vrn.ru
 ||fisheriends.co
 ||fisioterapiamazzei.it
@@ -3042,6 +3141,7 @@
 ||fqxc490.pixnet.net
 ||fr17531597.blog.fc2.com
 ||fr5v8ndaroger.pixnet.net
+||francescagiardini.eu
 ||francisarmr3.pixnet.net
 ||franciskr3230.pixnet.net
 ||frankknige53k.pixnet.net
@@ -3054,6 +3154,7 @@
 ||frednbf5dqm7w.pixnet.net
 ||fredpeterpxc.pixnet.net
 ||free.hr
+||freedomcwjp.ru.com
 ||freedomxmfnh.sa.com
 ||freedomymqcb.sa.com
 ||freejobalerts24.com
@@ -3067,6 +3168,7 @@
 ||fresubmit.me
 ||friask.com
 ||friend-color.com
+||frisbq.co
 ||fromagency.ru
 ||frtxf73553.pixnet.net
 ||fry05xs71n.blog.fc2.com
@@ -3207,6 +3309,7 @@
 ||g9u3j11uxe.pixnet.net
 ||gabrieleevict.pixnet.net
 ||gac10vk71x.pixnet.net
+||gachnce.co
 ||gadgetsclnc.co
 ||gae04ws80u.pixnet.net
 ||gagatai.com
@@ -3232,6 +3335,7 @@
 ||gaveyy.me
 ||gavp186.pixnet.net
 ||gax43hc23k.pixnet.net
+||gazousure.com
 ||gbef481.pixnet.net
 ||gbfdfsdf33.blogspot.*
 ||gbjzot451.pixnet.net
@@ -3277,6 +3381,7 @@
 ||ghy60ql47m.pixnet.net
 ||gi453jreelej.pixnet.net
 ||gi62.com
+||gicauto.eu
 ||giftflower.com
 ||gigacircle.com
 ||gigcasa.com
@@ -3286,6 +3391,7 @@
 ||giters.com
 ||gitmo-gvhd2021.it
 ||givemeawish.net
+||givesa.co
 ||gj215t3zgy.blog.fc2.com
 ||gjczz.com
 ||gjoyz.co
@@ -3378,6 +3484,7 @@
 ||gospel2rmnia.co
 ||gotokeyword.com
 ||gouma.org
+||gouretvc.me
 ||goyeah.tw
 ||gp44512935.pixnet.net
 ||gpbctv.com
@@ -3393,8 +3500,10 @@
 ||graceansors.co
 ||gracecrossjud.pixnet.net
 ||grahamiy40.pixnet.net
+||grajzmartessport.pl
 ||gramhir.com
 ||grantleerx.pixnet.net
+||grantnorman.com
 ||graphicvp.ru
 ||gravespagoyrr.pixnet.net
 ||grcamerada.com
@@ -3440,14 +3549,18 @@
 ||gukqkgaug6.pixnet.net
 ||gulnzshp.co
 ||gungor162.pixnet.net
+||guohu8.com
 ||guohuzhinan.com
 ||guowenban.com
 ||guowenme.cc
+||guowenyun.com
+||guoyuji.com
 ||gupiao.sg
 ||gushiciku.cn
 ||gustavoblanco.me
 ||gutierrhar688.pixnet.net
 ||guudo.cn
+||guwenxuexi.com
 ||guymichellaj.pixnet.net
 ||gvxih891tv.blog.fc2.com
 ||gw50727724.pixnet.net
@@ -3588,6 +3701,7 @@
 ||handbasie.me
 ||handread.cc
 ||handyradar.org
+||hangfiao.com
 ||hangitupheck.co
 ||hanhuang.me
 ||hanlefang.net
@@ -3603,6 +3717,7 @@
 ||haolookr.com
 ||haosh.cc
 ||haowai.today
+||haoword.com
 ||haoyunmyt.com
 ||haoyuntt.com
 ||hapc.cc
@@ -3689,6 +3804,7 @@
 ||hda81pm42a.blog.fc2.com
 ||hdapei.com
 ||hdctrf.com
+||hdfoil.com
 ||hdhbz57179.pixnet.net
 ||hdi92gk83z.blog.fc2.com
 ||hdkang.co
@@ -3716,6 +3832,7 @@
 ||healthysharing.life
 ||healthyssky.com
 ||healthyssky.xyz
+||healtyman.xyz
 ||heartguider.com
 ||heasay.com
 ||heatask.com
@@ -3732,6 +3849,7 @@
 ||helunafashion.fi
 ||hendrart.co
 ||hengfe63.co
+||hengfiao.com
 ||henniu466.site
 ||hernandromaxi.pixnet.net
 ||hernanmaurjab.pixnet.net
@@ -3751,6 +3869,8 @@
 ||hfdewgov.site
 ||hfrhdalfrh8r.pixnet.net
 ||hgsz008.xyz
+||hhbkg.com
+||hhbky.com
 ||hhd35cz16z.blog.fc2.com
 ||hhfocus.com
 ||hhigov.com
@@ -3837,6 +3957,7 @@
 ||hobbytagtw.com
 ||hoffmam37l477.pixnet.net
 ||hoiiy1181.pixnet.net
+||hokpink.co
 ||holakikybernice.blog.fc2.com
 ||hollenews.com
 ||hollyemma4662.pixnet.net
@@ -3846,6 +3967,7 @@
 ||homeonics.co
 ||hon6578elr.blog.fc2.com
 ||honey99.net
+||honeyjobb.com
 ||hongda-steeltube.cn
 ||hongkongha.com
 ||hongyibag.com
@@ -3926,6 +4048,7 @@
 ||htsgov.com
 ||htz13vl53h.blog.fc2.com
 ||huahanzw.com
+||huajianggu.com
 ||huashu-inc.com
 ||huaweiempresas.com
 ||huaxuezhinan.com
@@ -4046,10 +4169,13 @@
 ||ib4111d.pixnet.net
 ||ib65193469.pixnet.net
 ||ibestchoice.com
+||ibilte.co
 ||ibizfree.co
 ||ibizsadise.co
 ||ibj.tw
 ||ibrahimzs708.wordpress.com
+||ibrandblogs.com
+||ibuycarsforcashmiami.com
 ||iccie.tw
 ||icemaker17880326.wordpress.com
 ||ichiryuhk.com
@@ -4074,6 +4200,7 @@
 ||ieltsikey.co
 ||iemiu.com
 ||ieo72vt43t.blog.fc2.com
+||iepaig.co
 ||iettion.co
 ||ifc16o5deniln.pixnet.net
 ||ifun01.com
@@ -4113,6 +4240,7 @@
 ||imadhoutu.co
 ||image-wallpaper.com
 ||imama.tw
+||imbeble.co
 ||imdailyheadlines.com
 ||imenomassaetre.co
 ||imkerdarf.co
@@ -4124,13 +4252,16 @@
 ||imtopsales.com
 ||imynest.com
 ||in1r50.pixnet.net
+||indexfx15.com
 ||indnriveranimaladvoctes.co
+||indonesiabelle.com
 ||inew.com.tw
 ||inewsdb.com
 ||inf.news
 ||info01.win
 ||infobarrel.com
 ||infoibsp.co
+||infolinkalternatif.com
 ||ingoesprperties.co
 ||ingram13.club
 ||inhanbro.com
@@ -4181,6 +4312,7 @@
 ||iredpage.com
 ||irene-eux.com
 ||iriri.co
+||irisclma.co
 ||irnsor.com
 ||irqnhc5981.pixnet.net
 ||irsf0wal86535.pixnet.net
@@ -4193,6 +4325,7 @@
 ||isforum.net
 ||ishare777.blogspot.*
 ||isheart.co
+||ishkuru.co
 ||ishmeitian.com
 ||iso2.cc
 ||ispot.news
@@ -4214,6 +4347,7 @@
 ||iter01.com
 ||itermail.com
 ||itestquiz.com
+||ithink.pub
 ||itigic.com
 ||itishealthtime.com
 ||itislooker.com
@@ -4237,6 +4371,7 @@
 ||ivtips.me
 ||ivtpnl523.pixnet.net
 ||iw94.com
+||iwen.pub
 ||iwiki.tw
 ||iwk09spf0k.pixnet.net
 ||iwoqlm2597.pixnet.net
@@ -4423,6 +4558,7 @@
 ||jdpl57ld.wordpress.com
 ||jdr55dr55z.blog.fc2.com
 ||jdt97tp55r.blog.fc2.com
+||jdwx020.com
 ||jdwzl968fi.pixnet.net
 ||jeanetnhcg84m.pixnet.net
 ||jeanetr8rd7ha.pixnet.net
@@ -4497,6 +4633,7 @@
 ||jj41409976.pixnet.net
 ||jjbkw.com
 ||jjhrt.net
+||jjlks.cn
 ||jjmanstudio.com
 ||jjminch.co
 ||jjzlx59955.pixnet.net
@@ -4509,6 +4646,7 @@
 ||jkhappytify.info
 ||jkhealthtree.com
 ||jklyxr412.pixnet.net
+||jkmaow.me
 ||jkq21ah41i.blog.fc2.com
 ||jktip.net
 ||jkvanguard.com
@@ -4576,6 +4714,7 @@
 ||jrq91ig79w.pixnet.net
 ||jscgov.com
 ||jsgyjs.com
+||jslsd2019.com
 ||jsr75ef27j.blog.fc2.com
 ||jssou.cc
 ||jstt.cc
@@ -4596,6 +4735,7 @@
 ||jueshifan.com
 ||jug07uy57w.blog.fc2.com
 ||juhangye.com
+||juhebbs.com
 ||juicy-news.hk
 ||jujia.pub
 ||juk73kl19w.blog.fc2.com
@@ -4701,6 +4841,7 @@
 ||k9a1k8.wordpress.com
 ||k9jad6uwl2.pixnet.net
 ||k9rde51ek1.pixnet.net
+||kabppe.co
 ||kadngndem.co
 ||kafx.cc
 ||kaicen.cn
@@ -4710,6 +4851,7 @@
 ||kalt-made.ch
 ||kam-fuer-kmu.ch
 ||kamber17486.pixnet.net
+||kameleonorchestras.com
 ||kan.world
 ||kanfb.com
 ||kangkang.life
@@ -4740,6 +4882,7 @@
 ||kawkain.co
 ||kawunimy.com
 ||kayap4c16m4y2.pixnet.net
+||kb-glovis.com
 ||kbo.tw
 ||kbv22vq17b.blog.fc2.com
 ||kcq05ko31v.blog.fc2.com
@@ -4748,6 +4891,8 @@
 ||ke97374781.blog.fc2.com
 ||keecnya.xyz
 ||keeping-health.com
+||keesogel.co
+||keimiao.com
 ||keithbevehymf.pixnet.net
 ||keke01.net
 ||kekeplays.cc
@@ -4825,6 +4970,7 @@
 ||kmg360.com
 ||kmrsbo436.pixnet.net
 ||kn053r.pixnet.net
+||kn77.net
 ||knightjsqd7.pixnet.net
 ||knlfc73058.pixnet.net
 ||knowledgeunion.com
@@ -4844,17 +4990,21 @@
 ||kolbikauppa.fi
 ||kolotwtu.co
 ||koolcardls.co
+||koosof.co
 ||kora-mesr.com
 ||koronazino.co
 ||kosmetikacalendula.cz
+||kotivuokraus.fi
 ||koug310.pixnet.net
 ||koujipu.co
 ||kousokudrve.co
 ||kp27m1.pixnet.net
 ||kpdq359113.blog.fc2.com
 ||kpf970w1q6.blog.fc2.com
+||kpianyi.com
 ||kpo14ho42p.blog.fc2.com
 ||kpoppunch.com
+||kpu-forum.com
 ||kpzs.com
 ||kpzsg.com
 ||kq3hxcw3.pixnet.net
@@ -4865,6 +5015,7 @@
 ||kr4nealk54n.pixnet.net
 ||kragoda.com
 ||kragov.com
+||kreditikus.eu
 ||kristinkeviot.pixnet.net
 ||kristir3674.pixnet.net
 ||ks-photo.me
@@ -4875,6 +5026,7 @@
 ||ku95335289.pixnet.net
 ||kuailesh.com
 ||kuaisusou.cc
+||kuanun.com
 ||kuboter.co
 ||kuipj531pu.pixnet.net
 ||kunkun.fun
@@ -5028,6 +5180,7 @@
 ||lanzhouyangsheng.com
 ||laparrale.me
 ||lapetrick.pixnet.net
+||laportadelcuore.ar.it
 ||larid.hk
 ||larquey-environnement.fr
 ||larrycastiv2.pixnet.net
@@ -5037,6 +5190,7 @@
 ||lasermyskin.com
 ||lastbattlerunfun.website
 ||lastexitdc.com
+||latinlina.com
 ||laughbombclub.com
 ||laughingbombclub.com
 ||lauranesaliou.me
@@ -5101,6 +5255,7 @@
 ||lfnews.xyz
 ||lftai369ak.pixnet.net
 ||lg33avaneiop.pixnet.net
+||lgfwz.com
 ||lhhfgf35.blogspot.*
 ||lhysg.com
 ||li284or.pixnet.net
@@ -5109,6 +5264,7 @@
 ||liangdian.cc
 ||liaocheng.cc
 ||liasophblg.co
+||libearyy.co
 ||lidskapouta.eu
 ||lieqi.com
 ||lieqi.me
@@ -5153,12 +5309,14 @@
 ||linkptt.com
 ||linksou.cc
 ||linkteelow.live
+||linlhd.co
 ||linnateras.fi
 ||linnseed.me
 ||lino.jp.net
 ||liquorloveyou.com
 ||lir29sm97g.pixnet.net
 ||lisa513889.pixnet.net
+||lisannevaneijk.nl
 ||lisolachece.me
 ||listensomebodysafe.top
 ||literevolmetrice3d.co
@@ -5251,6 +5409,7 @@
 ||lovestory88.com
 ||lovetoknow.com
 ||lovetweast.com
+||lowendbir.me
 ||lp51771997.pixnet.net
 ||lpko5wdaniest.pixnet.net
 ||lpls.net
@@ -5276,10 +5435,12 @@
 ||luckylife166.life
 ||luckylife66.com
 ||luckylucky178.com
+||luefiao.com
 ||luenebuuse.co
 ||luggagetrunk.blog.fc2.com
 ||lujuba.cc
 ||lukoince.co
+||lumisan.eu
 ||lunsui.com
 ||luobojianzhan.com
 ||luoow.com
@@ -5290,6 +5451,7 @@
 ||lvrhanvdgjp886.pixnet.net
 ||lvyou5.net
 ||lvz57vl31t.blog.fc2.com
+||lvzhei.com
 ||lxb199t5d5.wordpress.com
 ||lxix95211230ji.wordpress.com
 ||lxnxw.com
@@ -5384,6 +5546,7 @@
 ||mabelfartucke.pixnet.net
 ||machamexco.co
 ||machbbs.com
+||mackowskimarek.pl
 ||mactv.com.tw
 ||mafsushi.fr
 ||maggie-siff.com
@@ -5450,6 +5613,7 @@
 ||marlaahlalth.co
 ||marlenejmel.pixnet.net
 ||marotify.net
+||marsbettr.com
 ||marsharefreds.pixnet.net
 ||marthamaflore.pixnet.net
 ||martinfll.co
@@ -5514,6 +5678,8 @@
 ||meetptt.com
 ||meetwill.xyz
 ||megafilesqhxty.sa.com
+||megaraya.co
+||mehr-stimmig.ch
 ||meifagu.com
 ||meihuijj.com
 ||meinkraft.ch
@@ -5526,6 +5692,7 @@
 ||melanishi2567.pixnet.net
 ||melhoresaqui.com
 ||melissalanglyphoto.co
+||mellifluous.wiki
 ||melodiya-stilya.ru
 ||memeslong.com
 ||menapodologo.es
@@ -5534,6 +5701,7 @@
 ||mendezroget6.pixnet.net
 ||menf.cc
 ||mengenche.co
+||menlolist.com
 ||mentaltraining.jp.net
 ||meriambousselmi.me
 ||merylsantoptro.co
@@ -5546,6 +5714,7 @@
 ||mf8y7gharmel.pixnet.net
 ||mf98etyt411.blogspot.*
 ||mfbsek825.pixnet.net
+||mftranslations.eu
 ||mfww.cc
 ||mg77194984.blog.fc2.com
 ||mgnbc1trant.pixnet.net
@@ -5581,8 +5750,10 @@
 ||mimi186.com
 ||min.news
 ||mingchengxuanze.com
+||mingnjjue.com
 ||mingtianfangjia.com
 ||mingyanjiaju.org
+||mingyannet.com
 ||minkia.me
 ||minniefa92589.pixnet.net
 ||minnielylfly.pixnet.net
@@ -5636,6 +5807,7 @@
 ||mobileadv.eu
 ||mobilecator.co
 ||mobillegends.net
+||mobypc.co
 ||modengzhan.com
 ||moderncaptcha.top
 ||modernpntoring.co
@@ -5687,18 +5859,22 @@
 ||mqdcnt364.pixnet.net
 ||mr05226936.blog.fc2.com
 ||mrb91gy85y.blog.fc2.com
+||mrfashionwood.pl
 ||mrgenerical.co
 ||mrnews.cc
 ||mrr33bx69i.blog.fc2.com
 ||mrttw.com
 ||msbdyco.co
+||msbohnarmor.com
 ||mscstones.com
 ||msfoodvip.com
 ||msg0253zks.blog.fc2.com
 ||mspp.cc
 ||mssou.cc
+||msyatech.co
 ||mt28196322.pixnet.net
 ||mt47esfgj.blogspot.*
+||mtfww.com
 ||mtp-pechstein.de
 ||mttmp.com
 ||muchunkang.com
@@ -5727,6 +5903,7 @@
 ||mx30699544.pixnet.net
 ||mx52579356.pixnet.net
 ||mxfunny.com
+||my-cambodia-visa.com
 ||my-styledesign.com
 ||my74158876.pixnet.net
 ||my7475.com
@@ -5889,6 +6066,7 @@
 ||nasrba.blogspot.*
 ||nassrance.me
 ||natashahoare.me
+||nativespeakerwarszawa.pl
 ||natrajstre.xyz
 ||navywc.com
 ||nayaadf.blogspot.*
@@ -5964,6 +6142,7 @@
 ||nextsingapo.com
 ||nfg28tb60h.pixnet.net
 ||nfiwve782.pixnet.net
+||nfrbids.com
 ||nfrpress.com
 ||nfrzix195.pixnet.net
 ||nfsfashin.co
@@ -5986,6 +6165,7 @@
 ||nijigenfun.com
 ||nina.az
 ||ninafranc8493.pixnet.net
+||ninshuan.com
 ||niubb.net
 ||niul.net
 ||niuzhan.com
@@ -6016,6 +6196,7 @@
 ||nnworkspce.co
 ||no87293903.pixnet.net
 ||nocancers.net
+||nodsea.co
 ||nonamesrry.co
 ||nongjia888.com
 ||nonglinyumu.com
@@ -6035,7 +6216,10 @@
 ||nothing82.com
 ||nothingshare.com
 ||notmyfirstrodeoblog.me
+||noujing.com
+||noukao.com
 ||nourite.co
+||nousheng.com
 ||noussli.ch
 ||novapromotion.fr
 ||novelfeed.com
@@ -6070,10 +6254,16 @@
 ||ntdxn99977.pixnet.net
 ||ntk69.pixnet.net
 ||ntpn.cc
+||nts777.com.tw
 ||ntvhn35519.pixnet.net
 ||nuanshuoshuo.com
 ||nub40xi91k.pixnet.net
+||nuexuan.com
 ||nukfunboxlego.blog.fc2.com
+||nunbang.com
+||nunkuai.com
+||nunmang.com
+||nunqiu.com
 ||nunque.com
 ||nuoshuoshuo.com
 ||nuti063.pixnet.net
@@ -6084,6 +6274,7 @@
 ||nv87.com
 ||nv93715793.blog.fc2.com
 ||nvad037.cc
+||nvchua.com
 ||nvfxl71759.pixnet.net
 ||nvh1155qif.blog.fc2.com
 ||nvrenzuida.com
@@ -6204,6 +6395,7 @@
 ||oj03.com
 ||oj47.com
 ||ok25543043.blog.fc2.com
+||okene.eu
 ||oklahios.me
 ||okozen.co
 ||oktoberfest-bj.com
@@ -6214,6 +6406,7 @@
 ||ol61.com
 ||ol64.com
 ||ol7dp8.tokyo
+||olaksa.co
 ||olc59ru72z.pixnet.net
 ||olcif.com
 ||old3x7.pixnet.net
@@ -6328,6 +6521,7 @@
 ||otakuni.co
 ||oth03bk64n.blog.fc2.com
 ||otiramisu.fr
+||otlm.si
 ||otransformation.com
 ||oubafeng.com
 ||oudebaosw.com
@@ -6470,7 +6664,9 @@
 ||p9xzt75jnl.pixnet.net
 ||pa58jaredyt.pixnet.net
 ||pa9bym02uk.pixnet.net
+||packdeck.co
 ||packdkker.co
+||pacreer.co
 ||paddyun662.wordpress.com
 ||padpadblog.life
 ||paffatmpte.co
@@ -6534,11 +6730,14 @@
 ||peekme.cc
 ||peggybessium0.pixnet.net
 ||peluqueriasuarez.es
+||pengfiao.com
 ||penghu.pub
+||pensiongaschler.eu
 ||peopleinsider.blogspot.*
 ||peopleinsider.net
 ||perceptia.de
 ||perfect-catch.nl
+||perfiplast.com
 ||peritiagrari.fr.it
 ||perkine3t0m.pixnet.net
 ||perkinsarmsco.pixnet.net
@@ -6598,6 +6797,7 @@
 ||pieshuoshuo.com
 ||pifyu8wfhi.pixnet.net
 ||pikicast.tw
+||pikoo.eu
 ||pineapple-bun.com
 ||pineapple99.com
 ||pingyan643681.pixnet.net
@@ -6631,15 +6831,18 @@
 ||plaxon.ch
 ||play01ground.com
 ||play543.com
+||playerunknownsbattlegrounds.net
 ||playmisty4.me
 ||playplace.es
 ||playprgty.co
 ||plays01.com
 ||please.news
+||plesir.net
 ||plf8freid9749.pixnet.net
 ||plmm90020571cuo.wordpress.com
 ||plqdf.com
 ||pluck.com
+||plus-hulu.com
 ||plvpl77137.pixnet.net
 ||plytic.com
 ||pm591w.pixnet.net
@@ -6661,9 +6864,11 @@
 ||poemasenelre.co
 ||pogood123.blogspot.*
 ||pointnet.news
+||pointome.co
 ||pokerbstr.co
 ||pol4z4.pixnet.net
 ||polenaturemaraisdyves.fr
+||poloznaradzi.pl
 ||polresmajlengk.co
 ||ponews.net
 ||pooas12.pixnet.net
@@ -6703,6 +6908,7 @@
 ||prbhexprts.co
 ||prbzv19793.pixnet.net
 ||predire.vs.it
+||premsack.co
 ||presentvzvr.pixnet.net
 ||presslocalhk.com
 ||presslogic.com
@@ -6725,6 +6931,7 @@
 ||probeballat.co
 ||procnw.xyz
 ||prodlgiousdates.com
+||profitablegatetocontent.com
 ||profyi.com
 ||programgo.com
 ||programmersought.com
@@ -6900,6 +7107,7 @@
 ||qciss.net
 ||qcqa8km86.pixnet.net
 ||qcsl364.pixnet.net
+||qdcypf.com
 ||qdssw922am.xyz
 ||qe035n.pixnet.net
 ||qel03sn15n.pixnet.net
@@ -6915,6 +7123,7 @@
 ||qhc28gm31f.blog.fc2.com
 ||qhfx.cc
 ||qiananch.com
+||qianfiao.com
 ||qiangkuo.com
 ||qiangyao.cn
 ||qianjuzi.com
@@ -6999,6 +7208,7 @@
 ||quaiwang123.com
 ||qualidogs.co
 ||queenmobile.es
+||quenun.com
 ||questionhub.com
 ||quickplay.tw
 ||quiltgden.me
@@ -7017,6 +7227,7 @@
 ||qvzx.cc
 ||qw03593617.pixnet.net
 ||qwcv4426857baya.wordpress.com
+||qwkpw.com
 ||qwm864i6e8.wordpress.com
 ||qwvbkristinca.pixnet.net
 ||qwyh346.pixnet.net
@@ -7158,10 +7369,12 @@
 ||rachelay.me
 ||radio.am
 ||radokni.co
+||rahimtel.co
 ||raincolops.co
 ||rajasthantrism.co
 ||rakurakulf.co
 ||ralphbettyron.pixnet.net
+||ralsorld.co
 ||ramiref840f.pixnet.net
 ||ramirezha6537.pixnet.net
 ||ramonaramn5r1.pixnet.net
@@ -7218,6 +7431,8 @@
 ||remebbe.co
 ||renates.co
 ||renaultpassonxperience.co
+||renocaffe.com
+||renshei.com
 ||repingke.com
 ||replidelujo.co
 ||replydiscusstool.xyz
@@ -7260,6 +7475,7 @@
 ||rileyjonatq1.pixnet.net
 ||rio6180lst.blog.fc2.com
 ||rioslydia3085.pixnet.net
+||ripcurrentlbk.com
 ||risashi.pixnet.net
 ||ritamedillx.pixnet.net
 ||rivageruse.co
@@ -7271,6 +7487,7 @@
 ||rkwsw.cc
 ||rl57195135.pixnet.net
 ||rla1035pwx.blog.fc2.com
+||rlhhk.co
 ||rljfh99771.pixnet.net
 ||rlmd78s5oeb.pixnet.net
 ||rlxyw043fv.pixnet.net
@@ -7288,6 +7505,7 @@
 ||rnt931f3h5.pixnet.net
 ||rnx33hp31x.pixnet.net
 ||robertbrejnk.pixnet.net
+||robinalu.co
 ||robinf8gp5ai6.pixnet.net
 ||robinsh0b38.pixnet.net
 ||robnjk.co
@@ -7300,11 +7518,13 @@
 ||rogerwolfson.me
 ||roh5096bff.blog.fc2.com
 ||rohstgel.co
+||roma.it
 ||ronaldhej.pixnet.net
 ||rongtaihe1879.com
 ||ronia.me
 ||ronnewmanches.pixnet.net
 ||ror114t.pixnet.net
+||rosaliebuttisholz.ch
 ||rosarizi.co
 ||roundateri.co
 ||rounsh.com
@@ -7435,6 +7655,7 @@
 ||sabelrca.co
 ||sabrifr725.pixnet.net
 ||sabrifr725.wordpress.com
+||sacinus.me
 ||sadhub.org
 ||safdtechgy.co
 ||safx.cc
@@ -7457,11 +7678,14 @@
 ||sanderburtchd.pixnet.net
 ||sanderjennixi.pixnet.net
 ||sanderssant27.pixnet.net
+||sangshei.com
+||sangzhei.com
 ||sanookmark-ethnic.jp.net
 ||santiagjacu31.pixnet.net
 ||saowen.com
 ||sapue.fr
 ||saqmib760.pixnet.net
+||sarialip.co
 ||sassari.it
 ||satehj.blogspot.*
 ||sauerduels.me
@@ -7472,6 +7696,7 @@
 ||sbks53blak16.pixnet.net
 ||sbz75tv35x.blog.fc2.com
 ||sc8i3.pixnet.net
+||schloss-penkun.de
 ||sci101.news
 ||scottct5775yw.pixnet.net
 ||scottpatanapl.pixnet.net
@@ -7495,10 +7720,12 @@
 ||seesteinen.fi
 ||seeyouni.club
 ||segsb2.com
+||seize-t-d.com
 ||selal25863.pixnet.net
 ||selecthome.it
 ||selfelementcow.top
 ||semicolonworld.com
+||sengden.com
 ||sengzao.com
 ||senioren-pratteln.ch
 ||sennispodcst.co
@@ -7509,6 +7736,7 @@
 ||sergiofoto.lv
 ||sergiogwqx.pixnet.net
 ||serramentiinpvc.mb.it
+||serrano-design.com
 ||sexptt.tk
 ||sfen.cc
 ||sfglfpodcs.co
@@ -7527,10 +7755,12 @@
 ||sh181e2h.blog.fc2.com
 ||sha59nc06r.blog.fc2.com
 ||shabtop.me
+||shamzz.co
 ||shangmeiyiliao.com
 ||shannkffects.co
 ||shannondeloyo.pixnet.net
 ||shannonluxaq.pixnet.net
+||shaokei.com
 ||shaqfool.us
 ||share.readward888.com
 ||share001.com
@@ -7555,7 +7785,9 @@
 ||shauyess.co
 ||shdfny.com
 ||sheisui.com
+||sheiwai.com
 ||shemalepo.co
+||shengdiaoyayun.com
 ||shengqian001.com
 ||shenlddq.co
 ||shenmedaquan.com
@@ -7576,6 +7808,7 @@
 ||shoujidaren.com
 ||shoujiwan.com
 ||shouye-wang.com
+||shsminele.com
 ||shukunjin.com
 ||shuoshuocun.com
 ||shuoshuodie.com
@@ -7604,6 +7837,7 @@
 ||siliconvst.co
 ||silicorantst.co
 ||silkasigame.com
+||simeding.co
 ||similianxi.com
 ||simonarcher.me
 ||simpledatings.life
@@ -7671,9 +7905,11 @@
 ||smyohoh.co
 ||smz44qo59s.pixnet.net
 ||snorkelos.co
+||snscarhire.com
 ||snvialla.xyz
 ||snyderalictr.pixnet.net
 ||so71732767.blog.fc2.com
+||socchiase.com
 ||socdad.co
 ||sodeog.com
 ||softwarebrother.com
@@ -7758,6 +7994,7 @@
 ||startery.co
 ||startnewstoday.com
 ||startunvas.co
+||stasoe.co
 ||stayhealthtw.com
 ||stb54xe74u.pixnet.net
 ||stcdlassociati.it
@@ -7775,6 +8012,7 @@
 ||stephedq541h.pixnet.net
 ||stepheph1xu46.pixnet.net
 ||steroidologia.com
+||steundester.nl
 ||stevenmichsan.pixnet.net
 ||steventi5nm0p.pixnet.net
 ||stewarjfk43.pixnet.net
@@ -7798,18 +8036,21 @@
 ||studio-parquet-paris.eu
 ||studiocavas.co
 ||studiodahu.com
+||studiolonardelli.it
 ||studiotwlv.co
 ||studyfoation.co
 ||stugov.tv
 ||stx160.com
 ||stylewikitw.com
 ||suahnthp.co
+||submgen.co
 ||subslculator.co
 ||subvietnam.shop
 ||subzero6969.site
 ||successquote.org
 ||sudostcks.co
 ||sufflkmri.co
+||suibishuoshuo.com
 ||suite101.com
 ||sullivajens8j.pixnet.net
 ||sullivberdere.pixnet.net
@@ -7825,6 +8066,7 @@
 ||sunnews.cc
 ||sunnews.site
 ||sunny7335vr.blog.fc2.com
+||sunnyday.wiki
 ||sunterramketing.co
 ||suntw.net
 ||suomenut.co
@@ -7842,6 +8084,7 @@
 ||suttonramonjv.pixnet.net
 ||suyuewu.com
 ||suzannereshel.pixnet.net
+||suzhuai.com
 ||svlt-gr.ch
 ||sw39494173.pixnet.net
 ||swagly.net
@@ -8023,11 +8266,13 @@
 ||takesurveysforcash911.blogspot.*
 ||taksordu.co
 ||talksnew.com
+||tallerfalcon.com
 ||tamiloprk.co
 ||tamishe.cn
 ||tammyhawko5.pixnet.net
 ||tang-seo.com
 ||tanggen.cn
+||tanglhn.co
 ||tanhoangrou.co
 ||tantaninvest.com
 ||tantannews.com
@@ -8051,6 +8296,7 @@
 ||tbbxppzjzd.blog.fc2.com
 ||tbf931jt79.blog.fc2.com
 ||tbhtd53931.pixnet.net
+||tbialoblocki.pl
 ||tbm5887cew.pixnet.net
 ||tbnp78ishryit.pixnet.net
 ||tbr59fv59x.blog.fc2.com
@@ -8064,6 +8310,7 @@
 ||tdww.cc
 ||tdx57lf19y.blog.fc2.com
 ||tdz3xb91.blog.fc2.com
+||teab219.com
 ||teamheeter.com
 ||teammikies.me
 ||tec98226548shou.wordpress.com
@@ -8095,6 +8342,7 @@
 ||tf19919351.pixnet.net
 ||tfb7fff.co
 ||tfc71vw37l.pixnet.net
+||tfcaer.co
 ||tff97xj15n.blog.fc2.com
 ||tfl39dn59l.pixnet.net
 ||tfzz591895.blog.fc2.com
@@ -8107,6 +8355,7 @@
 ||th7814ih91.blog.fc2.com
 ||thabossha.me
 ||thagoda.com
+||thamstore.nl
 ||thats.cc
 ||thcc.cc
 ||theastrologypage.com
@@ -8141,6 +8390,7 @@
 ||thesharedaily.com
 ||thestarsky.com
 ||thetalkingndan.co
+||theuvpn.com
 ||thevalue101.com
 ||thf50lh69o.pixnet.net
 ||thh5.com
@@ -8271,6 +8521,7 @@
 ||tqy2828hix.blog.fc2.com
 ||tr17757519.blog.fc2.com
 ||tr79999717.pixnet.net
+||traasof.co
 ||traceybanktf.pixnet.net
 ||tracybenjajoa.pixnet.net
 ||tracyedithxmv.pixnet.net
@@ -8289,6 +8540,7 @@
 ||trcpb.com
 ||trd3colemanv2.pixnet.net
 ||treatu1.co
+||trebelus.co
 ||trekkingweekend.cl
 ||trending.network
 ||treviso.it
@@ -8349,6 +8601,7 @@
 ||tvb62ez13v.blog.fc2.com
 ||tvt7lt31.blog.fc2.com
 ||tvu2759mfi.blog.fc2.com
+||tw-bbs.net
 ||tw-beaxfun.fun
 ||tw-goldenwinner-57.com
 ||tw-news.xyz
@@ -8388,7 +8641,9 @@
 ||twtwdfjgov.xyz
 ||twvpneuhqy.sa.com
 ||twvpnmpuu.ru.com
+||twvpnrygwu.ru.com
 ||twvrj.me
+||twvscnqmeqxh.za.com
 ||twvscnwggzpt.za.com
 ||twvxp.me
 ||twwiki.com
@@ -8508,6 +8763,7 @@
 ||ulzx.top
 ||umagdaily.com
 ||umbau-gmbh.ch
+||umoretar.co
 ||umtalk.net
 ||umy6580401ganzhi3.wordpress.com
 ||underwears99.blogspot.*
@@ -8521,6 +8777,7 @@
 ||unsereins.me
 ||unsignse.co
 ||unzx.cc
+||uo61.com
 ||uo813c0iet.blog.fc2.com
 ||uonfu.com
 ||uoowx540vc.pixnet.net
@@ -8548,12 +8805,14 @@
 ||utb6889veu.blog.fc2.com
 ||uthopiaprogettazione.it
 ||utravelerpedia.com
+||uulucky.com
 ||uuread.cc
 ||uuread.net
 ||uutopic.com
 ||uuypf707qw.pixnet.net
 ||uv32iarnoldxu.pixnet.net
 ||uvc-protection.ch
+||uvi-group.com
 ||uvpp.cc
 ||uvvgov.com
 ||uwenku.com
@@ -8674,6 +8933,7 @@
 ||vaehall.co
 ||vahaea.blogspot.*
 ||vakuumtechnik.me
+||valentinicostruzioni.eu
 ||value101.net
 ||vancentals.co
 ||vanessaevw55o.pixnet.net
@@ -8772,6 +9032,7 @@
 ||voidcn.com
 ||voidsa.co
 ||voiurisabogados.es
+||vole.pub
 ||vom1pdunnov.pixnet.net
 ||voncho.me
 ||vondec.com.tw
@@ -8806,6 +9067,7 @@
 ||vsen6311184hanpa.wordpress.com
 ||vseslovenskisejem.si
 ||vsk92nb79w.blog.fc2.com
+||vsk9d.sa.com
 ||vsm20cc47d.blog.fc2.com
 ||vstgov.com
 ||vtd97bf35d.blog.fc2.com
@@ -8892,6 +9154,7 @@
 ||waderge.me
 ||wagnerkelly33.pixnet.net
 ||wagntaifast.co
+||wahmlr.co
 ||waimaoyuandi.com
 ||waitwhy.buzz
 ||wajdke639.pixnet.net
@@ -8920,6 +9183,7 @@
 ||wardglenlarso.pixnet.net
 ||warrenanifd.pixnet.net
 ||warrenbalsv.pixnet.net
+||wartacika.com
 ||washingmullwe.pixnet.net
 ||washingstfh.pixnet.net
 ||washink1rg42o.pixnet.net
@@ -8929,6 +9193,7 @@
 ||wasou.cc
 ||water203.wordpress.com
 ||watermelon.jp.net
+||watertorenloop.nl
 ||watkinshqj.pixnet.net
 ||watsonvincema.pixnet.net
 ||wawai.es
@@ -8978,6 +9243,8 @@
 ||wenshubang.com
 ||werkstatt-galerie.ch
 ||werkthewb.co
+||wertdesgin.co
+||wesxta.me
 ||wetalk.tw
 ||wewerose.com
 ||wewnthre.co
@@ -9004,6 +9271,7 @@
 ||whpc.cc
 ||why123.com.cn
 ||whyhow.online
+||whzixunw.com
 ||wi52607814.pixnet.net
 ||wi77228013.pixnet.net
 ||wiki101.com.tw
@@ -9020,6 +9288,7 @@
 ||wioau.com
 ||wisegeek.com
 ||wishnote.tw
+||wismco.co
 ||wittyday.com
 ||wj4leonardai.pixnet.net
 ||wjbk.site
@@ -9058,6 +9327,7 @@
 ||wonassoc.me
 ||wonder4.co
 ||wonderhowto.com
+||woneninklavertuin.nl
 ||woodgaller295.co
 ||woowa.fun
 ||wor73df89m.pixnet.net
@@ -9119,6 +9389,10 @@
 ||wwlzw.com
 ||wwn83px11z.blog.fc2.com
 ||wws23.com
+||www-28149.com
+||www-62575.com
+||www05949.com
+||www68749.com
 ||www9.gocar2.com
 ||wwwwtrolly88.com
 ||wwyo84ky.wordpress.com
@@ -9310,6 +9584,7 @@
 ||xigouhu.com
 ||xindd.cc
 ||xinfx.cc
+||xinghuopt.com
 ||xingnvquan.com
 ||xingrongyixia.com
 ||xingzuonew.com
@@ -9351,7 +9626,9 @@
 ||xmh20hd73j.blog.fc2.com
 ||xmkk113.co
 ||xmxt5p5xu3r.pixnet.net
+||xn----7sbaf7aoceczb1bhb5byi.xn--p1ai
 ||xn--6oqy57b20i.com
+||xn--80aaccpqqkveqdngel4owb.xn--p1ai
 ||xn--siq569biez9qvmk.com
 ||xn--vhqr54a5mhe4or6bl2z.com
 ||xnb40zj93u.blog.fc2.com
@@ -9501,9 +9778,11 @@
 ||yangxiangyang.com
 ||yangxiao.me
 ||yangzheng365.com
+||yangzhizhinan.com
 ||yanjianggu.com
 ||yanjiaoluntan.com
 ||yanjiuzhinan.com
+||yanyuguan.com
 ||yao51.com
 ||yaoshuoshuo.com
 ||yardwarmine.xyz
@@ -9555,10 +9834,12 @@
 ||yiiread.com
 ||yingyuxuexiba.com
 ||yingzhei.com
+||yinzdian.com
 ||yipee.cc
 ||yisearch.cc
 ||yj17154944.pixnet.net
 ||yj56782680.pixnet.net
+||yjbys.com
 ||yjmq0bobba0r0.pixnet.net
 ||yjs21.com
 ||yjtubekk.co
@@ -9584,9 +9865,12 @@
 ||yod0686pxh.blog.fc2.com
 ||yoga4health.me
 ||yolandasylvqu.pixnet.net
+||yongfengxu.com
 ||yoq06mv45u.blog.fc2.com
 ||yoqu.ml
 ||yoqu.win
+||youbianbaike.com
+||youfiao.com
 ||youloseatr.co
 ||yourbabb.com
 ||yourdictionary.com
@@ -9822,8 +10106,12 @@
 ||zgysxh.cn
 ||zhachuo.com
 ||zhangshengrong.com
+||zhangyancloud.com
 ||zhdate.com
+||zhefiao.com
+||zheigun.com
 ||zheijuzi.com
+||zheleznoe-sb.ru
 ||zhenbo.org
 ||zhengjuzi.com
 ||zhentoo.com
@@ -9851,6 +10139,7 @@
 ||zhonghongmy.com
 ||zhonguojujiao.wordpress.com
 ||zhongzhizhuanja.com
+||zhongzhizhuanjia.com
 ||zhoucuimei.cc
 ||zhr7143.com
 ||zhsunflower.com
@@ -9881,6 +10170,7 @@
 ||zm2100h.pixnet.net
 ||zm55134031.pixnet.net
 ||zmarterlife.com
+||zmienkariere.pl
 ||zmjayouzan.com
 ||zmsmwsm.cn
 ||zn08256143.pixnet.net
@@ -9901,11 +10191,14 @@
 ||zoo851w.pixnet.net
 ||zoomftolk.xyz
 ||zoukankan.com
+||zouzhei.com
 ||zp51jp9x.blog.fc2.com
 ||zpuojr957.pixnet.net
 ||zqqaa0359g.wordpress.com
 ||zr120.com
 ||zr8720dw72.blog.fc2.com
+||zsc-breclav.cz
+||zshfw.com
 ||zsi2316ers.blog.fc2.com
 ||zsrlkb28a.pixnet.net
 ||zswy13125788ya.wordpress.com
@@ -9916,6 +10209,7 @@
 ||ztpp.cc
 ||ztxjh13517.pixnet.net
 ||ztzqc.com
+||zuchua.com
 ||zuichufa.com
 ||zungxvehuan.pixnet.net
 ||zuopy.com
