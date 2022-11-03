@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221102
+! Version: 20221103
 ! Expires: 3 days
 
 ! Content farm
@@ -850,6 +850,7 @@
 ||ardcoran.co
 ||ardpn25903.pixnet.net
 ||argentsecuritycnslt.co
+||argeti.me
 ||arieax.co
 ||arizonawateness.co
 ||arlib.gb.net
@@ -1114,6 +1115,7 @@
 ||barre-fitstudio.com
 ||barretwesllcl.pixnet.net
 ||basboeit.nl
+||basco.vr.it
 ||batadfg.blogspot.*
 ||batesr1r38ml3.pixnet.net
 ||battery9999.com
@@ -3168,6 +3170,7 @@
 ||frednbf5dqm7w.pixnet.net
 ||fredpeterpxc.pixnet.net
 ||free.hr
+||freed.news
 ||freedomcwjp.ru.com
 ||freedomxmfnh.sa.com
 ||freedomymqcb.sa.com
@@ -4905,6 +4908,7 @@
 ||kawunimy.com
 ||kayap4c16m4y2.pixnet.net
 ||kb-glovis.com
+||kbgewurzhaus.com
 ||kbo.tw
 ||kbv22vq17b.blog.fc2.com
 ||kcq05ko31v.blog.fc2.com
@@ -7412,6 +7416,7 @@
 ||ramonyatehroi.pixnet.net
 ||ramosricfvo5.pixnet.net
 ||rangegunbroad.top
+||rangliquan.com
 ||rankintw.com
 ||rantasa.me
 ||raolve.com
@@ -7823,6 +7828,7 @@
 ||shenlddq.co
 ||shenmedaquan.com
 ||shenmedouyou.xyz
+||shenyou.cn
 ||sherriadrs8.pixnet.net
 ||sherriixjej.pixnet.net
 ||sherryneax22.pixnet.net
