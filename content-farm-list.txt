@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221106
+! Version: 20221107
 ! Expires: 3 days
 
 ! Content farm
@@ -86,6 +86,7 @@
 ||1wiiu99.co
 ||1winpress.cc
 ||2020funtv.com
+||2021hot.net
 ||21539.com
 ||2165yy.co
 ||218113.com
@@ -620,6 +621,7 @@
 ||adfhdfgrrwe.pixnet.net
 ||adipexdrugstore.com
 ||admirelove.com
+||adn24news.com
 ||adorable-pet.com
 ||adqoo.tw
 ||adrianlacamp.me
@@ -714,6 +716,7 @@
 ||allenreyesp7j.pixnet.net
 ||allesc.co
 ||allexperts.com
+||allfunnynews.com
 ||alliedlemuir.com
 ||allisonorejqn.pixnet.net
 ||allisovgowa72.pixnet.net
@@ -1772,8 +1775,11 @@
 ||ck8.me
 ||cki83.pixnet.net
 ||ckjishe.com.tw
+||cklive.live
+||cklive.net
 ||ckzja726ax.pixnet.net
 ||cl19s7.pixnet.net
+||classickhabarnepal.com
 ||classicofloves.com
 ||claudiolippi.com
 ||claytobenrich.pixnet.net
@@ -1928,6 +1934,7 @@
 ||cooktin.com
 ||coola.pro
 ||coolfity.com
+||coolhood.cc
 ||coolnews.cc
 ||coolpen.org
 ||coolsaid.com
@@ -2169,6 +2176,8 @@
 ||dailybuzz.cc
 ||dailyfun.cc
 ||dailyhearter.net
+||dailyislam24.com
+||dailynews198.com
 ||dailyposts.me
 ||dailytify.com
 ||daimajiaoliu.com
@@ -2566,6 +2575,7 @@
 ||e2qeo0uk04.pixnet.net
 ||e2qhy194nh6.blog.fc2.com
 ||e2ymi2oeem.pixnet.net
+||e365media.com
 ||e3b2a395eyn.pixnet.net
 ||e3f7v64gn3.pixnet.net
 ||e3larsonq3ta.pixnet.net
@@ -2726,6 +2736,7 @@
 ||enercell.me
 ||energy-story.net
 ||enewspace.com
+||enewznow.com
 ||enfx.cc
 ||enghuai.com
 ||engineeringjobs4u.co.uk
@@ -2790,6 +2801,7 @@
 ||eujen.space
 ||eureka.com.es
 ||eurocio-events.eu
+||eurolis.eu
 ||euy90wr15e.pixnet.net
 ||evanotty.net
 ||evanschristsi.pixnet.net
@@ -3231,6 +3243,7 @@
 ||french-corp.fr
 ||fresh-poc-portal.focus-entmt.com
 ||freshdelver.co
+||freshnews85.com
 ||fresubmit.me
 ||friask.com
 ||friend-color.com
@@ -3289,6 +3302,7 @@
 ||funnytw.com
 ||funptt.com
 ||funqiqu.com
+||funshare.pro
 ||funsp.space
 ||funssy.co
 ||funssy.com
@@ -3626,6 +3640,7 @@
 ||guowenme.cc
 ||guowenyun.com
 ||guoyuji.com
+||guoziworkshop.com
 ||gupiao.sg
 ||gushiciku.cn
 ||gustavoblanco.me
@@ -4365,6 +4380,7 @@
 ||inspirationaltouching.blogspot.*
 ||instalatorkrosno.pl
 ||instant.lvv2.com
+||instantdelhi.com
 ||insurancewikitw.com
 ||intelleality.co
 ||interestingpo.com
@@ -5079,6 +5095,7 @@
 ||koe8us82.blog.fc2.com
 ||kojin.me
 ||kokoinfo.com
+||kokonut.pro
 ||kokoready.com
 ||kokyzone.com
 ||kolauthor.com
@@ -5427,6 +5444,7 @@
 ||liuxue86.com
 ||live-localhk.com
 ||livekl.top
+||livesilo.xyz
 ||livestrong.com
 ||lizhigushi.com
 ||ljnfgh.blogspot.*
@@ -5535,6 +5553,7 @@
 ||lucasbenxy.pixnet.net
 ||lucascaroledn.pixnet.net
 ||lucasstee6906.pixnet.net
+||luckyelse.com
 ||luckylife166.life
 ||luckylife66.com
 ||luckylucky178.com
@@ -6236,15 +6255,25 @@
 ||news01.cc
 ||news17zf.pixnet.net
 ||news18nepal.com
+||news20zone.com
+||news24daily.com
+||news35posts.com
+||news365info.com
 ||news520.com
 ||newsancai.co
 ||newsbigear.com
 ||newsdirectory3.com
+||newsedaily24.com
+||newshours20.com
 ||newskaleidoscope.xyz
+||newskdaily.com
 ||newskks.com
 ||newsoftsomusw.sa.com
 ||newspirits-clinic.com.tw
+||newsportal55.com
 ||newsptt.com
+||newsqr24.com
+||newsrank9.com
 ||newsreadco.com
 ||newstube01.tv
 ||newsyflash.com
@@ -6254,6 +6283,7 @@
 ||newworld5888.com
 ||newyokcrest.co
 ||newyorkhedt.co
+||newz2day.com
 ||nextlas.co
 ||nextleveeybiz.co
 ||nextlin.me
@@ -6308,6 +6338,7 @@
 ||nnb1jl97.blog.fc2.com
 ||nnbpvdh75.pixnet.net
 ||nnbsh.com
+||nnewsq.com
 ||nnewsr.com
 ||nnewst.com
 ||nnjl15lxb.pixnet.net
@@ -6566,6 +6597,7 @@
 ||onepron.com
 ||onevendrange.co
 ||oneworldoo.com
+||onlinetime7newsthaiforyou.com
 ||onlinettt.com
 ||onlinrad.co
 ||onlyeasylife.com
@@ -7571,6 +7603,7 @@
 ||reredispatch.com
 ||rerewo.com
 ||residence-lartdoise.eu
+||restbility.com
 ||retailtagtw.com
 ||retiylife.co
 ||retrplusapp.co
@@ -8949,6 +8982,7 @@
 ||uonfu.com
 ||uoowx540vc.pixnet.net
 ||up8xksherrixi.pixnet.net
+||updatetimenews.com
 ||upicksles.co
 ||upj86dc63k.pixnet.net
 ||upkf11622747fu.wordpress.com
@@ -9167,6 +9201,7 @@
 ||violacarlsjef.pixnet.net
 ||vipyl.com
 ||viracore.work
+||viral72news.com
 ||viralane.com
 ||viralcham.com
 ||visageple.co
@@ -9509,6 +9544,8 @@
 ||woowa.fun
 ||wor73df89m.pixnet.net
 ||wordailyhk.com
+||worldaas.com
+||worldnews67.com
 ||worldwellbeingbio.com
 ||wosnews.com
 ||wow.kus0.tw
@@ -10110,6 +10147,7 @@
 ||yunguanvr.com
 ||yunlinpuppet.tw
 ||yunsh.cc
+||yunshi88.live
 ||yuuan.me
 ||yuutoday.com
 ||yuwenmi.com
@@ -10358,6 +10396,7 @@
 ||zmarterlife.com
 ||zmienkariere.pl
 ||zmjayouzan.com
+||zmjiayou.com
 ||zmsmwsm.cn
 ||zn08256143.pixnet.net
 ||zn101q5.pixnet.net
