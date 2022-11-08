@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221107
+! Version: 20221108
 ! Expires: 3 days
 
 ! Content farm
@@ -298,6 +298,7 @@
 ||3997011.com
 ||3997015.com
 ||3997025.com
+||39health.com.tw
 ||3cjohnhardware.wordpress.com
 ||3du.tw
 ||3h3.com
@@ -2552,6 +2553,7 @@
 ||dy7wywi.blogspot.*
 ||dya93vk22v.blog.fc2.com
 ||dyfocus.com
+||dyhzdl.cn
 ||dz1dpxrd7bx.pixnet.net
 ||dz59493753.blog.fc2.com
 ||dzen47543959p.wordpress.com
@@ -3502,6 +3504,7 @@
 ||gm06214909.pixnet.net
 ||gm5howelihfc.pixnet.net
 ||gmilr941.pixnet.net
+||gmja8.com
 ||gmkxnh452.pixnet.net
 ||gmm8wg62aqa.pixnet.net
 ||gmrd752531.blog.fc2.com
@@ -6020,6 +6023,7 @@
 ||muratify.net
 ||murphyjess998.pixnet.net
 ||murraycamyers.pixnet.net
+||musiccweb.com
 ||musou.cc
 ||muu60kp73f.blog.fc2.com
 ||muzijie.com
@@ -6310,6 +6314,7 @@
 ||nicolascorre.fr
 ||nideliyou.com
 ||nigov.tw
+||niice-woker.com
 ||nijigenfun.com
 ||nina.az
 ||ninafranc8493.pixnet.net
@@ -8261,6 +8266,7 @@
 ||superbigapple.com
 ||superfun-e.com
 ||superm.cl
+||supertime01.com
 ||support-hk.com
 ||supportdap.online
 ||supportph.com
@@ -8627,6 +8633,7 @@
 ||tjlqtwx.com
 ||tjoqfl543.pixnet.net
 ||tjr55bd51l.blog.fc2.com
+||tjxdjx.cn
 ||tjzxx93515.pixnet.net
 ||tk71450633.pixnet.net
 ||tkb1013.pixnet.net
@@ -10378,6 +10385,7 @@
 ||zingtein.co
 ||ziweigame.com
 ||zixundingzhi.com
+||zizhi888.cn
 ||zizhukekong.org
 ||zizhuzhishi.com
 ||zjkge.top
