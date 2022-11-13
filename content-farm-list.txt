@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221112
+! Version: 20221113
 ! Expires: 3 days
 
 ! Content farm
@@ -353,6 +353,7 @@
 ||52food.co
 ||52ptt.com
 ||52shijing.com
+||52yuduoduo.com
 ||52yuer.cn
 ||5339901.com
 ||5339902.com
@@ -8821,6 +8822,7 @@
 ||tuasiann.com
 ||tubulrwine.co
 ||tucaozhiyin.com
+||tudoupe.com
 ||tues221394583.wordpress.com
 ||tuhanhan.com
 ||tum01nu20p.pixnet.net
