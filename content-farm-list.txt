@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221115
+! Version: 20221116
 ! Expires: 3 days
 
 ! Content farm
@@ -1938,6 +1938,7 @@
 ||cooker01.com
 ||cookinvdeo.co
 ||cooksamunv.pixnet.net
+||cookstoree.com
 ||cooktin.com
 ||coola.pro
 ||coolbase.net
@@ -4021,6 +4022,7 @@
 ||hkappleweekly.com
 ||hkd4.com
 ||hkdailyhub.com
+||hkdaliynew.com
 ||hkeasychat.com
 ||hker.life
 ||hkerfeed.com
@@ -4119,6 +4121,7 @@
 ||hotvdo.info
 ||hotxww.com
 ||housekook.com
+||housesdevise.com
 ||houseword.com
 ||houtwormbe.co
 ||houyapi.com
@@ -5827,6 +5830,7 @@
 ||medialnk.com
 ||mediaprim.ru
 ||mediatagtw.com
+||medicalteaching.org
 ||meditatioore.co
 ||meetptt.com
 ||meetwill.xyz
@@ -6462,6 +6466,7 @@
 ||nvchua.com
 ||nvfxl71759.pixnet.net
 ||nvh1155qif.blog.fc2.com
+||nvkkpi.com
 ||nvrenzuida.com
 ||nvt35rv77b.pixnet.net
 ||nvyouzu.com
@@ -6942,6 +6947,7 @@
 ||pet1314.com
 ||pet2016.wordpress.com
 ||pet88.cc
+||petbasego.com
 ||peteradv.co
 ||petercshop.blog.fc2.com
 ||petitisicovka.cz
@@ -7981,6 +7987,7 @@
 ||shannonluxaq.pixnet.net
 ||shaokei.com
 ||shaqfool.us
+||share-healthy.com
 ||share.readward888.com
 ||share001.com
 ||share001.net
@@ -8779,6 +8786,7 @@
 ||travelformosa.com
 ||travelmate2300.ru
 ||traveltagtw.com
+||traveltheworldfans.com
 ||traveltml.co
 ||travelwiseni.com
 ||trc441.pixnet.net
@@ -9600,6 +9608,7 @@
 ||wonderhowto.com
 ||woneninklavertuin.nl
 ||woodgaller295.co
+||woof-puppys.com
 ||woowa.fun
 ||wor73df89m.pixnet.net
 ||wordailyhk.com
