@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221116
+! Version: 20221117
 ! Expires: 3 days
 
 ! Content farm
@@ -1626,6 +1626,7 @@
 ||cat3uwkarcmuf.pixnet.net
 ||catchtwenydu.co
 ||catchyourlife.com.tw
+||catcommun.com
 ||cateringbphylls.co
 ||catha.life
 ||catherinetr9.blog.fc2.com
@@ -5082,6 +5083,7 @@
 ||kirkmws0645do.pixnet.net
 ||kirokiro.cc
 ||kirosml945.wordpress.com
+||kitgortalk.com
 ||kiwireport.com
 ||kiwsy.cc
 ||kj04587736.pixnet.net
@@ -5727,6 +5729,7 @@
 ||mamaclub.com
 ||mamaknews.com
 ||mamalearning.com
+||mamalovecooking.com
 ||mamatify.com
 ||mamicode.com
 ||mamready.com
@@ -6579,6 +6582,7 @@
 ||oh30244061.pixnet.net
 ||oh74.com
 ||ohmencontain.buzz
+||ohofirst.com
 ||ohwonews.com
 ||oi04.com
 ||oiigov.com
@@ -6670,6 +6674,7 @@
 ||open-selfless.com
 ||ophallsen.co
 ||oppnumber.com
+||oppsnote.com
 ||opsask.com
 ||optimizeance.co
 ||oq42.com
@@ -8633,6 +8638,7 @@
 ||therichfighter.com
 ||therivalpts.co
 ||thesharedaily.com
+||thesimplycook.com
 ||thestarsky.com
 ||thetalkingndan.co
 ||theuvpn.com
