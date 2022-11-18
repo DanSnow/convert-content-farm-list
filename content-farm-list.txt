@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221117
+! Version: 20221118
 ! Expires: 3 days
 
 ! Content farm
@@ -2745,7 +2745,6 @@
 ||emq7bfdelh84.pixnet.net
 ||en09223623.pixnet.net
 ||enaizh.co
-||enanyang.my
 ||endethod.co
 ||enercell.me
 ||energy-story.net
