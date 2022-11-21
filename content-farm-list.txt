@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221120
+! Version: 20221121
 ! Expires: 3 days
 
 ! Content farm
@@ -649,6 +649,7 @@
 ||agencyfordogs.eu
 ||agentura-atlas.cz
 ||agnbik1853.pixnet.net
+||agonew.com
 ||agpn.cc
 ||agreebetteriron.top
 ||agri35.com
@@ -2745,6 +2746,7 @@
 ||emq7bfdelh84.pixnet.net
 ||en09223623.pixnet.net
 ||enaizh.co
+||endegenc.co
 ||endethod.co
 ||enercell.me
 ||energy-story.net
@@ -2971,6 +2973,7 @@
 ||f93ir.com.es
 ||f9a2b08qt1.blog.fc2.com
 ||f9b5l3p7vxl.pixnet.net
+||f9dle.skin
 ||f9dnt7fh55.pixnet.net
 ||f9eob052gn0.pixnet.net
 ||f9f9f3lznr.pixnet.net
@@ -4455,6 +4458,7 @@
 ||ishkuru.co
 ||ishmeitian.com
 ||iso2.cc
+||isolano.fr
 ||ispot.news
 ||isth2020.it
 ||isuduw.blogspot.*
@@ -4980,6 +4984,7 @@
 ||kaicen.cn
 ||kailixs.live
 ||kaimalo.com
+||kakakiko.fi
 ||kalahareaks.me
 ||kalt-made.ch
 ||kam-fuer-kmu.ch
@@ -5322,6 +5327,7 @@
 ||lanaranja.cl
 ||lancekatdwn2.pixnet.net
 ||langningpiano.com
+||lannenlasipalvelu.fi
 ||lanzhouyangsheng.com
 ||laparrale.me
 ||lapetrick.pixnet.net
@@ -7248,6 +7254,7 @@
 ||pw8423vy31.blog.fc2.com
 ||pwl80qu55a.blog.fc2.com
 ||pwpc.cc
+||pwrtik.co
 ||pwt15sf85e.blog.fc2.com
 ||pwvc8s5bsqf.pixnet.net
 ||pwyrn190.pixnet.net
@@ -7792,6 +7799,7 @@
 ||rujula.me
 ||rularse.co
 ||rule873.wordpress.com
+||rulemanhold.live
 ||runelse.com
 ||runshuoshuo.com
 ||runxinzhi.com
@@ -7899,6 +7907,7 @@
 ||samsteelgma.pixnet.net
 ||samuilfoto.ru
 ||sancakltiv.co
+||sancarlohumilitas.it
 ||sanchezrebee6.pixnet.net
 ||sanderburtchd.pixnet.net
 ||sanderjennixi.pixnet.net
@@ -8106,6 +8115,7 @@
 ||skippineltd.co
 ||skirt.jp.net
 ||skocoims0.pixnet.net
+||skrfashion.com
 ||sksmokkng.co
 ||sktread.com
 ||skye6299637.pixnet.net
@@ -8214,6 +8224,7 @@
 ||srz58fu43d.blog.fc2.com
 ||ss.jok97.xyz
 ||ssau2k2m8.pixnet.net
+||ssdrq.com
 ||sse886gu08.blog.fc2.com
 ||ssf15uv35r.pixnet.net
 ||sso.com.tw
@@ -9060,6 +9071,7 @@
 ||uq63854306.blog.fc2.com
 ||ur5raymonyiup.pixnet.net
 ||ure6798vws.pixnet.net
+||urinfotw.com
 ||urlove.cc
 ||urreply.info
 ||us-them.com
@@ -9245,6 +9257,7 @@
 ||veronicrvd1u.pixnet.net
 ||veryngeran.co
 ||verywind.com
+||vetrerianzio1.it
 ||vf53971531.blog.fc2.com
 ||vg33940414.blog.fc2.com
 ||vgs5lncgooasf.pixnet.net
@@ -9516,6 +9529,7 @@
 ||wenda123.org
 ||wendylonnraf.pixnet.net
 ||wendymyrtlf.pixnet.net
+||wenewstw.com
 ||wenjutv.com
 ||wenku.51job.com
 ||wenku1.com
