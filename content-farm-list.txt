@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221126
+! Version: 20221127
 ! Expires: 3 days
 
 ! Content farm
@@ -653,6 +653,7 @@
 ||agpn.cc
 ||agreebetteriron.top
 ||agri35.com
+||agrocompost.es
 ||agroler.co
 ||agu73th13h.blog.fc2.com
 ||agueybna.me
@@ -721,6 +722,7 @@
 ||allexperts.com
 ||allfunnynews.com
 ||alliedlemuir.com
+||allishea.co
 ||allisonorejqn.pixnet.net
 ||allisovgowa72.pixnet.net
 ||alluminiofratelliserramenti.it
@@ -778,6 +780,7 @@
 ||angularbites.com
 ||anhengli.com.tw
 ||anhuilife.com
+||animalshopmenfi.it
 ||anime01kingdom.com
 ||animefans21.com
 ||ankaili.com
@@ -946,6 +949,7 @@
 ||auzhu.com
 ||av01.online
 ||avogov.com
+||avple.tv
 ||avto-r.si
 ||avvocatoluigifalcone.it
 ||avwife.xyz
@@ -1235,6 +1239,7 @@
 ||bezx.cc
 ||bfdvjtd37b.pixnet.net
 ||bfjxvnf1jv.pixnet.net
+||bfoob.co
 ||bforbdectory.co
 ||bfptt.cc
 ||bfyrz147lx.pixnet.net
@@ -1953,6 +1958,7 @@
 ||copy.3f-rent.ru
 ||copyan.com
 ||copyfuture.com
+||corepsh.top
 ||corp.com.tw
 ||corpcbeu.com
 ||corpcbeu.finance
@@ -2634,6 +2640,7 @@
 ||earladlgr.pixnet.net
 ||earlcaldwelgq.pixnet.net
 ||easck.com
+||easkid.co
 ||eastday.com
 ||easternkosia.co
 ||easyatm.com.tw
@@ -2712,6 +2719,7 @@
 ||elads.kocpc.com.tw
 ||elainejamesng.pixnet.net
 ||elakelaisetuusimaa.fi
+||elarassi.co
 ||elcaugfic.co
 ||eleanoy14e60a.pixnet.net
 ||element-ui.cn
@@ -3011,6 +3019,7 @@
 ||faminereports.blogspot.*
 ||fanaade.co
 ||fanaystart.com
+||fane8.com
 ||fanfanwen.com
 ||fangyan100.com
 ||fanli7.net
@@ -3557,6 +3566,7 @@
 ||golddtn.me
 ||golflink.cn
 ||golflink.com
+||golfoid.co
 ||golla.tw
 ||gomynews.net
 ||gonglue123.com
@@ -4094,6 +4104,7 @@
 ||hongyibag.com
 ||honsnews.com
 ||hoo41j8.pixnet.net
+||hornbt.co
 ||horo88.cc
 ||horofriend88.com
 ||horonote.com
@@ -4469,6 +4480,7 @@
 ||it145.com
 ||it610.com
 ||itaiwanfood.com
+||italyon.it
 ||itbaoku.cn
 ||itcn.blog
 ||itd1268dwy.blog.fc2.com
@@ -4702,6 +4714,7 @@
 ||jeju-travel.com
 ||jelajahbmi.co
 ||jellyhknews.com
+||jendow.com.tw
 ||jennem.me
 ||jennynichkg55.pixnet.net
 ||jennyshee3v.pixnet.net
@@ -5705,6 +5718,7 @@
 ||mabelfartucke.pixnet.net
 ||machamexco.co
 ||machbbs.com
+||machherb.co
 ||mackowskimarek.pl
 ||mactv.com.tw
 ||mafsushi.fr
@@ -5782,6 +5796,7 @@
 ||martinwacodyj.pixnet.net
 ||maryks01.pixnet.net
 ||massoterapia.tn.it
+||masteypc.me
 ||mathewo7258.pixnet.net
 ||mathieucroset.me
 ||matthewsu0.pixnet.net
@@ -5790,6 +5805,7 @@
 ||mauricelord.fr
 ||maww.cc
 ||maxinemiv3j5.pixnet.net
+||mayauntz.co
 ||maybedarous.co
 ||mayibanchang.com.cn
 ||mb69575090.pixnet.net
@@ -5953,6 +5969,7 @@
 ||mkk25nt21x.blog.fc2.com
 ||mkoemuoyuw.pixnet.net
 ||ml128t.com
+||mlladele.co
 ||mlog.club
 ||mm110.net
 ||mm32414045.pixnet.net
@@ -6392,6 +6409,7 @@
 ||nnvv.com
 ||nnworkspce.co
 ||no87293903.pixnet.net
+||nobkos.co
 ||nocancers.net
 ||nodsea.co
 ||nonamesrry.co
@@ -6404,6 +6422,7 @@
 ||nooho.net
 ||norajuliangco.pixnet.net
 ||nordahl.me
+||noriglio.tn.it
 ||normanmills10.pixnet.net
 ||not32hu32z.pixnet.net
 ||notas-flauta.es
@@ -6425,6 +6444,7 @@
 ||nowreadeok.com
 ||noxhyderr.co
 ||np05v3.pixnet.net
+||npccoir.co
 ||npk969.com
 ||npnt.com.tw
 ||npnt.net
@@ -6464,6 +6484,7 @@
 ||nunque.com
 ||nuoshuoshuo.com
 ||nuti063.pixnet.net
+||nuvute.cz
 ||nuy33ql20i.pixnet.net
 ||nv15531131.pixnet.net
 ||nv55311375.blog.fc2.com
@@ -6902,6 +6923,7 @@
 ||patricsheil25.pixnet.net
 ||patrikbidsong.co
 ||patsyg400886.pixnet.net
+||paulaharjunkoulu.fi
 ||paulaspalette.me
 ||paulpalmer941.pixnet.net
 ||pawlws.co
@@ -7157,6 +7179,7 @@
 ||prosmile.me
 ||proteplc.co
 ||provestringremember.top
+||provh.co
 ||prr79lt99x.pixnet.net
 ||psnksc.com
 ||psoriasveda.co
@@ -7352,6 +7375,7 @@
 ||qicaisi.com
 ||qichejiashi.com
 ||qicheziliaoku.com
+||qickpoo.co
 ||qii24zt94y.blog.fc2.com
 ||qiigov.tv
 ||qilook.com
@@ -7422,6 +7446,7 @@
 ||qu02.com
 ||quaaliean219.co
 ||quadriumk.co
+||quadrmmo.co
 ||quaiwang123.com
 ||qualidogs.co
 ||queenmobile.es
@@ -7445,6 +7470,7 @@
 ||qvzx.cc
 ||qw03593617.pixnet.net
 ||qwcv4426857baya.wordpress.com
+||qwiki.pub
 ||qwkpw.com
 ||qwm864i6e8.wordpress.com
 ||qwvbkristinca.pixnet.net
@@ -7585,6 +7611,7 @@
 ||r9t5x3bnn3.blog.fc2.com
 ||r9z3z3b3nrd.blog.fc2.com
 ||ra25197707.pixnet.net
+||rabzco.co
 ||rachelay.me
 ||radio.am
 ||radokni.co
@@ -7651,6 +7678,7 @@
 ||religious-news.com.tw
 ||relooking-minceur-stavold.fr
 ||remebbe.co
+||remexrio.co
 ||renates.co
 ||renaultpassonxperience.co
 ||renocaffe.com
@@ -7925,6 +7953,7 @@
 ||satehj.blogspot.*
 ||sauerduels.me
 ||savoirlyme.ch
+||sawformblow.live
 ||sayasdf.com
 ||sayfethoasla.pixnet.net
 ||sazzadhsan.co
@@ -8616,6 +8645,7 @@
 ||thamstore.nl
 ||thats.cc
 ||thcc.cc
+||the-best-prizes.life
 ||theastrologypage.com
 ||thebowrin.co
 ||thecharterhouseinn.com
@@ -8755,6 +8785,7 @@
 ||toptanzarfdunyasi.com
 ||torino.it
 ||toscablyn.co
+||toscana.it
 ||toto.jp.net
 ||totoread.com
 ||touchgroup.me
@@ -8835,6 +8866,7 @@
 ||trrgov.com
 ||trsl.me
 ||truenews.tw
+||trustedstream.life
 ||trvztx15r.pixnet.net
 ||trw10ty85b.pixnet.net
 ||trytohear.com
@@ -9223,6 +9255,7 @@
 ||vancentals.co
 ||vanessaevw55o.pixnet.net
 ||vanessares.me
+||varein.me
 ||varvarovka08.ru
 ||vasquezremedi.pixnet.net
 ||vatrack.hinet.net
@@ -9490,6 +9523,7 @@
 ||watsonvincema.pixnet.net
 ||wawai.es
 ||waxgourdw350.blog.fc2.com
+||wayzhng.co
 ||wb00809146.pixnet.net
 ||wbb22sx40j.blog.fc2.com
 ||wbd0pmelidqrt.pixnet.net
@@ -9586,6 +9620,7 @@
 ||wisegeek.com
 ||wishnote.tw
 ||wismco.co
+||withmven.co
 ||wittyday.com
 ||wj4leonardai.pixnet.net
 ||wjbk.site
@@ -10504,6 +10539,7 @@
 ||zongyizixun.blogspot.*
 ||zoo851w.pixnet.net
 ||zoomftolk.xyz
+||zorntop.co
 ||zoukankan.com
 ||zouzhei.com
 ||zp51jp9x.blog.fc2.com
