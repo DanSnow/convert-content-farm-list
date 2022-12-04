@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221203
+! Version: 20221204
 ! Expires: 3 days
 
 ! Content farm
@@ -593,12 +593,14 @@
 ||abdwap.work
 ||abitareprjct.co
 ||ablaxy.me
+||abo24.it
 ||about.com
 ||aboutfighter.com
 ||aboutfitnesser.com
 ||abouthealther.com
 ||aboutlove.cc
 ||abriduski.vda.it
+||abruzzo.it
 ||ac-ay.com
 ||acceptanctgage.co
 ||acedqmrm7pt9x.pixnet.net
@@ -636,6 +638,7 @@
 ||ae80gu0q.blog.fc2.com
 ||aekpc018oy.pixnet.net
 ||aeqzoh367.pixnet.net
+||aes-generac.ru
 ||aesntl.co
 ||aetop.top
 ||af036b7xzg.blog.fc2.com
@@ -745,6 +748,7 @@
 ||ambkct.com
 ||ambrodogskennel.it
 ||ambroisemoreux-osteopathe.fr
+||ameliericher.fr
 ||americantowns.com
 ||ameridrvice.co
 ||amerrole892.com
@@ -933,6 +937,7 @@
 ||auabu.com
 ||aubz.cn
 ||aucp.cn
+||audreyeclecticshop.it
 ||audreyglacd.pixnet.net
 ||audreyjmj56.pixnet.net
 ||auiaeqcgu0.pixnet.net
@@ -1211,6 +1216,7 @@
 ||bensonpw3xchy.pixnet.net
 ||benzfa.pixnet.net
 ||berckbing.me
+||bergsteiger.cz
 ||beritagan.com
 ||bernardbertyt.pixnet.net
 ||bernarmediane.pixnet.net
@@ -1447,6 +1453,7 @@
 ||bse-events.fr
 ||bsfodco.co
 ||bskaryon.co
+||bss-zh.ch
 ||bstcooker.com
 ||btcharts.com
 ||bthss.com
@@ -1612,6 +1619,7 @@
 ||carp.pub
 ||carriebe63570.pixnet.net
 ||carroceriasleon.cl
+||carrozzeriaroma.rm.it
 ||cartergrayca.pixnet.net
 ||cartoontalking.com
 ||casadeldeporte.cl
@@ -1705,6 +1713,7 @@
 ||charlotteauchocolat.ch
 ||charm.jp.net
 ||charng-lung.com.tw
+||chastnyj-detektiv54.ru
 ||chaussmode.fr
 ||chavezcarropx.pixnet.net
 ||chavezw15462.pixnet.net
@@ -2309,6 +2318,7 @@
 ||deerask.com
 ||defedu.me
 ||defense.rocks
+||degetrouwenvanroeh.nl
 ||dehlicofcast.co
 ||dehliwicast.co
 ||deilue.com
@@ -2330,7 +2340,9 @@
 ||desatascosintegralescordoba.es
 ||desenoboschhcg.blog.fc2.com
 ||deshuoshuo.com
+||design-ek.ru
 ||design-fabrica.com
+||designspace.fi
 ||desiredconstlltions.co
 ||desotalk.com
 ||desou.cc
@@ -2538,6 +2550,7 @@
 ||dugushici.com
 ||duhougan.net
 ||duhpba.co
+||dulcet-torte-ddf1d5.netlify.app
 ||duncaninvestigation.me
 ||duncanjan3984.pixnet.net
 ||dundartor.co
@@ -2815,6 +2828,7 @@
 ||esql974.pixnet.net
 ||essentybses.co
 ||essortment.com
+||est2020.ch
 ||et47615272.pixnet.net
 ||et52106494.pixnet.net
 ||et66424950.pixnet.net
@@ -2990,6 +3004,7 @@
 ||f9n9f5dfvv.blog.fc2.com
 ||f9nxt97xth.pixnet.net
 ||f9r9r1fdbh.pixnet.net
+||f9rlf.yachts
 ||f9rrd5xvb7.blog.fc2.com
 ||f9txh5btfb.pixnet.net
 ||f9vrt5fhf9.pixnet.net
@@ -3157,6 +3172,7 @@
 ||finop-vvebeheer.nl
 ||finzkm490.pixnet.net
 ||fireferjobs.me
+||firenze.it
 ||firhub69.com
 ||first-suzuki.ru
 ||fishday-vrn.ru
@@ -3209,6 +3225,7 @@
 ||folkswggn.co
 ||foltolik.co
 ||fondofgame.com
+||fondtws.buzz
 ||foodtagtw.com
 ||foodytw.com
 ||forgreatdaily.cc
@@ -3347,6 +3364,7 @@
 ||funxz.cc
 ||funyouworld.com
 ||funyouworld.xyz
+||fuococostruzioni.it
 ||fuoridaidebiti.eu
 ||futureshserves.co
 ||futurisevent.co
@@ -3454,6 +3472,7 @@
 ||gbk92ew05p.blog.fc2.com
 ||gca5735zxf.pixnet.net
 ||gcuyosmmyo.pixnet.net
+||gdax.mi.it
 ||gdli.com.tw
 ||gdp-1kbr.ru
 ||gdto.cc
@@ -3564,6 +3583,7 @@
 ||gohealther.com
 ||gohong01.com
 ||golddtn.me
+||goldmaster-msk.ru
 ||golflink.cn
 ||golflink.com
 ||golfoid.co
@@ -3594,6 +3614,7 @@
 ||google-wiki.info
 ||googlebot.us
 ||googlechrome2017download.com
+||goojie.eu
 ||gooread.com
 ||gophrthegrn.co
 ||gordo.lv
@@ -4386,6 +4407,8 @@
 ||immediates.net
 ||imobile01.com
 ||impresadipuliziemilano.mi.it
+||impresaonline.ra.it
+||impresatraslochimilano.mi.it
 ||imradsdo.co
 ||imtopsales.com
 ||imynest.com
@@ -4713,6 +4736,7 @@
 ||jeffersonwz617.wordpress.com
 ||jeju-travel.com
 ||jelajahbmi.co
+||jelcodejong.nl
 ||jellyhknews.com
 ||jendow.com.tw
 ||jennem.me
@@ -4723,6 +4747,7 @@
 ||jerseyshoreins.co
 ||jessiereyno10.pixnet.net
 ||jetxco.co
+||jewnoseya.live
 ||jf-tendais.com
 ||jf79577518.pixnet.net
 ||jfarmerk1.pixnet.net
@@ -5119,6 +5144,7 @@
 ||kkptt.com
 ||kkup.cc
 ||kkz9443yfp.blog.fc2.com
+||klassiekweb.nl
 ||klm0911.pixnet.net
 ||klmtz02.com
 ||klubickasnu.cz
@@ -5151,6 +5177,7 @@
 ||koosof.co
 ||kopoipo.com.tw
 ||kora-mesr.com
+||korm-chehov.ru
 ||koronazino.co
 ||kosmetikacalendula.cz
 ||kotivuokraus.fi
@@ -5175,6 +5202,7 @@
 ||kr4nealk54n.pixnet.net
 ||kragoda.com
 ||kragov.com
+||krasota-ptz.ru
 ||kreditikus.eu
 ||kristinkeviot.pixnet.net
 ||kristir3674.pixnet.net
@@ -5337,6 +5365,7 @@
 ||lala01.com
 ||lam777.com
 ||lamberdu84571.pixnet.net
+||laminus.cz
 ||lanaranja.cl
 ||lancekatdwn2.pixnet.net
 ||langningpiano.com
@@ -5494,6 +5523,7 @@
 ||livekl.top
 ||livesilo.xyz
 ||livestrong.com
+||livorno.it
 ||lizhigushi.com
 ||ljnfgh.blogspot.*
 ||lkfortune.com
@@ -5608,6 +5638,7 @@
 ||luckylucky178.com
 ||luefiao.com
 ||luenebuuse.co
+||luethi-partner.ch
 ||luggagetrunk.blog.fc2.com
 ||lujuba.cc
 ||lukoince.co
@@ -5767,6 +5798,7 @@
 ||maomiboy.com
 ||maopets.com
 ||maoxiansen.com
+||maqurein.nl
 ||mar6rosedwigh.pixnet.net
 ||marcoscamha.pixnet.net
 ||marcusq5rhjb.pixnet.net
@@ -5776,6 +5808,7 @@
 ||marichimdct.co
 ||marieshelelsi.pixnet.net
 ||marinersnform.co
+||mario-siegenthaler.ch
 ||mariolillilmf.pixnet.net
 ||marionanj70.pixnet.net
 ||marionia0ah1.pixnet.net
@@ -5884,6 +5917,7 @@
 ||mengenche.co
 ||menlolist.com
 ||mentaltraining.jp.net
+||menuiseriessaintmartinboulogne.fr
 ||meriambousselmi.me
 ||merylsantoptro.co
 ||messina.it
@@ -5919,6 +5953,7 @@
 ||michelehalkei.pixnet.net
 ||micpost.com
 ||mikeonslow.me
+||milano.it
 ||mildremichflo.pixnet.net
 ||mildreni4v35.blog.fc2.com
 ||mili010.com
@@ -6000,6 +6035,7 @@
 ||mofun.ml
 ||mogujiela.com
 ||mohwgovl.com
+||moidoc.ru
 ||moilcae.co
 ||mojodmor.me
 ||moleiseo.com
@@ -6012,6 +6048,7 @@
 ||moneyaaa.com
 ||moneymy.cc
 ||moniquejcb.co
+||moniques-fotografie.nl
 ||monoc19027.pixnet.net
 ||monsterurt.co
 ||monterosrl.co
@@ -6035,6 +6072,7 @@
 ||mother-lov.blogspot.com
 ||motics.me
 ||motionsaucermentioned.com
+||motori.tv.it
 ||motorsportal.at
 ||motuuu.com
 ||moveweite.co
@@ -6926,10 +6964,12 @@
 ||paulaharjunkoulu.fi
 ||paulaspalette.me
 ||paulpalmer941.pixnet.net
+||pavia.it
 ||pawlws.co
 ||pb24325439.blog.fc2.com
 ||pb64i.pixnet.net
 ||pbfl13nb.wordpress.com
+||pbfoto.nl
 ||pbmab.co
 ||pbrdj91539.pixnet.net
 ||pbup.cc
@@ -6993,6 +7033,7 @@
 ||petsonelove.com
 ||petstube35.com
 ||pew28mo04l.blog.fc2.com
+||pflegezentrum-linthgebiet.ch
 ||pfp93pb33f.pixnet.net
 ||pfv71bn53h.blog.fc2.com
 ||pghdhd.co
@@ -7025,6 +7066,7 @@
 ||picallies.com
 ||pidwxl.co
 ||pie243.cn
+||piemonte.it
 ||piemontecontributi.it
 ||piercemedn.pixnet.net
 ||pieshuoshuo.com
@@ -7414,6 +7456,7 @@
 ||qmmn.cc
 ||qmxhrileylpd.pixnet.net
 ||qnf05kp01s.pixnet.net
+||qnmxmx.co
 ||qo87.com
 ||qoiqc6uocw.pixnet.net
 ||qoks2miuc.pixnet.net
@@ -8127,6 +8170,7 @@
 ||singlelettercry.top
 ||sinjhanran.com.tw
 ||sinoexam.com.cn
+||sintenpietenapeldoorn.nl
 ||sionvalleyst.co
 ||siracusa.it
 ||siraortsu.co
@@ -8182,6 +8226,7 @@
 ||smyohoh.co
 ||smz44qo59s.pixnet.net
 ||snorkelos.co
+||snowcall.fi
 ||snscarhire.com
 ||snvialla.xyz
 ||snyderalictr.pixnet.net
@@ -8334,6 +8379,8 @@
 ||sullivajens8j.pixnet.net
 ||sullivberdere.pixnet.net
 ||sultanada-music.ru
+||sulzyska.co
+||summa.pz.it
 ||sun-bright.com.tw
 ||sun.advividnetwork.com
 ||sunburstkrea.co
@@ -9287,6 +9334,7 @@
 ||velocing.co
 ||vemlktre.co
 ||venegreen.cl
+||verona.it
 ||veronicrvd1u.pixnet.net
 ||veryngeran.co
 ||verywind.com
@@ -9309,6 +9357,7 @@
 ||vihanta.fi
 ||viigov.tv
 ||vik1925slt.blog.fc2.com
+||vikaden.ru
 ||vilobimagcs.co
 ||vimsky.com
 ||vinbsous.co
@@ -9569,6 +9618,7 @@
 ||wenku1.com
 ||wenshigu.com
 ||wenshubang.com
+||wentsb.sbs
 ||werkstatt-galerie.ch
 ||werkthewb.co
 ||wertdesgin.co
@@ -9612,6 +9662,7 @@
 ||williewillixn.pixnet.net
 ||willishec6u.pixnet.net
 ||wilsonjoanjen.pixnet.net
+||windsall.co
 ||winenine.com
 ||winterhts.co
 ||winxmac.com
@@ -10477,6 +10528,7 @@
 ||zhiqu.org
 ||zhishiblog.com
 ||zhishidianshouce.com
+||zhiu.cn
 ||zhiyeedu-2.com
 ||zhiyintucao.xyz
 ||zhizhejie.com
