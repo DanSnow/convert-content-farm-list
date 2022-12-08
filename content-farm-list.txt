@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221207
+! Version: 20221208
 ! Expires: 3 days
 
 ! Content farm
@@ -59,6 +59,7 @@
 ||16fighting.com
 ||172.80.53.195
 ||177.wiki
+||17bigdata.com
 ||17cloud.cc
 ||17fafun.com
 ||17goforward.com
@@ -779,6 +780,7 @@
 ||andysebastian.me
 ||andysutt22644.pixnet.net
 ||andywarholwatch.com
+||angela-babies.com
 ||angelande6490.pixnet.net
 ||angelwingure.co
 ||angularbites.com
@@ -2015,6 +2017,7 @@
 ||crystalclrradio.co
 ||csdndocs.com
 ||csdub203sw.pixnet.net
+||cserl.com
 ||cshvie.co
 ||csiofrnce.co
 ||csj-depu.com
@@ -3222,6 +3225,7 @@
 ||fofo.news
 ||fofunny.com
 ||folklines.com
+||folkstalk.com
 ||folkswggn.co
 ||foltolik.co
 ||fondofgame.com
@@ -5524,6 +5528,7 @@
 ||livesilo.xyz
 ||livestrong.com
 ||livorno.it
+||liweiliang.com
 ||lizhigushi.com
 ||ljnfgh.blogspot.*
 ||lkfortune.com
@@ -6736,6 +6741,7 @@
 ||op74366749.blog.fc2.com
 ||opc5933zqs.blog.fc2.com
 ||open-selfless.com
+||openipartner.com
 ||ophallsen.co
 ||oppnumber.com
 ||oppsnote.com
@@ -7055,6 +7061,7 @@
 ||pho-rotkreuz.ch
 ||phonesnotebooks.fc2.net
 ||phphqc.cc
+||phpmianshi.com
 ||phpqaw.cc
 ||phr55bx73j.blog.fc2.com
 ||phtwcg0j48db.pixnet.net
@@ -7420,6 +7427,7 @@
 ||qickpoo.co
 ||qii24zt94y.blog.fc2.com
 ||qiigov.tv
+||qilin668.com
 ||qilook.com
 ||qimowly.top
 ||qindaosou.com
@@ -8157,6 +8165,7 @@
 ||similianxi.com
 ||simonarcher.me
 ||simpledatings.life
+||simplefunpc.com
 ||simpleue.co
 ||simulatiide.co
 ||sin1011.pixnet.net
@@ -9060,6 +9069,7 @@
 ||u6sik6adt0.pixnet.net
 ||u6wic8yk06.pixnet.net
 ||u6wow2igo4.pixnet.net
+||u72.net
 ||u7m3f6eisi.pixnet.net
 ||u8aiu2iiew.pixnet.net
 ||u8vkw3d9yr1.pixnet.net
@@ -9370,6 +9380,7 @@
 ||viral72news.com
 ||viralane.com
 ||viralcham.com
+||virus-removal-guide.net
 ||visageple.co
 ||visdacom.com
 ||vistahuts.co
@@ -10502,6 +10513,7 @@
 ||zgxue.com
 ||zgysxh.cn
 ||zhachuo.com
+||zhangbj.com
 ||zhangshengrong.com
 ||zhangyancloud.com
 ||zhdate.com
@@ -10546,6 +10558,7 @@
 ||zhuangxiujiajuba.com
 ||zhufu-yu.com
 ||zhulinlin.net
+||zhuxianfei.com
 ||zhwj528.pixnet.net
 ||zi73071938.blog.fc2.com
 ||zibosky.com
