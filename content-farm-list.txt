@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221217
+! Version: 20221218
 ! Expires: 3 days
 
 ! Content farm
@@ -699,6 +699,7 @@
 ||airpl28.me
 ||aishareunion.com
 ||aishow.co
+||aissue.com
 ||aiweinews.com
 ||aiyangedu.com
 ||aiznh.com
@@ -6125,6 +6126,7 @@
 ||mmrj5.xyz
 ||mmtw.org
 ||mmzz515.com
+||mnbkw.com
 ||mnewsb.com
 ||mnewsc.com
 ||mnraga.blogspot.*
@@ -6641,6 +6643,7 @@
 ||nunmang.com
 ||nunqiu.com
 ||nunque.com
+||nuomiphp.com
 ||nuoshuoshuo.com
 ||nuti063.pixnet.net
 ||nuvute.cz
@@ -7291,6 +7294,7 @@
 ||possitv.com
 ||post01.com
 ||post01.net
+||post2021.net
 ||posttw.com
 ||posutochnokirov.ru
 ||potterhe27508.pixnet.net
