@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20221223
+! Version: 20221224
 ! Expires: 3 days
 
 ! Content farm
@@ -598,6 +598,7 @@
 ||ab6931.nbsd0923.com
 ||abbatrapliften.nl
 ||abcbquilts.co
+||abcjsg.com
 ||abcnews.asia
 ||abcsearch.cc
 ||abcsou.cc
@@ -1888,6 +1889,7 @@
 ||cnyyop.co
 ||coachinga01.com
 ||coastalescapes.eu
+||cochine.com
 ||coco01.cc
 ||coco01.club
 ||coco01.findx2.net
@@ -2791,6 +2793,7 @@
 ||elarassi.co
 ||elcaugfic.co
 ||eleanoy14e60a.pixnet.net
+||elektronos.pl
 ||element-ui.cn
 ||elephoto.me
 ||elevtiodj.co
@@ -3591,6 +3594,7 @@
 ||gilnoblearchives.com
 ||ginafiroa.co
 ||ginseemore.live
+||giteliebrand.nl
 ||giters.com
 ||gitmo-gvhd2021.it
 ||givemeawish.net
@@ -3723,6 +3727,7 @@
 ||greatdaily.xyz
 ||greatdailytw.com
 ||greatpo.com
+||greatprize.life
 ||greenelagawr.pixnet.net
 ||greengo.shop.pl
 ||greeniolidays.me
@@ -5334,6 +5339,7 @@
 ||kyp696.com
 ||kyp985.com
 ||kyy97r.pixnet.net
+||kzaobao.com
 ||kzclip.com
 ||kzfaq.info
 ||kzpost.info
@@ -5919,6 +5925,7 @@
 ||marionia0ah1.pixnet.net
 ||mariposadesigns.me
 ||marisabotanica.ru
+||marisacozzini.it
 ||markcalvinmk.pixnet.net
 ||marketisely.me
 ||markg4u25ym.pixnet.net
@@ -8122,6 +8129,7 @@
 ||saloidant.co
 ||salonbauxmonde.nl
 ||salrodriguez.me
+||saltbythecazaproject.com
 ||saludarmonia.cl
 ||salute88.com
 ||salvadjifj27.pixnet.net
@@ -8192,6 +8200,7 @@
 ||selecthome.it
 ||selfelementcow.top
 ||semicolonworld.com
+||sendgemhold.live
 ||sengden.com
 ||sengzao.com
 ||senioren-pratteln.ch
@@ -8768,6 +8777,7 @@
 ||taiwancon.com
 ||taiwandiginews.com.tw
 ||taiwanfansclub.com
+||taiwanlawmp3.com
 ||taiwanlikes.com
 ||taiwanmoigov.com
 ||taiyoukotori.co
