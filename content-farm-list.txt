@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20230204
+! Version: 20230205
 ! Expires: 3 days
 
 ! Content farm
@@ -2537,6 +2537,7 @@
 ||dida321.com
 ||didamagne.co
 ||didiadidia.com
+||didziojikinija.lt
 ||diefiao.com
 ||dietsupptgp.co
 ||dietwikitw.com
@@ -2667,6 +2668,7 @@
 ||dragontechs2.live
 ||drama01.com
 ||draughtslondon.com
+||draweatply.live
 ||drbl99tfn.pixnet.net
 ||dreamerwin.com
 ||dreamleague.pt
@@ -7631,6 +7633,7 @@
 ||privacyesgbt.ru.com
 ||privod.me
 ||prizesense.life
+||prizesenses.life
 ||prm17xs73g.blog.fc2.com
 ||pro369.com
 ||probeballat.co
@@ -8261,7 +8264,6 @@
 ||robinsh0b38.pixnet.net
 ||robnjk.co
 ||robobos.co
-||roccat.com
 ||rockcloudarea.com
 ||rocketgeeks.com
 ||rockfitness.cz
@@ -8482,6 +8484,7 @@
 ||scenesofserenity.com
 ||schaefli-gersau.ch
 ||schloss-penkun.de
+||schneerosenrallye.at
 ||sci101.news
 ||scottct5775yw.pixnet.net
 ||scottishdentists.com
@@ -9272,6 +9275,7 @@
 ||thepickler.co.uk
 ||thepunnel.me
 ||thepurseaffair.com
+||theracane.fi
 ||therestdkw7.pixnet.net
 ||therevolutionchurch.me
 ||therichfighter.com
