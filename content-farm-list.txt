@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20230310
+! Version: 20230311
 ! Expires: 3 days
 
 ! Content farm
@@ -1325,6 +1325,7 @@
 ||bethtyon.co
 ||betsyanderik.com
 ||betteeam.co
+||bettermombaby.com
 ||bettymanod.pixnet.net
 ||betweengos.com
 ||beulahvz481.blog.fc2.com
@@ -3064,7 +3065,6 @@
 ||et47615272.pixnet.net
 ||et52106494.pixnet.net
 ||et66424950.pixnet.net
-||etaiwan.news
 ||ete5803xke.blog.fc2.com
 ||etop.com.cn
 ||etravelist.com
@@ -3540,7 +3540,6 @@
 ||freax.be
 ||frecksbingandgas.co
 ||frederique-davezac.fr
-||frederiqueconstant.com
 ||frednbf5dqm7w.pixnet.net
 ||fredpeterpxc.pixnet.net
 ||free.hr
@@ -3776,6 +3775,7 @@
 ||gergj.top
 ||gesundheitsratgeber.co.at
 ||get-the-prize-ht3.live
+||getbigbonuses.life
 ||getez.info
 ||getfun.cc
 ||getfunfun.com
@@ -4520,7 +4520,6 @@
 ||hsceco.com.au
 ||hshbyuyu.com
 ||hsjjsc.com
-||hsnews.com.tw
 ||hssszn.com
 ||ht38163556.pixnet.net
 ||htd93dl13t.blog.fc2.com
@@ -6599,6 +6598,7 @@
 ||mttmp.com
 ||muchunkang.com
 ||mudanxs.live
+||mudrsmejkalova.cz
 ||muhai.net
 ||mui28yk82a.pixnet.net
 ||muj1321mla.blog.fc2.com
@@ -10347,6 +10347,7 @@
 ||waorder.co
 ||warchina.com
 ||wardglenlarso.pixnet.net
+||warmeetpan.live
 ||warrenanifd.pixnet.net
 ||warrenbalsv.pixnet.net
 ||wartacika.com
