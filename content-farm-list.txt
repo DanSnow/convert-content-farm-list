@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20230313
+! Version: 20230314
 ! Expires: 3 days
 
 ! Content farm
@@ -40,9 +40,11 @@
 ||128wayt.co
 ||12mapa.co
 ||12southbistronashvill.com
+||12starnews.com
 ||12starparty.com
 ||1377003.com
 ||13800138002.com
+||13lifeskills.com
 ||13n.com
 ||155.138.230.158
 ||1565758.com
@@ -534,6 +536,7 @@
 ||9616x.com
 ||969fmtalk.com
 ||9780073022857.com
+||97fighting.com
 ||985ds.me
 ||985ys.com
 ||98watch.com
@@ -836,6 +839,7 @@
 ||anhengli.com.tw
 ||anhuilife.com
 ||animalshopmenfi.it
+||anime0128.com
 ||anime01kingdom.com
 ||animefans21.com
 ||anishinaabe.ch
@@ -1153,11 +1157,13 @@
 ||b9zll1dznf.pixnet.net
 ||babiesjh.com
 ||baby01.tv
+||babygoone.com
 ||babygoretro.com
 ||babykelai.com
 ||babymaycry.com
 ||babyonea.com
 ||babyou.com
+||babyucute.com
 ||babywindvane.com
 ||backstageparrucchieriuomodonna.it
 ||backteackle.me
@@ -1713,7 +1719,9 @@
 ||caipu56.com
 ||cajuncodies.me
 ||cakealitore.me
+||cakeopp.com
 ||cakesbymindy.com
+||cakesshare.com
 ||calandaskoschka.ch
 ||califoestment.co
 ||california-german-shepherds.com
@@ -1731,6 +1739,7 @@
 ||capemayjobbing.com
 ||captchaless.top
 ||capturedbylindsey.com
+||car-su.com
 ||car999.com.tw
 ||careerengine.us
 ||carefreetire.es
@@ -1911,6 +1920,7 @@
 ||chnweiyu.com
 ||chnzodiac.com
 ||choice4better.nl
+||chomered.com
 ||chongchonggou.com
 ||chongwu56.com
 ||choosewidethus.top
@@ -2071,8 +2081,10 @@
 ||collegiostetricienna.it
 ||collinmakiw.pixnet.net
 ||com543.com
+||come-pets.com
 ||comediacq.cl
 ||comeon-petts.com
+||comepet1.com
 ||comese.club
 ||comeseeit.club
 ||comeworlds.com
@@ -2499,6 +2511,7 @@
 ||debugease.com
 ||debugg.me
 ||decibo.com
+||decoratestar.com
 ||decowines.com
 ||dedra.me
 ||deebaali.xyz
@@ -2536,6 +2549,9 @@
 ||deshuoshuo.com
 ||design-ek.ru
 ||design-fabrica.com
+||design-touching.com
+||design-ways.com
+||designiwe.com
 ||designspace.fi
 ||desiredconstlltions.co
 ||desotalk.com
@@ -2667,6 +2683,7 @@
 ||doans.wiki
 ||dobs-tds.com
 ||doc01.cc
+||docilepuppy.com
 ||docs01.com
 ||doctoratorresandrade.es
 ||dodomin.com
@@ -3056,6 +3073,7 @@
 ||er-omsk.ru
 ||er64087180.pixnet.net
 ||er81396574.pixnet.net
+||erhealthy.com
 ||ericleonbkm.pixnet.net
 ||erikbarker390.pixnet.net
 ||erikedwaaqdx.pixnet.net
@@ -3276,6 +3294,7 @@
 ||f9z9n9rjxx.pixnet.net
 ||f9z9t9rdvf.pixnet.net
 ||f9zxt31xh5.pixnet.net
+||faawatch.com
 ||faberca.me
 ||faberlic-rejestracja24.pl
 ||fabrizpiclla.co
@@ -3409,6 +3428,7 @@
 ||ffvab.com
 ||fgfxr.com
 ||fgj47451s1os.blogspot.*
+||fgnj1634.com
 ||fgov.shop
 ||fgw65ta00m.blog.fc2.com
 ||fhb30vt00a.pixnet.net
@@ -3458,6 +3478,7 @@
 ||fishspa.lt
 ||fisioterapiamazzei.it
 ||fitkat.me
+||fitmenthom.com
 ||fitnesdream.ru
 ||fitnessmura.com
 ||fitnesssource1.com
@@ -3478,6 +3499,7 @@
 ||fl99v97hdvv.pixnet.net
 ||flacourtiaceous-flakage-oddlegs.xyz
 ||flatfishstudio.com
+||flcartoon.com
 ||fleysh.co
 ||flnxxzfxhfjd.blog.fc2.com
 ||floranth.co
@@ -3513,8 +3535,11 @@
 ||foltolik.co
 ||fondofgame.com
 ||fondtws.buzz
+||food-ham.com
+||fooden1.com
 ||foodtagtw.com
 ||foodytw.com
+||forever-super.com
 ||forfest.ru
 ||forgreatdaily.cc
 ||formcpfr.me
@@ -3807,6 +3832,7 @@
 ||getjetso.com
 ||getjoys.com
 ||getjoyz.com
+||gettpet.com
 ||geum6eusw.pixnet.net
 ||gf83919904.blog.fc2.com
 ||gfirh.top
@@ -4172,6 +4198,7 @@
 ||halenews.co
 ||halloweendog.co.uk
 ||halongbaytour.me
+||hamernail.com
 ||hamisu88.com
 ||hammonlillws.pixnet.net
 ||hancel.org
@@ -4300,6 +4327,7 @@
 ||health580.net
 ||healthalover.com
 ||healthdaily.tw
+||healthgoi.com
 ||healthlooker.com
 ||healthnews99.com
 ||healthofall.com
@@ -4413,6 +4441,7 @@
 ||hkheatnews.com
 ||hkjam.com
 ||hklaughpic.com
+||hklocalfeed.com
 ||hklocalpress.com
 ||hkmysan.com
 ||hknews.live
@@ -4456,6 +4485,7 @@
 ||hobbylavoricreativi.it
 ||hobbytagtw.com
 ||hoffmam37l477.pixnet.net
+||hogwash.tw
 ||hoiiy1181.pixnet.net
 ||hokpink.co
 ||holakikybernice.blog.fc2.com
@@ -4507,6 +4537,8 @@
 ||hottimes.org
 ||hotvdo.info
 ||hotxww.com
+||hoursfor.com
+||house-petdaily.com
 ||housekook.com
 ||housesdevise.com
 ||houseword.com
@@ -4802,6 +4834,7 @@
 ||inj13qv28b.blog.fc2.com
 ||injurylawyernewportnews.com
 ||inlove.cool
+||inlove77.com
 ||inneneinrichtung-sochor.ch
 ||innovawebs.es
 ||innypunkt.pl
@@ -5208,6 +5241,7 @@
 ||jkhappytify.com
 ||jkhappytify.info
 ||jkhealthtree.com
+||jkingtimes.com
 ||jklyxr412.pixnet.net
 ||jkmaow.me
 ||jkq21ah41i.blog.fc2.com
@@ -5237,7 +5271,9 @@
 ||johren.games
 ||johren.net
 ||jojavierfy5.pixnet.net
+||jojbaby.com
 ||jojo5.com
+||jojosunny.com
 ||jok.cool
 ||jokeblog.tv
 ||jokerice.com
@@ -5258,6 +5294,7 @@
 ||joshuacaxmlb.pixnet.net
 ||jostnews.com
 ||josyosoy.co
+||journeyvi.com
 ||joycecherylgj.pixnet.net
 ||joyceftsx.pixnet.net
 ||joycewillimbd.pixnet.net
@@ -5333,6 +5370,7 @@
 ||justindaniefr.pixnet.net
 ||justinjeffrey.com
 ||justinmurphylaw.com
+||justyeye.com
 ||justyou.cc
 ||jutsekw.me
 ||juzhappy.com
@@ -5479,6 +5517,7 @@
 ||keecnya.xyz
 ||keephealth365.com
 ||keeping-health.com
+||keepsjk.com
 ||keesogel.co
 ||keimiao.com
 ||keithbevehymf.pixnet.net
@@ -5524,6 +5563,7 @@
 ||kib49bb52g.blog.fc2.com
 ||kidswaypediatrics.com
 ||kidwikitw.com
+||kidy-kidy.com
 ||kif2008ksv.blog.fc2.com
 ||kikinote.net
 ||kimberincf.pixnet.net
@@ -5577,6 +5617,7 @@
 ||knightjsqd7.pixnet.net
 ||knihkupectvi-praha.cz
 ||knlfc73058.pixnet.net
+||knnbeauty.com
 ||knowledgeunion.com
 ||knowmore.cc
 ||knowyourinside.com
@@ -6076,6 +6117,7 @@
 ||loveshares.cc
 ||lovestory88.com
 ||lovestorynet.com
+||lovestylehouse.com
 ||lovetoknow.com
 ||lovetweast.com
 ||lowendbir.me
@@ -6449,6 +6491,7 @@
 ||mhl31kl37x.blog.fc2.com
 ||mhqc5philauri.pixnet.net
 ||mhs-365.de
+||mi-malist.com
 ||mi75gucrblqc.pixnet.net
 ||mialo.pt
 ||miaoji.tw
@@ -6521,6 +6564,7 @@
 ||mlog.club
 ||mm110.net
 ||mm32414045.pixnet.net
+||mmeowv.com
 ||mmin12.club
 ||mmrj1.xyz
 ||mmrj2.xyz
@@ -6911,6 +6955,7 @@
 ||newsbigear.com
 ||newschool18.ru
 ||newsdailyp.com
+||newsdbl.com
 ||newsdirectory3.com
 ||newsedaily24.com
 ||newshours20.com
@@ -6920,12 +6965,14 @@
 ||newsoftsomusw.sa.com
 ||newspirits-clinic.com.tw
 ||newsportal55.com
+||newspostw.com
 ||newsptt.com
 ||newsqr24.com
 ||newsrank9.com
 ||newsreadco.com
 ||newstime29.com
 ||newstube01.tv
+||newstvd.com
 ||newsyflash.com
 ||newtoday.cc
 ||newton.com.tw
@@ -7224,6 +7271,7 @@
 ||oj47.com
 ||ok25543043.blog.fc2.com
 ||okene.eu
+||okeyread.com
 ||oklahios.me
 ||oklahomacompanies.com
 ||okozen.co
@@ -7279,6 +7327,7 @@
 ||onevendrange.co
 ||oneveuw.co
 ||oneworldoo.com
+||onionew.com
 ||onlinebiokul.com
 ||onlinedailyupdate.com
 ||onlineprofitsgroup.com
@@ -7288,6 +7337,7 @@
 ||onlyeasylife.com
 ||onnewlife.com
 ||onnoroopbd.co
+||onocute.com
 ||ontargive.co
 ||onthatopne.club
 ||oo2008lw.pixnet.net
@@ -7528,6 +7578,7 @@
 ||pai-hang-bang.cn
 ||pai-hang-bang.com
 ||paiement.ch
+||paintbucke.com
 ||palapts.co
 ||pamelasilvadl.pixnet.net
 ||pan5rry.co
@@ -7620,18 +7671,22 @@
 ||petbasego.com
 ||peteradv.co
 ||petercshop.blog.fc2.com
+||petilovey.com
 ||petitisicovka.cz
 ||petitrygaku.co
 ||petkingdom.club
 ||petnews.tw
 ||petonea.com
 ||petpetbase.com
+||pets-angela.com
+||pets-feedder.com
 ||pets-homee.com
 ||pets-master.com
 ||pets-surprise.com
 ||petsonelove.com
 ||petstube35.com
 ||petsyinterieur.nl
+||petzaza.com
 ||pew28mo04l.blog.fc2.com
 ||pflegezentrum-linthgebiet.ch
 ||pfp93pb33f.pixnet.net
@@ -7691,6 +7746,7 @@
 ||pinoymoviepedia.ch
 ||pinpicl.com
 ||pioneerwe.com
+||pip-cute.com
 ||piq8821mmws.pixnet.net
 ||pirateking.xyz
 ||pitopalvelumatilda.fi
@@ -7751,6 +7807,7 @@
 ||po3c.com
 ||poad.net
 ||poemasenelre.co
+||poflod.com
 ||pogood123.blogspot.*
 ||pogruzchik-evro.ru
 ||pointnet.news
@@ -8350,6 +8407,7 @@
 ||readyposite.me
 ||rebecaherederofotografia.es
 ||rebeccamcgeid.pixnet.net
+||recentkhabaronline.com
 ||recepcni-pulty.cz
 ||recipe01.com
 ||recipetify.com
@@ -9121,6 +9179,7 @@
 ||studyfoation.co
 ||stugov.tv
 ||stx160.com
+||stylewantd.com
 ||stylewikitw.com
 ||stylnails.ch
 ||suahnthp.co
@@ -9441,6 +9500,7 @@
 ||temagestionteatral.cl
 ||temedtns.co
 ||tenri.cn
+||tenscars.com
 ||tepyoff.cfd
 ||terabitweb.com
 ||teriob.com
@@ -9623,6 +9683,7 @@
 ||tonymcveystudts.co
 ||tookportdid.top
 ||tool.lu
+||toop-workers.com
 ||top10bikeguide.com.tw
 ||topawardhere.life
 ||topbester.com
@@ -10591,6 +10652,7 @@
 ||wp.news365.my
 ||wphll.com
 ||wple8donj4t.pixnet.net
+||wprofessiion.com
 ||wpsabc.com
 ||wq25823137.blog.fc2.com
 ||wqc6577sxj.blog.fc2.com
