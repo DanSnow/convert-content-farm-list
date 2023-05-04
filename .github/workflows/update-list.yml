@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Update List
     steps:
-      - uses: robinraju/release-downloader@v1.7
+      - uses: robinraju/release-downloader@v1.8
         with: 
           repository: "DanSnow/convert-content-farm-list"
           latest: true
