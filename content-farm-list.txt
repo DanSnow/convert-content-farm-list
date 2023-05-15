@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20230514
+! Version: 20230515
 ! Expires: 3 days
 
 ! Content farm
@@ -799,6 +799,7 @@
 ||alluminiofratelliserramenti.it
 ||almasumare.ro
 ||almaxohades.com
+||almayadeen.net
 ||almost.pub
 ||alocfe.co
 ||alojenme.com
@@ -1577,6 +1578,7 @@
 ||booksee261.pixnet.net
 ||boosuccess.com
 ||boosuccess.org
+||boroszewo.pl
 ||borsosh.ru
 ||bossmurmur.com
 ||bosu.pixnet.net
@@ -2334,6 +2336,7 @@
 ||cup463.wordpress.com
 ||cup494.wordpress.com
 ||cupola-festival.ch
+||cureatecannabis.com
 ||curphotoaphy.co
 ||curryanniet26.pixnet.net
 ||cursactrie.co
@@ -2383,6 +2386,7 @@
 ||czgdpr.eu
 ||cznono.xyz
 ||czsfj.cn
+||d-drama.cfd
 ||d0bge1f5xwk.pixnet.net
 ||d0gnz3e1zt3.blog.fc2.com
 ||d0mhr408wkg.pixnet.net
@@ -2623,6 +2627,7 @@
 ||dealbulkaim.live
 ||deandaniej2.pixnet.net
 ||deannamarijfq.pixnet.net
+||dearmeswim.com
 ||debarrca.co
 ||debdez99074.pixnet.net
 ||deborahl59083.pixnet.net
@@ -2637,6 +2642,7 @@
 ||decowines.com
 ||dedra.me
 ||deebaali.xyz
+||deeoriginals.com
 ||deer.wiki
 ||deerask.com
 ||defedu.me
@@ -2661,9 +2667,11 @@
 ||demh429.pixnet.net
 ||demon.irish
 ||dempstercr.com
+||denfallbeer.live
 ||denihoyphotography.com
 ||denis-falkenstein.com
 ||deniseaf656.wordpress.com
+||denmanenergymanagement.com
 ||dennisbardlsw.pixnet.net
 ||denshishoseki.jp.net
 ||dentalcastro.es
@@ -2696,6 +2704,7 @@
 ||developpaper.com
 ||developreference.com
 ||device-variety.xyz
+||deyartrade.com
 ||deyi.com
 ||dezwuv942.pixnet.net
 ||df56163128.pixnet.net
@@ -2749,6 +2758,7 @@
 ||digfamily.com
 ||digiartesaani.fi
 ||digiimmi.ch
+||digitalsitesweb.com
 ||digitalsolute.com
 ||digitaotine.co
 ||diglog.com
@@ -2854,6 +2864,7 @@
 ||dounaite.com
 ||doux.ch
 ||douyin443.com
+||doviverse.com
 ||dovov.com
 ||dowelectrlc.com
 ||downloadbrother.com
@@ -3043,6 +3054,7 @@
 ||easyfreelife.com
 ||easylife.tw
 ||eat543.com
+||eatbetterbadder.com
 ||eathealth.net
 ||eatshealth.com
 ||eazon.com
@@ -3153,6 +3165,7 @@
 ||elkomsolons.co
 ||ellacruzxo44.pixnet.net
 ||ellamistcfse.pixnet.net
+||ellegreybooks.com
 ||ellell.cc
 ||ellenoov73b6.pixnet.net
 ||elliottrachnm.pixnet.net
@@ -3220,6 +3233,7 @@
 ||eon5eprowedhk.pixnet.net
 ||eorlingas.ch
 ||eotui.com
+||ephraimverse.com
 ||epn71gr56a.blog.fc2.com
 ||epsylon-assos.fr
 ||epu94mp85h.blog.fc2.com
@@ -3240,6 +3254,7 @@
 ||ericleonbkm.pixnet.net
 ||erikbarker390.pixnet.net
 ||erikedwaaqdx.pixnet.net
+||erinacinea.com
 ||erinlopezdani.pixnet.net
 ||erjiinfo.com
 ||ernestcbwyi57.pixnet.net
@@ -5116,6 +5131,7 @@
 ||insigniabodyboarding.com
 ||inspirationaltouching.blogspot.*
 ||instalatorkrosno.pl
+||installati.one
 ||instant.lvv2.com
 ||instantdelhi.com
 ||institutlagruyere.ch
@@ -8967,6 +8983,7 @@
 ||rogerwolfson.me
 ||roh5096bff.blog.fc2.com
 ||rohstgel.co
+||rollingfxs.com
 ||rolltabus.ml
 ||rolluptonneaucover.com
 ||roma.it
@@ -8987,6 +9004,7 @@
 ||rounsh.com
 ||roviil.co
 ||rowemorenokic.pixnet.net
+||roxadamedikal.com
 ||rozzbar.co
 ||rpd04hh77o.blog.fc2.com
 ||rpfhz3n9txzf.blog.fc2.com
@@ -9034,6 +9052,7 @@
 ||runshuoshuo.com
 ||runxinzhi.com
 ||ruralredoubt.me
+||russelnormandia.com
 ||rustlenews.com
 ||ruthcrystal.com
 ||rutsyx.me
@@ -9142,6 +9161,7 @@
 ||salonbauxmonde.nl
 ||salrodriguez.me
 ||saltbythecazaproject.com
+||salteddreams.com
 ||saludarmonia.cl
 ||salute88.com
 ||salvadjifj27.pixnet.net
@@ -9191,11 +9211,13 @@
 ||schloss-penkun.de
 ||schneerosenrallye.at
 ||sci101.news
+||scorilomedia.com
 ||scottct5775yw.pixnet.net
 ||scottishdentists.com
 ||scottpatanapl.pixnet.net
 ||scqowywwoa.xyz
 ||scrapyarough.co
+||scratchbuildwithjohn.com
 ||scryale.me
 ||scsagr.com
 ||scyjdm.com.tw
@@ -9228,11 +9250,14 @@
 ||selfportrait.fr
 ||semcienaga.com.co
 ||semicolonworld.com
+||senchmedia.com
+||sendaturquesa.com
 ||sendgemhold.live
 ||sengden.com
 ||sengzao.com
 ||senioren-pratteln.ch
 ||sennispodcst.co
+||sensetele.org
 ||sensoreimages.co
 ||sensortex.web.fc2.com
 ||seortpa.co
@@ -9240,12 +9265,14 @@
 ||serenity.pub
 ||sergiofoto.lv
 ||sergiogwqx.pixnet.net
+||sergiotrigo.net
 ||serramentiinpvc.mb.it
 ||serrano-design.com
 ||serrurerieacheres.com
 ||sexgamezz.click
 ||sexptt.tk
 ||sexylove24.ch
+||sezarmarcopolo.com
 ||sfen.cc
 ||sfglfpodcs.co
 ||sfkhxt709.pixnet.net
@@ -9293,6 +9320,8 @@
 ||shareu.com.tw
 ||sharing88.life
 ||sharingkings.com
+||sharongrayart.com
+||sharybom.com
 ||shauyess.co
 ||shbeyun.co
 ||shdfny.com
@@ -9322,7 +9351,9 @@
 ||shop-lottedouwes.nl
 ||shop.enesco.com
 ||shopafa.co
+||shopbiografi.com
 ||shopmore.pixnet.net
+||shopsaveb4.com
 ||shopthegoldenantler.com
 ||shorelinecrtons.co
 ||shortpumpeye.com
@@ -9331,6 +9362,7 @@
 ||shouye-wang.com
 ||shsminele.com
 ||shukunjin.com
+||shulestartupaward.com
 ||shunhui.com.tw
 ||shunya.com.tw
 ||shuoshuocun.com
@@ -9344,6 +9376,7 @@
 ||shuyangyang.com.cn
 ||shuzhiduo.com
 ||shxy888.com
+||shynailsandco.com
 ||shz5295mho.blog.fc2.com
 ||si02wi4i.blog.fc2.com
 ||siankl.me
@@ -9401,6 +9434,7 @@
 ||sk66483882.pixnet.net
 ||skbkd.top
 ||skenxqxq.co
+||sketchpadink.net
 ||skintegra.hr
 ||skippineltd.co
 ||skirt.jp.net
@@ -9408,6 +9442,7 @@
 ||skrfashion.com
 ||sksmokkng.co
 ||sktread.com
+||skwmarketingllc.com
 ||skye6299637.pixnet.net
 ||skyqzone.com
 ||skystormsbks.co
@@ -9427,6 +9462,7 @@
 ||sm82k09.pixnet.net
 ||smabaike.com
 ||smallmediumlarge.co
+||smallnations.org
 ||smallpopo.com
 ||smar888.com
 ||smart-city.fi
@@ -9496,6 +9532,7 @@
 ||southhawkeyeauctions.com
 ||souxxw.co
 ||sovalvo.com
+||sparkdirecthealth.com
 ||sparkrestaurant.cz
 ||spartanburgw.pixnet.net
 ||spazioideatende.it
@@ -9504,6 +9541,7 @@
 ||speargun.com
 ||specialintre.co
 ||spectnnium.co
+||spectpromotion.com
 ||spectrum-prem.com
 ||spectrumcollections.com
 ||sperky-rovski.cz
@@ -9546,6 +9584,7 @@
 ||sso.com.tw
 ||stackask.cn
 ||stackoom.com
+||staffordshops.com
 ||stamp3.com
 ||standardsversion.com
 ||standphone.fr
@@ -9600,6 +9639,7 @@
 ||storeoncpts.co
 ||storfamily.com
 ||storm-mg.com
+||storritomarketing.com
 ||story543.com
 ||storywall.me
 ||stpciip.co
@@ -9639,6 +9679,7 @@
 ||sugarforsale.com
 ||suibishuoshuo.com
 ||suite101.com
+||sukikotoblog.com
 ||sullivajens8j.pixnet.net
 ||sullivberdere.pixnet.net
 ||sultanada-music.ru
@@ -9651,6 +9692,7 @@
 ||suncottwn.co
 ||sundaynews.ch
 ||sundxs.com
+||sunetrafarms.com
 ||sunffix.com
 ||sunflyday.com
 ||sunmon.news
@@ -9691,6 +9733,7 @@
 ||sweepstakessurveytoday.com
 ||sweetastes.com
 ||sweetnautical.com
+||sweetwins.life
 ||sweetyfox.fr
 ||sweeuh.co
 ||swghn.blogspot.*
@@ -9896,6 +9939,7 @@
 ||tapeten-welt.at
 ||tapipak.com
 ||tashuoshuo.com
+||tasmakina.com
 ||tastones.com
 ||tatepaulbenja.pixnet.net
 ||tati-tatis.ru
@@ -9903,6 +9947,7 @@
 ||tattoostar.fr
 ||tauklar.co
 ||tax20ld40k.blog.fc2.com
+||taxilatours.com
 ||taytosss.co
 ||tb04914751.blog.fc2.com
 ||tbbee.cc
@@ -9923,6 +9968,7 @@
 ||tdww.cc
 ||tdx57lf19y.blog.fc2.com
 ||tdz3xb91.blog.fc2.com
+||teaandbe.com
 ||teab219.com
 ||teamheeter.com
 ||teammikies.me
@@ -9949,6 +9995,7 @@
 ||tellus.jp.net
 ||temagestionteatral.cl
 ||temedtns.co
+||tendasexata.com
 ||tenri.cn
 ||tenscars.com
 ||tepyoff.cfd
@@ -9999,6 +10046,7 @@
 ||thedesigver.co
 ||thedncba.co
 ||thefallenbrothersfoundation.com
+||thefitanista.com
 ||thefundaily.co
 ||thefundaily.com
 ||thefunny.cc
@@ -10016,7 +10064,10 @@
 ||thejumproom.org
 ||thekingofhollywood.com
 ||thelazy.me
+||thelifestylelane.com
+||themindbeauty.com
 ||thenews.cc
+||thenightofjustice.com
 ||theodoagurodr.pixnet.net
 ||thepantylicker.com
 ||thepickler.co.uk
@@ -10062,6 +10113,7 @@
 ||tiksomo.com
 ||tiktokclub.shop
 ||tiktokfinder.shop
+||timandtheo.com
 ||timbercters.me
 ||timeisall.club
 ||timetraxtech.com
