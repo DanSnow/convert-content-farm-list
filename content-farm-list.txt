@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20230518
+! Version: 20230519
 ! Expires: 3 days
 
 ! Content farm
@@ -328,6 +328,7 @@
 ||412lala.com
 ||41954.shop
 ||44finefood.com
+||45.138.72.21
 ||459888.com
 ||4910.com
 ||4k8k.xyz
@@ -792,6 +793,7 @@
 ||allesc.co
 ||allexperts.com
 ||allfunnynews.com
+||allhypefeed.com
 ||alliedlemuir.com
 ||allishea.co
 ||allisonorejqn.pixnet.net
@@ -1521,6 +1523,7 @@
 ||blubluu.com
 ||blueglassphotograph.com
 ||bluesbear.tw
+||bluesespoo.fi
 ||bluhillfinancial.com
 ||blukoko.com
 ||blumen-brigitte.at
@@ -1896,6 +1899,7 @@
 ||ceeshare.com
 ||ceibul508.pixnet.net
 ||ceiqq248.blog.fc2.com
+||celebrationscompany.uk
 ||celgov.com
 ||celsluus.co
 ||cen100.com
@@ -2078,6 +2082,7 @@
 ||clo.tw
 ||clo01.hk
 ||clon7hlopegbs.pixnet.net
+||clothesenvisage.com
 ||cloudtree.me
 ||clp27ub76f.blog.fc2.com
 ||clrh0i8.pixnet.net
@@ -2498,6 +2503,7 @@
 ||d9vhv3hzh5.blog.fc2.com
 ||d9zuq0zmup.pixnet.net
 ||da-quan.net
+||da.rt-redirect.com
 ||da3h.com
 ||da65347603.pixnet.net
 ||dachdeckerschwabach.de
@@ -2570,6 +2576,7 @@
 ||datansuo.net
 ||datingtipsnetwork.com
 ||datinguniversezone.top
+||datlngllfe.net
 ||datougou.cn
 ||dauc.cc
 ||daueac.co
@@ -2680,6 +2687,7 @@
 ||depthtide.com
 ||deputech.fr
 ||dercomotos.cl
+||derdiko.online
 ||derrichagt0.pixnet.net
 ||desa.id
 ||desatascosintegralescordoba.es
@@ -3219,7 +3227,6 @@
 ||ensou.cc
 ||entenrennen-steele11.de
 ||entkx44812.blog.fc2.com
-||entrepreneur.com
 ||envinteriors.com
 ||environmental-protective-cc.com
 ||envyzk796.pixnet.net
@@ -3267,6 +3274,7 @@
 ||erzhizhu.cn
 ||es57784162.pixnet.net
 ||escoleshamelin.com
+||esecegiz.online
 ||esinitsa.ru
 ||esmolxdorifty.pixnet.net
 ||esouceglobal.com
@@ -3280,6 +3288,7 @@
 ||estanciaflamingo.com
 ||estecenter.net
 ||esthenokuchikomi.com
+||estirecez.online
 ||et47615272.pixnet.net
 ||et52106494.pixnet.net
 ||et66424950.pixnet.net
@@ -3508,6 +3517,7 @@
 ||fanpiece.com
 ||fansofhradec.cz
 ||fanswong.com
+||fantasticality.pw
 ||fantwyp.com
 ||fanwenyuan.com
 ||fanyia.com
@@ -3523,6 +3533,7 @@
 ||fashionmanbuy.blogspot.*
 ||fashionwaltz.com
 ||fashionwaltzfw.com
+||fasola.edu.pl
 ||fastcandy.no
 ||fastfordfours.com
 ||fastnewsroom.com
@@ -3601,6 +3612,7 @@
 ||fenomendak.co
 ||fenshuxianchaxun.com
 ||fepp.cc
+||ferah.pw
 ||fermebeauvais.fr
 ||fernanddianie.pixnet.net
 ||fernandodearguello.cl
@@ -3700,6 +3712,7 @@
 ||fleysh.co
 ||flirts-online.nl
 ||flnxxzfxhfjd.blog.fc2.com
+||flora.pw
 ||floranth.co
 ||florariadavid.ro
 ||florenleonabw.pixnet.net
@@ -4150,6 +4163,7 @@
 ||gohong01.com
 ||golddtn.me
 ||golden-memories.nl
+||goldensmith.top
 ||goldmaster-msk.ru
 ||golfcourseireland.com
 ||golferproperties.com
@@ -4590,6 +4604,7 @@
 ||heathermcgovernnovels.com
 ||heathestoneuc.pixnet.net
 ||hebitax.com
+||hectare.pw
 ||hecwk13833.pixnet.net
 ||hedah.co
 ||hee-coboi.ch
@@ -4867,6 +4882,7 @@
 ||hungryrise.com
 ||huntalmar8.pixnet.net
 ||hunterstudio.pl
+||huntsbot.com
 ||huomtoimitilat.fi
 ||huongmd365.co
 ||hupc.cc
@@ -5229,6 +5245,7 @@
 ||itlele.co
 ||itmd3.blogspot.*
 ||itouchtv.cn
+||itponytaa.com
 ||itqerp.com
 ||itquaa.com
 ||itr22kg47n.blog.fc2.com
@@ -6362,6 +6379,7 @@
 ||likecs.com
 ||likedeer.com
 ||likelife365.com
+||likesmania2019.blogspot.*
 ||likestar.pub
 ||liliang.info
 ||lilliawilliev.pixnet.net
@@ -6760,6 +6778,7 @@
 ||mayauntz.co
 ||maybedarous.co
 ||mayibanchang.com.cn
+||maykalcarrion.es
 ||mb69575090.pixnet.net
 ||mbasc.uk
 ||mbl60becpk.pixnet.net
@@ -6852,6 +6871,7 @@
 ||mentaltraining.jp.net
 ||mentsmaster.com
 ||menuiseriessaintmartinboulogne.fr
+||mercy.pw
 ||mercyjulie.com
 ||meriambousselmi.me
 ||merismoscenter.com
@@ -7054,6 +7074,7 @@
 ||mrb91gy85y.blog.fc2.com
 ||mrfashionwood.pl
 ||mrgenerical.co
+||mrm.edu.pl
 ||mrnews.cc
 ||mrr33bx69i.blog.fc2.com
 ||mrttw.com
@@ -7315,6 +7336,7 @@
 ||neovid.me
 ||nepaliunity.com
 ||neptunnt.co
+||neredeydi.online
 ||nerimatteo.it
 ||nesetwork.me
 ||net287.wordpress.com
@@ -7323,6 +7345,7 @@
 ||netwrldrror.co
 ||neubauburg.co
 ||neukastels.ch
+||neverimabime.online
 ||new0.net
 ||new2mh.com
 ||newbedev.com
@@ -7358,6 +7381,7 @@
 ||newsdbl.com
 ||newsdirectory3.com
 ||newsedaily24.com
+||newsermans.blogspot.*
 ||newshours20.com
 ||newskaleidoscope.xyz
 ||newskdaily.com
@@ -7536,6 +7560,7 @@
 ||nunque.com
 ||nuomiphp.com
 ||nuoshuoshuo.com
+||nupune.co.uk
 ||nuti063.pixnet.net
 ||nuvute.cz
 ||nuy33ql20i.pixnet.net
@@ -7858,6 +7883,7 @@
 ||oy36625572.pixnet.net
 ||oydrsgrantrob.pixnet.net
 ||oytuj046vj.pixnet.net
+||ozcanden.online
 ||ozdjans.co
 ||ozedwb.me
 ||ozgegundogdu.com
@@ -8450,6 +8476,7 @@
 ||px40674409.pixnet.net
 ||pxpc.cc
 ||pxpnv71151.pixnet.net
+||py.bike24.uk
 ||pyk556.com
 ||pylllw.com
 ||pyn5.com
@@ -9219,6 +9246,7 @@
 ||scrapyarough.co
 ||scratchbuildwithjohn.com
 ||scryale.me
+||scs-drums.ch
 ||scsagr.com
 ||scyjdm.com.tw
 ||sdec18.co
@@ -9422,6 +9450,7 @@
 ||sionvalleyst.co
 ||siracusa.it
 ||siraortsu.co
+||siriusprocyon.top
 ||sis8.com
 ||sisauto.net
 ||sj41784819.pixnet.net
@@ -9582,6 +9611,7 @@
 ||sse886gu08.blog.fc2.com
 ||ssf15uv35r.pixnet.net
 ||sso.com.tw
+||st-redirect.com
 ||stackask.cn
 ||stackoom.com
 ||staffordshops.com
@@ -9610,6 +9640,7 @@
 ||stcdlassociati.it
 ||std6wolfen3c.pixnet.net
 ||stdans.com
+||steakhouseriihimaki.fi
 ||steamnity.me
 ||steamxo.com
 ||steelebrettmu.pixnet.net
@@ -9627,6 +9658,7 @@
 ||stevenmichsan.pixnet.net
 ||steventi5nm0p.pixnet.net
 ||stewarjfk43.pixnet.net
+||stind.es
 ||stmforum.net
 ||stmichhool.me
 ||stockcar-zwo-null.de
@@ -10261,6 +10293,7 @@
 ||traveltheworldfans.com
 ||traveltml.co
 ||travelwiseni.com
+||travelzone.com.pl
 ||trc441.pixnet.net
 ||trcchina.net
 ||trcpb.com
