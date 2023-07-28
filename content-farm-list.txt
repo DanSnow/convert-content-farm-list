@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20230727
+! Version: 20230728
 ! Expires: 3 days
 
 ! Content farm
@@ -7236,7 +7236,6 @@
 ||kidy-kidy.com
 ||kif2008ksv.blog.fc2.com
 ||kikigarage.pl
-||kikinote.net
 ||kilithg.net
 ||kimberincf.pixnet.net
 ||kimi5052723.pixnet.net
@@ -12472,7 +12471,6 @@
 ||therivalpts.co
 ||therm-coats.eu
 ||thermoklima.pl
-||thesaurus.com
 ||thesecretsauceretreat.com
 ||thesharedaily.com
 ||thesimplycook.com
