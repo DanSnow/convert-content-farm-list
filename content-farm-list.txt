@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231013
+! Version: 20231014
 ! Expires: 3 days
 
 ! Content farm
@@ -968,6 +968,7 @@
 ||allow-ensembles.eu
 ||allparam.es
 ||alluminiofratelliserramenti.it
+||ally8799.com
 ||almanaccoreggiano.it
 ||almasperk.cz
 ||almasumare.ro
@@ -1953,6 +1954,7 @@
 ||biomifarming.nl
 ||bionexenergy.pl
 ||biorak.pl
+||biorelie.fr
 ||biosgrupoinmobiliario.com
 ||biotrace.pl
 ||bioverdeitalia.it
@@ -4270,7 +4272,9 @@
 ||efektfilm.pl
 ||efektmodum.pl
 ||efektur.pl
+||efeunoconocho.es
 ||effeco.ch
+||effinshop.com
 ||efr9058jaj.blog.fc2.com
 ||efreedom.com
 ||eft93pf21e.blog.fc2.com
@@ -4361,6 +4365,7 @@
 ||elsonfm.es
 ||eltallerdesilvia.es
 ||elterndating.de
+||elysio-photog.de
 ||em-ekogreen.cz
 ||em-goldex.jp.net
 ||ema633rogejg.pixnet.net
@@ -6450,6 +6455,7 @@
 ||hmedsame.co
 ||hmgl8ce.pixnet.net
 ||hmhmachinery.com
+||hmhwz.com
 ||hmn.tw
 ||hmprowears.com
 ||hmqcx263zf.pixnet.net
@@ -7035,6 +7041,7 @@
 ||iphone5315357041.wordpress.com
 ||iphone813933229.wordpress.com
 ||ipipi.co
+||iplayio.cn
 ||ipodcases.biz
 ||ipp-lernplattform.de
 ||iptt.xyz
@@ -7647,6 +7654,7 @@
 ||justindaniefr.pixnet.net
 ||justinjeffrey.com
 ||justinmurphylaw.com
+||justlike.live
 ||justmyporn.fr
 ||justshare.live
 ||justyeye.com
@@ -7893,6 +7901,7 @@
 ||kikigarage.pl
 ||kilithg.net
 ||killtech.info
+||kimanhua.com
 ||kimberincf.pixnet.net
 ||kimi5052723.pixnet.net
 ||kimiewht.co
@@ -8590,6 +8599,7 @@
 ||littlepet.cc
 ||littlerocksoiree.com
 ||littleshoes.fr
+||lituiop.com
 ||liuxue86.com
 ||live-localhk.com
 ||livearico.eu
@@ -9067,6 +9077,7 @@
 ||massiveear.com
 ||massoterapia.tn.it
 ||mastermindcollege.nl
+||masterwebvalencia.es
 ||masteypc.me
 ||mastriasportacademy.it
 ||matecsoudure.ch
@@ -9323,6 +9334,7 @@
 ||millerthut7.pixnet.net
 ||millionairebusinesscreditbootcamp.com
 ||milliondollarquartetlive.co.uk
+||milnegocios.es
 ||milosctotu.pl
 ||miltonbeatyie.pixnet.net
 ||miltonlouisut.pixnet.net
@@ -12149,6 +12161,7 @@
 ||rtpraktijkbijdehand.nl
 ||rtr9262evw.pixnet.net
 ||rtspcelty.co
+||rtwab.fun
 ||rtxxvlpfhn.pixnet.net
 ||rtysk.com
 ||ru-bau.de
@@ -12416,6 +12429,7 @@
 ||schreier-kramer.de
 ||schuco-truck-team.de
 ||schulbuch-bayern.eu
+||schulhaus-kirnbach.de
 ||schwarzbauer-online.de
 ||schwestern-kaufhaus.de
 ||schwurverband.de
@@ -13356,6 +13370,7 @@
 ||t9yht7v27h.pixnet.net
 ||t9zbz3jtvf.pixnet.net
 ||t9znt0qzkf.pixnet.net
+||taaparty.com
 ||tabac-landes-40.fr
 ||tacbankurltw.wordpress.com
 ||tacmlw120.pixnet.net
@@ -14414,6 +14429,7 @@
 ||valerianeholley.fr
 ||valerie-traiteur-bauges.fr
 ||valeriecombettejavault.fr
+||vallenclume.fr
 ||valmypermis.fr
 ||valorandco.nl
 ||valtellinatrailbike.it
@@ -15021,6 +15037,7 @@
 ||wioter.com
 ||wir-fuer-sandesneben.de
 ||wir-testen-hamburg.de
+||wirbeiuns.de
 ||wirbelsturm.com
 ||wirelesscitystore.com
 ||wirfuermg.de
