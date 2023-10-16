@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231015
+! Version: 20231016
 ! Expires: 3 days
 
 ! Content farm
@@ -7898,6 +7898,7 @@
 ||kidwikitw.com
 ||kidy-kidy.com
 ||kif2008ksv.blog.fc2.com
+||kijkkoffie.nl
 ||kikigarage.pl
 ||kilithg.net
 ||killtech.info
