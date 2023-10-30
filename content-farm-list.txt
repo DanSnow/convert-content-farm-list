@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231029
+! Version: 20231030
 ! Expires: 3 days
 
 ! Content farm
@@ -542,6 +542,7 @@
 ||7bam.net
 ||7jiu.com.hk
 ||7net.co
+||7otech.com
 ||7qiqi7.com
 ||7y7.com
 ||7yi7ti.co
@@ -2102,6 +2103,8 @@
 ||blogmystery.cfd
 ||blogsbodasdeisabel.com
 ||blogsg.de
+||blogspot.de
+||blogspot.fr
 ||blondieskitchen.co.uk
 ||bloodissuefound.buzz
 ||blossomcoleccion.es
@@ -4027,6 +4030,7 @@
 ||dolomitismartfood.it
 ||dom4d.pl
 ||domainecombes.fr
+||domainedecaylus.fr
 ||domainedelapatuliere.fr
 ||domainelespailles.net
 ||domenicomarrazzo.it
@@ -4348,6 +4352,7 @@
 ||economischdoorleren.nl
 ||econsocietyy.co
 ||ecoroomroo.com
+||ecosmartfire.es
 ||ecosverdes.es
 ||ecoturismolapancha.cl
 ||ecoupled.eu
@@ -5370,7 +5375,6 @@
 ||fortcollinschamber.com
 ||fortepianino.pl
 ||fortultouslucks.com
-||fortuneinsight.com
 ||fortunetelling.cc
 ||forum-minerva.de
 ||forumctsko.me
@@ -5989,12 +5993,9 @@
 ||goody25.com
 ||google-info.in
 ||google-wiki.info
-||google.fr
-||google.it
 ||googlebot.us
 ||googlechrome2017download.com
 ||googletrace.com
-||googlevideo.com
 ||goojie.eu
 ||gooread.com
 ||gootta.es
