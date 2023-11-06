@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231105
+! Version: 20231106
 ! Expires: 3 days
 
 ! Content farm
@@ -2782,6 +2782,7 @@
 ||checked.news
 ||checkiton.club
 ||checklist-turkije.nl
+||checkmijnbtw.nl
 ||cheer01.me
 ||cheerfulprsdent.co
 ||chefman.com.mx
@@ -3234,6 +3235,7 @@
 ||cqwxsd.com
 ||crablovers.it
 ||cracowgamespot.pl
+||craftedninjamindset.nl
 ||craftipsblog.com
 ||craigob640ij.pixnet.net
 ||cranky-mama.com
@@ -3792,6 +3794,7 @@
 ||desatascoscampeoncordoba.es
 ||desatascosintegralescordoba.es
 ||deschiensdeschatsdeshumains.fr
+||descrumfabriek.nl
 ||desenoboschhcg.blog.fc2.com
 ||deshuoshuo.com
 ||design-ek.ru
@@ -4545,6 +4548,7 @@
 ||emprunterre.fr
 ||emq7bfdelh84.pixnet.net
 ||emrehartvig.de
+||emsstudio-borgfeld.de
 ||emstacconesrl.it
 ||emveclothingco.com
 ||en09223623.pixnet.net
@@ -5763,6 +5767,7 @@
 ||geneticpreparepre.com
 ||genikon.it
 ||genitoriproscuola.it
+||geniuspathways.nl
 ||gennaro-kochschule.de
 ||gentllutions.co
 ||genussmitherz.eu
@@ -7208,6 +7213,7 @@
 ||innerconcept.pl
 ||innobioeco2.fr
 ||innovamypesperu.com
+||innovatehub.nl
 ||innovation-entwicklung.de
 ||innovawebs.es
 ||innpulse-consulting.com
@@ -8668,7 +8674,9 @@
 ||leadershipnorthaugusta.com
 ||leadfieldtrackbox.com
 ||leafhemp.it
+||learnmastery.nl
 ||learnrimamehome.cf
+||learnwonders.nl
 ||leart-photography-design.de
 ||leather-shop.it
 ||leaveliveleaf.eu
@@ -10141,6 +10149,7 @@
 ||n9z9x3ndfl.blog.fc2.com
 ||n9zvx53lhz.pixnet.net
 ||na-madagaskar.sk
+||naarpolen.nl
 ||nadine-sole.de
 ||nadpoziom.pl
 ||nadziejazwyciestwo.pl
@@ -10223,6 +10232,7 @@
 ||neat-burger.com
 ||neatmeatstore.com
 ||nechi.net
+||neckarbiker.de
 ||necmisini.online
 ||necrocreatecre.com
 ||needmorefood.com
@@ -10903,6 +10913,7 @@
 ||osago-ivert.ru
 ||osamu.me
 ||osha-pcgsaims.com.tw
+||osibisi.de
 ||osometalk.com
 ||ospsporysz.pl
 ||osrodekdompodlasem.pl
@@ -11598,6 +11609,7 @@
 ||praspremim.co
 ||prawojazdygurgul.pl
 ||praxis-bless.ch
+||praxis-fuer-neues-sein.de
 ||praxis-katscher-knauer.de
 ||prbhexprts.co
 ||prbzv19793.pixnet.net
@@ -13522,6 +13534,7 @@
 ||stranoamilano.it
 ||stransky-elektro.cz
 ||strategic-synergies.com
+||strategycraft.nl
 ||straz.it
 ||stream-core.xyz
 ||streetarteverywhere.fr
@@ -13578,6 +13591,7 @@
 ||subvietnam.shop
 ||subzero6969.site
 ||successioneserena.it
+||successpath.nl
 ||successquote.org
 ||suche-geschaeftsidee.de
 ||sudostcks.co
@@ -14617,6 +14631,7 @@
 ||u6wic8yk06.pixnet.net
 ||u6wow2igo4.pixnet.net
 ||u72.net
+||u7buy.fr
 ||u7m3f6eisi.pixnet.net
 ||u8aiu2iiew.pixnet.net
 ||u8vkw3d9yr1.pixnet.net
@@ -15445,6 +15460,7 @@
 ||welfareml.com
 ||wellbay.cc
 ||wellnam.com
+||wellnessmassagenhofplauen.de
 ||wellwaypro.com
 ||welt-der-drohnen-und-hubschrauber.de
 ||weltkinderhilfe-aidforchildren.de
@@ -15562,6 +15578,7 @@
 ||wirbelsturm.com
 ||wirelesscitystore.com
 ||wirfuermg.de
+||wirtschaftsverbund-hassberge.de
 ||wisatawaykambas.com
 ||wisbechpestcontrol.co.uk
 ||wisecarom.live
