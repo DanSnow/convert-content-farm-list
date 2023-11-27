@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231126
+! Version: 20231127
 ! Expires: 3 days
 
 ! Content farm
@@ -7582,6 +7582,7 @@
 ||jakefornewton.com
 ||jameszx55.pixnet.net
 ||jamniki-szczytno.pl
+||janaschludecker.de
 ||janechafinofframp.com
 ||janefishrbtanicalart.co
 ||janjarolim.cz
@@ -9436,6 +9437,7 @@
 ||mauricelord.fr
 ||mauritania168.com
 ||maww.cc
+||max-raddatz.de
 ||max-titan-gel-gold.eu
 ||max-xtrazex.eu
 ||maxar.pl
@@ -11122,6 +11124,7 @@
 ||pacon.it
 ||pacreer.co
 ||pad02forum.cc
+||padagoginhande.de
 ||paddyun662.wordpress.com
 ||padelindooralbalat.es
 ||padpadblog.life
