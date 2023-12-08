@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231207
+! Version: 20231208
 ! Expires: 3 days
 
 ! Content farm
@@ -1830,6 +1830,7 @@
 ||beckerminnmar.pixnet.net
 ||beckertho1890.pixnet.net
 ||bedandbreakfastandalucia.eu
+||bedeutungonline.de
 ||bedzieglosno.pl
 ||beefgme.co
 ||beefun01.com
@@ -4178,6 +4179,7 @@
 ||dugushici.com
 ||duhougan.net
 ||duhpba.co
+||duidaima.com
 ||dukcek.online
 ||dulcet-torte-ddf1d5.netlify.app
 ||dunboutalautre.eu
@@ -5728,6 +5730,7 @@
 ||garincalar.com
 ||garmazodukrainek.pl
 ||garnekdoryzu.pl
+||gartenbau-blomberg.de
 ||gartentherapeuten-nord.de
 ||garwackibus.pl
 ||garyelmer.com
@@ -7262,6 +7265,7 @@
 ||institutlucile.fr
 ||institutmanoa.fr
 ||insurancewikitw.com
+||integrix.nl
 ||intelleality.co
 ||intemporemed.pl
 ||intensoaromadicaffe.it
@@ -12547,6 +12551,7 @@
 ||robinsh0b38.pixnet.net
 ||robnjk.co
 ||robobos.co
+||rockapella-fanclub.de
 ||rockcloudarea.com
 ||rocketgeeks.com
 ||rockfitness.cz
@@ -12924,6 +12929,7 @@
 ||scoppitoservizi.it
 ||scopusrevista.es
 ||scorilomedia.com
+||scotbugey.fr
 ||scottct5775yw.pixnet.net
 ||scottishdentists.com
 ||scottpatanapl.pixnet.net
@@ -13541,6 +13547,7 @@
 ||steventi5nm0p.pixnet.net
 ||stewarjfk43.pixnet.net
 ||stewartoverland.de
+||stichting-bvbb.nl
 ||stichtinggetontrack.nl
 ||stichtingont-moet.nl
 ||stind.es
@@ -15078,6 +15085,7 @@
 ||verona.it
 ||veronicrvd1u.pixnet.net
 ||versicherungsmakler-koeln24.de
+||vervex.nl
 ||veryngeran.co
 ||verywind.com
 ||veryyoufashion.pl
@@ -15161,6 +15169,7 @@
 ||virgo-works.com
 ||virnetcom.fr
 ||virtualascetic.com
+||virtuhunt.nl
 ||virus-removal-guide.net
 ||visageple.co
 ||visaqua.lt
