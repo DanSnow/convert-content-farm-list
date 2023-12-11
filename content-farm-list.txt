@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231210
+! Version: 20231211
 ! Expires: 3 days
 
 ! Content farm
@@ -728,6 +728,7 @@
 ||abteilung7bigband.de
 ||abwiswry.live
 ||ac-ay.com
+||academic-accelerator.com
 ||acalonline.it
 ||accademiadelcinemaares.it
 ||acceptanctgage.co
@@ -3189,6 +3190,7 @@
 ||copy.3f-rent.ru
 ||copyan.com
 ||copyfuture.com
+||coreforger.top
 ||corepsh.top
 ||coriginelis.nl
 ||corinnerieber.fr
@@ -4673,6 +4675,7 @@
 ||errosparadiabeticos.es
 ||ersutsim.co
 ||ertegrt.com
+||erwsiwc.com
 ||eryunews.com
 ||erzet.cc
 ||erzhizhu.cn
@@ -5291,6 +5294,7 @@
 ||fl99v97hdvv.pixnet.net
 ||flacourtiaceous-flakage-oddlegs.xyz
 ||flanagans.it
+||flashfury.nl
 ||flashh.online
 ||flatfishstudio.com
 ||flaviamodista.es
@@ -5936,6 +5940,7 @@
 ||gngfnrnrt.com
 ||gny7725lvz.blog.fc2.com
 ||go-coppola.ru
+||go.mnaspm.com
 ||go1p.com
 ||goad-shop.de
 ||goake.top
@@ -7046,6 +7051,7 @@
 ||idea543.net
 ||ideafiorecesena.it
 ||idealcartoucherie.fr
+||ideamaz.nl
 ||ideapit.com
 ||ideapit.net
 ||idee-sparidee.de
@@ -8902,6 +8908,7 @@
 ||linkptt.com
 ||linksou.cc
 ||linkteelow.live
+||linktekz.nl
 ||linlhd.co
 ||linnateras.fi
 ||linnseed.me
@@ -9305,6 +9312,7 @@
 ||malenews.nl
 ||malewesele.pl
 ||malina-24.eu
+||malinasi.com
 ||malirstvi-nedorostek.cz
 ||mallorcamarger.com
 ||malonumui.lt
@@ -10367,6 +10375,7 @@
 ||newyorkhedt.co
 ||newyorksubmissive.com
 ||newz2day.com
+||nexonixz.nl
 ||next-pops.top
 ||nextlas.co
 ||nextleveeybiz.co
@@ -11675,6 +11684,7 @@
 ||prettyhealth.life
 ||prew283.pixnet.net
 ||prfjt55937.blog.fc2.com
+||pricklywolf.com
 ||primalglass.co
 ||primariogy.co
 ||print-gs.ru
@@ -11841,6 +11851,7 @@
 ||puindia.me
 ||pulitibrillanti.it
 ||pulsandog.it
+||pulsarb.nl
 ||pulseexplorerx.com
 ||pulsejetwave.com
 ||puntidicomunita.it
@@ -12059,6 +12070,7 @@
 ||quaiwang123.com
 ||qualidogs.co
 ||quantcm.com
+||quantumnl.nl
 ||quartudestinazionesostenibile.it
 ||quarzwerke-kw.de
 ||quattroenovantanove.it
@@ -12436,6 +12448,7 @@
 ||retro-meca.fr
 ||retrogustobraceria.it
 ||retrplusapp.co
+||retwyia.com
 ||rev-abbigliamentomoto.it
 ||revanauto.cn
 ||revhaut.com
@@ -12463,6 +12476,7 @@
 ||rhinophotography.ch
 ||rhodesreranda.pixnet.net
 ||rhoneantennetelevision.fr
+||rhpin.altairaquilae.top
 ||rhythmjapan.com
 ||ri61478467.blog.fc2.com
 ||ribbeemood.live
@@ -13399,6 +13413,7 @@
 ||spambientepaesaggio.it
 ||spankwirecams.es
 ||sparkdirecthealth.com
+||sparkix.nl
 ||sparkrestaurant-lezennes.fr
 ||sparkrestaurant.cz
 ||spartanblasting.com
@@ -13752,6 +13767,7 @@
 ||sylvainmultiservices.fr
 ||sylviajoramon.pixnet.net
 ||sylviecavillon.com
+||synapsebiza.nl
 ||sync-computers.com
 ||synodwkonarzewie.pl
 ||sypialniany.pl
@@ -14071,6 +14087,7 @@
 ||tequilamixcoatl.com
 ||terabitweb.com
 ||teriob.com
+||termansia.com
 ||terrainal.co
 ||terrainspotting.co.uk
 ||terraze96l.pixnet.net
@@ -14593,6 +14610,7 @@
 ||twgreatdaily.life
 ||twgreatdaily.live
 ||twhotnews.com
+||twinfill.com
 ||twinsphoto.fr
 ||twittintwee.com
 ||twmqn.me
@@ -15973,6 +15991,7 @@
 ||xdyv.cc
 ||xdzb9dz15x.pixnet.net
 ||xe2w.com
+||xellia.nl
 ||xf21569781.pixnet.net
 ||xfiles.es
 ||xfmoz047ry.pixnet.net
