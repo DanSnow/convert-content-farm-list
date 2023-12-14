@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231213
+! Version: 20231214
 ! Expires: 3 days
 
 ! Content farm
@@ -3909,6 +3909,7 @@
 ||digitalsitesweb.com
 ||digitalsolute.com
 ||digitaotine.co
+||digitrix.nl
 ||diglog.com
 ||digwow.net
 ||digz.y84di2ne.site
@@ -13608,6 +13609,7 @@
 ||string.quest
 ||stripchat.com
 ||striveconfrnce.co
+||strivon.nl
 ||stroawp.co
 ||strohschein-it.de
 ||stronylaskowski.pl
@@ -14728,6 +14730,7 @@
 ||ucptt.com
 ||ucsou.cc
 ||ucxgov.com
+||ucying.com
 ||uczelniatodobremiejsce.pl
 ||ud5leovptj.pixnet.net
 ||udb25yd37o.blog.fc2.com
@@ -14780,6 +14783,7 @@
 ||ulpesion.co
 ||ulrike-wrobel.de
 ||ultra8keuropa.es
+||ultraix.nl
 ||ulvismueller.de
 ||ulzx.top
 ||umagdaily.com
@@ -16653,6 +16657,7 @@
 ||zeoark.com
 ||zephirin.eu
 ||zephyrrecords.co.uk
+||zephyrtechc.nl
 ||zepzuxe.com
 ||zerogravityskin.com
 ||zerotimes.net
