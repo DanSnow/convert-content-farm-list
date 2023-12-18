@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20231217
+! Version: 20231218
 ! Expires: 3 days
 
 ! Content farm
@@ -855,6 +855,7 @@
 ||agrocompost.es
 ||agroler.co
 ||agronomie-services.fr
+||agrotrebol.es
 ||agu73th13h.blog.fc2.com
 ||agueybna.me
 ||ah-fuda.com
@@ -2409,6 +2410,7 @@
 ||buzznews.news
 ||buzznews01.org
 ||buzznewshk.com
+||buzztron.nl
 ||buzzworld.tech
 ||bv7z108.pixnet.net
 ||bv97773395.blog.fc2.com
@@ -4230,6 +4232,8 @@
 ||dyhzdl.cn
 ||dynamiccvs.co.uk
 ||dynamickainkluze.cz
+||dynamorphq.nl
+||dynaway.nl
 ||dynotennisbackboard.com
 ||dyskretnykontakt.pl
 ||dywany-miks.pl
@@ -6116,6 +6120,7 @@
 ||gruniverpal.fr
 ||gruparenovatio.pl
 ||grupisenda.es
+||grupolimpio.es
 ||grupovissione.com
 ||gruppoautoclass.it
 ||gruppodimichele.it
@@ -7243,6 +7248,7 @@
 ||innovation-entwicklung.de
 ||innovawebs.es
 ||innovaxa.nl
+||innoviaz.nl
 ||innovme.nl
 ||innpulse-consulting.com
 ||innypunkt.pl
@@ -11733,6 +11739,7 @@
 ||promoloco.it
 ||promoteur-lemistral.fr
 ||prosema.nl
+||prosilvestre.es
 ||prosmile.me
 ||protectus.es
 ||protein-shake-review.com
@@ -12941,6 +12948,7 @@
 ||schwurverband.de
 ||sci101.news
 ||sciencepurview.com
+||scopeio.nl
 ||scoppitoservizi.it
 ||scopusrevista.es
 ||scorilomedia.com
@@ -13369,6 +13377,7 @@
 ||solis-online.de
 ||soloreloj.com
 ||soltysdrukuje.pl
+||solucionsreals.es
 ||solutions-entreprise.fr
 ||solveforum.com
 ||songcootow.link
@@ -14050,6 +14059,7 @@
 ||technickeplynysklad.sk
 ||technikigrzewcze-widera.pl
 ||technitektura.pl
+||technixo.nl
 ||technotronik-konin.pl
 ||techroomage.com
 ||techrum.vn
@@ -15996,6 +16006,7 @@
 ||xdzb9dz15x.pixnet.net
 ||xe2w.com
 ||xellia.nl
+||xelliz.nl
 ||xf21569781.pixnet.net
 ||xfiles.es
 ||xfmoz047ry.pixnet.net
