@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240108
+! Version: 20240109
 ! Expires: 3 days
 
 ! Content farm
@@ -890,6 +890,7 @@
 ||ahrzjl724.pixnet.net
 ||aht6.com
 ||ahtownetrze.pl
+||ahzz.com.cn
 ||ai-technology.it
 ||ai74469450.pixnet.net
 ||aiduw.cn
@@ -2860,6 +2861,7 @@
 ||chieriscout.it
 ||chihome.com.tw
 ||chihovet.com.tw
+||child-loves.com
 ||childmortgage.com
 ||childrenplayfun.com
 ||chimeneasyaccesorios.es
@@ -15389,6 +15391,7 @@
 ||vonline.me
 ||vonvon.me
 ||voodooqueenhotsauce.com
+||voohappy.com
 ||voordeelshopper.nl
 ||voorouders-uit-de-alblasserwaard.nl
 ||voorp.com
@@ -16385,6 +16388,7 @@
 ||yanyuguan.com
 ||yao51.com
 ||yaoshuoshuo.com
+||yaoweibin.com
 ||yapadkoi.fr
 ||yarde.com.tw
 ||yardwarmine.xyz
