@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240121
+! Version: 20240122
 ! Expires: 3 days
 
 ! Content farm
@@ -2051,6 +2051,7 @@
 ||bimosyn.eu
 ||binas-bs.de
 ||bineeditoregroup.it
+||bingo-lot.nl
 ||bingomerch.com
 ||biniang.co
 ||binjiangjx.com
