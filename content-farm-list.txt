@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240211
+! Version: 20240212
 ! Expires: 3 days
 
 ! Content farm
@@ -8493,6 +8493,7 @@
 ||kunz-modeundmehr.de
 ||kupitpravatyt.online
 ||kursyhiszpanskiegowhiszpanii-zador.pl
+||kursyoutube.pl
 ||kusearch.cc
 ||kushalpanchal.me
 ||kushibar.com.tw
@@ -10034,6 +10035,7 @@
 ||mr-borna-mde.de
 ||mr05226936.blog.fc2.com
 ||mrb91gy85y.blog.fc2.com
+||mrcls.pl
 ||mrfashionwood.pl
 ||mrfisher.com.tw
 ||mrgenerical.co
