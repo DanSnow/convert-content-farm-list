@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240225
+! Version: 20240226
 ! Expires: 3 days
 
 ! Content farm
@@ -7673,6 +7673,7 @@
 ||jacquem8f6s6u.pixnet.net
 ||jacquesj523.pixnet.net
 ||jaegerstueberl.de
+||jaffaarchitekci.pl
 ||jagally34.pl
 ||jah32v8dalens.pixnet.net
 ||jahmanican.com
@@ -10028,6 +10029,7 @@
 ||moviesun.org
 ||movilink.es
 ||movkitchen.fr
+||movylo.it
 ||mp20q10.pixnet.net
 ||mp3playershopping.de
 ||mpt98.pixnet.net
