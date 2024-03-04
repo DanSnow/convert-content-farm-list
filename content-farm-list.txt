@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240303
+! Version: 20240304
 ! Expires: 3 days
 
 ! Content farm
@@ -922,6 +922,7 @@
 ||aitechtogether.com
 ||aitnapartments.it
 ||aiweinews.com
+||aixplosive-tcg.de
 ||aiyangedu.com
 ||aiyara.fr
 ||aiznh.com
@@ -1327,6 +1328,7 @@
 ||aromes-sens.com
 ||arquitectotecnicomadridsur.es
 ||arranaroma.ru
+||arredamentiaroma.it
 ||arresto-momentum.de
 ||arrived.cfd
 ||ars-passau.de
@@ -2309,6 +2311,7 @@
 ||brbtyt.com
 ||breakblack.net
 ||brechomix.com
+||breezeblooms.pl
 ||bremancitywallcross.nl
 ||brescianiline.it
 ||brettjeffyg.pixnet.net
@@ -2892,6 +2895,7 @@
 ||chlapowo-spa.pl
 ||chloedanse.com
 ||chloelocks.com
+||chlorophylle-environnement.fr
 ||chnweiyu.com
 ||chnzodiac.com
 ||choere-kontern-corona.de
@@ -7356,6 +7360,7 @@
 ||intelleality.co
 ||intemporemed.pl
 ||intensoaromadicaffe.it
+||interact-europe.de
 ||interbolex.pl
 ||interestingpo.com
 ||interklim.cz
