@@ -1,9 +1,10 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240322
+! Version: 20240323
 ! Expires: 3 days
 
 ! Content farm
+||
 ||00000258.com
 ||0077851.com
 ||0077951.com
@@ -9852,7 +9853,6 @@
 ||minkybaby.pl
 ||minniefa92589.pixnet.net
 ||minnielylfly.pixnet.net
-||minutepatternbook.xyz
 ||miogiornale.com
 ||miohco.co
 ||mip.gb.net
@@ -11631,7 +11631,6 @@
 ||placezabawmax.pl
 ||planetgammon.com
 ||planethaze.net
-||planetsuddenradio.xyz
 ||planowaniestrategiczne.pl
 ||plast-metal.pl
 ||platformanalyser.co.uk
@@ -12566,7 +12565,6 @@
 ||rentyourvilla.it
 ||repingke.com
 ||replidelujo.co
-||replydiscusstool.xyz
 ||reportagephotoart.fr
 ||reportry.co
 ||reptilienzimmer-hannover.de
@@ -13334,6 +13332,7 @@
 ||sidecrance.co
 ||sidly-care.de
 ||sidneykellyma.pixnet.net
+||sidodetailing.pl
 ||sidrerialajoguera.es
 ||sidroswimwear.pl
 ||siejek.pl
@@ -16449,7 +16448,6 @@
 ||yaoweibin.com
 ||yapadkoi.fr
 ||yarde.com.tw
-||yardwarmine.xyz
 ||yaren.com.tw
 ||yarrowialipolytica.pl
 ||yatt.cc
