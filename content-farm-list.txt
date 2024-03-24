@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240323
+! Version: 20240324
 ! Expires: 3 days
 
 ! Content farm
@@ -762,6 +762,7 @@
 ||acgfun.wang
 ||acggrant.com
 ||acgmodels.pl
+||acgwiki.tw
 ||acheref.fr
 ||achieveauthority.com
 ||achordgroup.com
@@ -2337,7 +2338,6 @@
 ||brndspt.co
 ||broadmaster.top
 ||broedmachinevergelijken.nl
-||brogueshop.com
 ||bronda.cz
 ||bronist.com
 ||brookstreetfutures.eu
@@ -3306,6 +3306,7 @@
 ||createdessentls.co
 ||createpoints.com
 ||creative-rp.fr
+||creativealliance.es
 ||crechetoutoumatous.fr
 ||crediasurement.co
 ||credit-on-line.fr
@@ -11711,7 +11712,6 @@
 ||poleair-sport.fr
 ||poledanceacademydg.pl
 ||polenaturemaraisdyves.fr
-||polene-paris.com
 ||poletennisespoirs.fr
 ||polluxcastor.top
 ||polomagnagrecia.it
