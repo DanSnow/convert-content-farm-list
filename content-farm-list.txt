@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240324
+! Version: 20240325
 ! Expires: 3 days
 
 ! Content farm
@@ -2896,6 +2896,7 @@
 ||chlapowo-spa.pl
 ||chloedanse.com
 ||chloelocks.com
+||chloethletic.fr
 ||chlorophylle-environnement.fr
 ||chnweiyu.com
 ||chnzodiac.com
@@ -3795,6 +3796,7 @@
 ||deinlaufwerk.de
 ||deinschakelaars.nl
 ||deittitreffit.eu
+||dekorelectrique.fr
 ||delabren.com
 ||delaherayrabadan.es
 ||delfinet.pl
@@ -5278,6 +5280,7 @@
 ||fidapcodcom.fr
 ||fidelis-immo-lpa.fr
 ||fightertify.com
+||fijewska-zdanowska.pl
 ||fijvlydialoui.pixnet.net
 ||file-sharing2022.xyz
 ||file007.com
@@ -5710,6 +5713,7 @@
 ||g2euc4giqy.pixnet.net
 ||g2q9i7.wordpress.com
 ||g2r7i2axxz.blog.fc2.com
+||g2rsolutionsetservices.fr
 ||g2ukg0ya24.pixnet.net
 ||g2wiq0so04.blog.fc2.com
 ||g3a3m5.wordpress.com
@@ -8292,6 +8296,7 @@
 ||kia-56.ru
 ||kib49bb52g.blog.fc2.com
 ||kibbuis.com
+||kidssi.pl
 ||kidswaypediatrics.com
 ||kidwikitw.com
 ||kidy-kidy.com
@@ -11267,6 +11272,7 @@
 ||p9vxl7ll9n.blog.fc2.com
 ||p9x3d1nnn7.blog.fc2.com
 ||p9xzt75jnl.pixnet.net
+||pa-ma-meble.pl
 ||pa58jaredyt.pixnet.net
 ||pa9bym02uk.pixnet.net
 ||paakaupunkiseudunvirolahtelaiset.fi
@@ -13908,6 +13914,7 @@
 ||sweetyfox.fr
 ||sweeuh.co
 ||swghn.blogspot.*
+||swiatdzieckakomis.pl
 ||swietlicarozwoju.pl
 ||swiftfin.nl
 ||swiftfusionwave.com
@@ -15226,6 +15233,7 @@
 ||vbsdfsda.blogspot.*
 ||vbup.cc
 ||vbz92vk48p.pixnet.net
+||vcbvire.fr
 ||vcp91jn64b.blog.fc2.com
 ||vcpc.cc
 ||vcs08dn98c.pixnet.net
