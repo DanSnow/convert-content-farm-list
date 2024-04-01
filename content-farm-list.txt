@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240331
+! Version: 20240401
 ! Expires: 3 days
 
 ! Content farm
@@ -1115,6 +1115,7 @@
 ||amuzlodz-eog.pl
 ||amwo2o.com
 ||amww.cc
+||an-decoris.pl
 ||an-la.ch
 ||analisisbori.com
 ||analizainternetowa.pl
@@ -1661,6 +1662,7 @@
 ||babavang.com
 ||babiesjh.com
 ||babole.es
+||babskicatering.pl
 ||baby-bear.pl
 ||baby01.tv
 ||babydomainnamen.de
@@ -2010,6 +2012,7 @@
 ||bht03zm84q.pixnet.net
 ||bhtvp97991.pixnet.net
 ||bhx41rd30i.pixnet.net
+||bi-odenthal-erberich.de
 ||bi01668472.pixnet.net
 ||bia2ttoddead.pixnet.net
 ||biabiites.co
@@ -2700,6 +2703,7 @@
 ||cavour48.it
 ||caworktravel.com
 ||cbaprject.co
+||cbd-pure.eu
 ||cbdmonblog.fr
 ||cbi75bg72m.pixnet.net
 ||cccy4smee.pixnet.net
@@ -5491,6 +5495,7 @@
 ||fotomagisch.eu
 ||fotomedytacje.pl
 ||fotomnk.co
+||fotosycha.pl
 ||foulo.fr
 ||fov75yy61k.pixnet.net
 ||foxege.pixnet.net
@@ -7403,6 +7408,7 @@
 ||ionlinerz.com
 ||iononcicasco.com
 ||iot-visitthefuture.eu
+||iotsolution.eu
 ||ipaicoanfund.co
 ||ipcbia.me
 ||ipec-project.eu
@@ -10707,6 +10713,7 @@
 ||nuexuan.com
 ||nukfunboxlego.blog.fc2.com
 ||number1store.pl
+||numero-eori.fr
 ||nunbang.com
 ||nunkuai.com
 ||nunmang.com
@@ -16955,6 +16962,7 @@
 ||zm55134031.pixnet.net
 ||zmagazzini.it
 ||zmarterlife.com
+||zmastart.nl
 ||zmichelina.pl
 ||zmienkariere.pl
 ||zmjayouzan.com
