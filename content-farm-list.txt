@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240407
+! Version: 20240408
 ! Expires: 3 days
 
 ! Content farm
@@ -1172,6 +1172,7 @@
 ||annanchic.com
 ||annanderum.pixnet.net
 ||annawasij.pl
+||annazakrzewskaart.pl
 ||annchristintc.pixnet.net
 ||anneedwin7631.pixnet.net
 ||annelieberg.com
@@ -3648,6 +3649,7 @@
 ||dance4fun.es
 ||danceking.us
 ||danengtzs.com
+||dani-naeht.de
 ||danielconneo5.pixnet.net
 ||danieljun7788.pixnet.net
 ||danielmairanidds.com
@@ -11359,6 +11361,7 @@
 ||pasionfunkopop.es
 ||pass345.com
 ||passalacqualuzon.it
+||passionart-by-kamil.pl
 ||passionfiveservices.de
 ||passivhausmeister.de
 ||pastapizza.es
@@ -11933,6 +11936,7 @@
 ||ptt-carshop.tw
 ||ptt-chat.com
 ||ptt-cookclub.tw
+||ptt-diary.tw
 ||ptt-life.com
 ||ptt-news.cc
 ||ptt-politics.com
@@ -15810,6 +15814,7 @@
 ||wi77228013.pixnet.net
 ||wiaradzwigniegory.pl
 ||wicher-pomocdrogowa.pl
+||wiebkes-seifenkiste.de
 ||wielkopolska-nieruchomosci.pl
 ||wiemjak.eu
 ||wierzcholowskipremium.pl
