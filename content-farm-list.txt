@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240518
+! Version: 20240519
 ! Expires: 3 days
 
 ! Content farm
@@ -630,6 +630,7 @@
 ||990yte.co
 ||9966516.xyz
 ||99bookgame.com
+||99joylife.com
 ||9flowex.com
 ||9game.cn
 ||9kd.com
@@ -1025,6 +1026,7 @@
 ||allroundversicherer.de
 ||alltagsservice-erdmann.de
 ||alluminiofratelliserramenti.it
+||allure2000.fr
 ||ally8799.com
 ||almanaccoreggiano.it
 ||almasperk.cz
@@ -1559,6 +1561,7 @@
 ||azahardeestepona.es
 ||azartyduqu.de
 ||azartyozo.de
+||azerbaijanibonus.eu
 ||azert.me
 ||azetelec.fr
 ||azfx.cc
@@ -6571,6 +6574,7 @@
 ||hbfbt77199.pixnet.net
 ||hbg4714qqr.pixnet.net
 ||hbxfm267pw.pixnet.net
+||hbyd.org.cn
 ||hbzrhf.com
 ||hc0b7pr6gk.pixnet.net
 ||hclmedia.nl
@@ -7307,6 +7311,7 @@
 ||indnriveranimaladvoctes.co
 ||indonesiabelle.com
 ||indonirman.com
+||inecper.pl
 ||inesterron.es
 ||inew.com.tw
 ||inewsdb.com
@@ -7367,6 +7372,7 @@
 ||inside-tt.de
 ||insightslife.news
 ||insigniabodyboarding.com
+||inspirational-saying.com
 ||inspirationaltouching.blogspot.*
 ||instalatorkrosno.pl
 ||installati.one
@@ -10215,6 +10221,7 @@
 ||mystical.press
 ||mystificus.pl
 ||mystische-wesen.de
+||mystrikingly.com
 ||mysurepass.biz
 ||mytieins.me
 ||mytiko.co
@@ -11573,6 +11580,7 @@
 ||pianshen.com
 ||piantesucculente.it
 ||picallies.com
+||picany.top
 ||piccoliprestitiveloci.it
 ||picelse.com
 ||pickledbrothers.pl
@@ -12177,6 +12185,7 @@
 ||qiqis.life
 ||qiqis.live
 ||qiqis.online
+||qiqis.org
 ||qiqis.site
 ||qiqu.fun
 ||qiqu.life
