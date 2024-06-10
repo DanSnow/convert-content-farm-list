@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240609
+! Version: 20240610
 ! Expires: 3 days
 
 ! Content farm
@@ -11793,6 +11793,7 @@
 ||posttw.com
 ||posutochnokirov.ru
 ||potagezvous.fr
+||potesdhopale.fr
 ||potterhe27508.pixnet.net
 ||potterk00evk.pixnet.net
 ||poweeclin.com
@@ -12524,6 +12525,7 @@
 ||readthis.one
 ||readyposite.me
 ||realgift.life
+||realistyczny.pl
 ||realityslovacko.eu
 ||reasonsforeurope.eu
 ||rebecaherederofotografia.es
@@ -13212,6 +13214,7 @@
 ||serbupoker.biz
 ||sercekryspinka.eu
 ||serenity.pub
+||serge-bouaziz-psychologue.fr
 ||sergiofoto.lv
 ||sergiogwqx.pixnet.net
 ||sergiotrigo.net
