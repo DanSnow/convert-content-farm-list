@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240621
+! Version: 20240622
 ! Expires: 3 days
 
 ! Content farm
@@ -3786,6 +3786,7 @@
 ||decibo.com
 ||deconstruye.es
 ||decoratestar.com
+||decoration-skills.com
 ||decowines.com
 ||dedra.me
 ||deebaali.xyz
@@ -6600,6 +6601,7 @@
 ||hdpp560becnat.pixnet.net
 ||hdtrucks.it
 ||hdvideoo.online
+||headline01.com
 ||headpophk.com
 ||healer-marketing.pl
 ||healinglightviseum.eu
@@ -13644,6 +13646,7 @@
 ||spd-panketal.de
 ||spd-wandlitz.de
 ||speakersuccesskit.com
+||speakout.hk
 ||speargun.com
 ||specialintre.co
 ||spectankcanarias.es
