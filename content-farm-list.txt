@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240629
+! Version: 20240630
 ! Expires: 3 days
 
 ! Content farm
@@ -6311,6 +6311,7 @@
 ||gzx80925715shibi.wordpress.com
 ||gzyuhe.com
 ||h-and-g.de
+||h-jw.com.pl
 ||h-steak.com.tw
 ||h00h13m.pixnet.net
 ||h0b3x11.pixnet.net
@@ -7970,6 +7971,7 @@
 ||jouerautennis.fr
 ||journal-online.net
 ||journeyvi.com
+||jousei.pl
 ||joyblinkwave.com
 ||joyburstwave.com
 ||joycecherylgj.pixnet.net
@@ -10390,6 +10392,7 @@
 ||nanyang.news
 ||naobay.sk
 ||naprawylaptopa.pl
+||narzeczonanarkomana.pl
 ||nasrba.blogspot.*
 ||nassrance.me
 ||naszakultura.eu
@@ -10703,6 +10706,7 @@
 ||nowinthegarden.com
 ||nowlooker.com
 ||nowmedia.cc
+||nowoczesneszkolenia.pl
 ||noworrieswebsites.com
 ||nowreadeok.com
 ||nowybuklak.pl
@@ -12064,6 +12068,7 @@
 ||pup17.com
 ||puppenstube-bamberg.de
 ||pupperish.com
+||puppywear.pl
 ||purebred-puppy.com
 ||purokawa.pl
 ||push01.com
@@ -13827,6 +13832,7 @@
 ||strategycraft.nl
 ||straz.it
 ||stream-core.xyz
+||streamoflight.pl
 ||streetarteverywhere.fr
 ||streetshots-weddingfilms.de
 ||strefa-ubran.pl
