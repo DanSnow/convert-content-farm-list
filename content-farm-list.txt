@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240707
+! Version: 20240708
 ! Expires: 3 days
 
 ! Content farm
@@ -3209,6 +3209,7 @@
 ||confianzamagazine.nl
 ||conglinds.com
 ||congo-paint.fr
+||congresoenesa2023.es
 ||congresomagnetobiologia.es
 ||congresomedicosjubilados-sevilla2022.es
 ||conjulhala.wiki
@@ -7006,6 +7007,7 @@
 ||hundesalon-el-roi.de
 ||hundesalon-pino.de
 ||hundundpfote.de
+||hungrydays.fr
 ||hungryrise.com
 ||hunoldag.ch
 ||huntalmar8.pixnet.net
@@ -10047,6 +10049,7 @@
 ||montepaoneviaggi.it
 ||monterosrl.co
 ||montevidoncombatte.eu
+||monval.es
 ||moonradio.it
 ||moontoppings.es
 ||mop.com
