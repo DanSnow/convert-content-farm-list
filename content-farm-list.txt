@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240714
+! Version: 20240715
 ! Expires: 3 days
 
 ! Content farm
@@ -927,6 +927,7 @@
 ||aitnapartments.it
 ||aiweinews.com
 ||aixplosive-tcg.de
+||aixue.net
 ||aiyangedu.com
 ||aiyara.fr
 ||aiznh.com
@@ -1385,6 +1386,7 @@
 ||arztdata-club.de
 ||as25587065.pixnet.net
 ||as62030297.pixnet.net
+||asbestverwijderingadviseur.nl
 ||asbp.it
 ||ascenn.online
 ||asdbresciasportpiu.it
@@ -1685,6 +1687,7 @@
 ||babyou.com
 ||babyucute.com
 ||babywindvane.com
+||babyystory.com
 ||bacibijoux.fr
 ||backstage-nice-metropole.fr
 ||backstageparrucchieriuomodonna.it
@@ -7909,6 +7912,7 @@
 ||jktip.net
 ||jktree.com
 ||jkvanguard.com
+||jkwshk.tv
 ||jl-assistance-qualite.fr
 ||jlhft99931.pixnet.net
 ||jm-assistant-administratif.fr
@@ -14610,6 +14614,7 @@
 ||toonk.pl
 ||toonkor130.biz
 ||toop-workers.com
+||toopartner.com
 ||top-autosrl.it
 ||top-choova.cz
 ||top10bikeguide.com.tw
@@ -17147,6 +17152,7 @@
 ||zz41617214.pixnet.net
 ||zzcsfe.blogspot.*
 ||zzeh33043428fuqi.wordpress.com
+||zzfmdn.com
 ||zzfxdvjt3d.pixnet.net
 ||zzh92tw00k.blog.fc2.com
 ||zzmi.top
