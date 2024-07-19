@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240718
+! Version: 20240719
 ! Expires: 3 days
 
 ! Content farm
@@ -48,6 +48,7 @@
 ||123schlosserei.de
 ||128meto.co
 ||128wayt.co
+||12luckyhome.com
 ||12mapa.co
 ||12southbistronashvill.com
 ||12starnews.com
@@ -2403,6 +2404,7 @@
 ||buitudesysfi.tk
 ||bujincycy.co
 ||bukowski-remonty.pl
+||bularmoric.fr
 ||bulimie.eu
 ||bullesetvous.fr
 ||bullticle.com
@@ -3605,6 +3607,7 @@
 ||da.rt-redirect.com
 ||da3h.com
 ||da65347603.pixnet.net
+||daapower.com
 ||dabrowkagrzybowska.pl
 ||dach-woj.pl
 ||dachdeckerschwabach.de
@@ -6123,6 +6126,7 @@
 ||goodmastegve0.pixnet.net
 ||goodmeihao.com
 ||goodmemearticle.blogspot.*
+||goodtime-life.com
 ||goodtimes.my
 ||goodturns.com.tw
 ||goodwimitchbq.pixnet.net
@@ -7066,6 +7070,7 @@
 ||hzr97tp77p.pixnet.net
 ||hzsjtf.com
 ||hzt57lz35p.blog.fc2.com
+||i-besthome.com
 ||i-funny.tw
 ||i-grek.pl
 ||i-kidsmaresme.es
@@ -9289,6 +9294,7 @@
 ||lumisan.eu
 ||lunarastore.pl
 ||lune-garden.com.tw
+||lunetlautrephotographes.fr
 ||lunsui.com
 ||luobojianzhan.com
 ||luoow.com
@@ -11023,6 +11029,7 @@
 ||one-sups.com
 ||onecharter.it
 ||onefunnyjoke.com
+||onegreatlifestyle.com
 ||onehumanfamily.me
 ||oneinfo.tw
 ||onepiece520.com
@@ -11386,6 +11393,7 @@
 ||parasources.com
 ||parcoverdegrillfry.it
 ||parenthesebienetreparis.fr
+||parentups.com
 ||paris2024.pl
 ||parisiodst.co
 ||parkaas.co
@@ -15941,6 +15949,7 @@
 ||wismco.co
 ||wit3k.pl
 ||witaminkowo.pl
+||with-summer.com
 ||within-temptation.com
 ||withlovethebrand.net
 ||withmven.co
