@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240728
+! Version: 20240729
 ! Expires: 3 days
 
 ! Content farm
@@ -2135,6 +2135,7 @@
 ||bkucukguzel.me
 ||bl5fharryr5oq.pixnet.net
 ||blabto.com
+||blackclover-mobile.fr
 ||blackfridayakcja.pl
 ||blackline.jp.net
 ||blacklinenrm.com
@@ -5890,6 +5891,7 @@
 ||geldikhani.online
 ||geldkyktnz.online
 ||geliusiena.lt
+||geltopitaly.it
 ||gem-intl.net
 ||gemaelde-boerse.de
 ||geminisconsultores.com
