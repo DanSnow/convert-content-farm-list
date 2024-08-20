@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240819
+! Version: 20240820
 ! Expires: 3 days
 
 ! Content farm
@@ -1674,6 +1674,7 @@
 ||babiesjh.com
 ||babole.es
 ||babskicatering.pl
+||babumaw.ubpages.com
 ||baby-bear.pl
 ||baby01.tv
 ||babydomainnamen.de
@@ -3237,6 +3238,7 @@
 ||cooco.pixnet.net
 ||cookcntral.co
 ||cooker01.com
+||cookerlife.cc
 ||cookicway.com
 ||cookinvdeo.co
 ||cooksamunv.pixnet.net
@@ -12296,6 +12298,7 @@
 ||qqoo.pw
 ||qqs68ma02s.blog.fc2.com
 ||qqzf.cn
+||qr.paps.jp
 ||qrw90by08d.pixnet.net
 ||qs29389222.pixnet.net
 ||qs5terryxfpk.pixnet.net
@@ -15092,6 +15095,7 @@
 ||umy6580401ganzhi3.wordpress.com
 ||unairdepilates.fr
 ||unavenamama.sk
+||unbouncepages.com
 ||unctnebes.com
 ||underarmourpolska.pl
 ||underwears99.blogspot.*
@@ -15811,6 +15815,7 @@
 ||web2thou.com
 ||weblogographic.com
 ||weblogstack.com
+||webnews-24.com
 ||webptt.com
 ||webptt.com.tw
 ||webptt.net
