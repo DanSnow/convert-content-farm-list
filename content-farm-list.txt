@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240901
+! Version: 20240902
 ! Expires: 3 days
 
 ! Content farm
@@ -1777,6 +1777,7 @@
 ||barberone.fr
 ||barcelonanting.co
 ||bardepintxosdonostia.es
+||barfoodporn.pl
 ||bargelateriaarcobaleno.it
 ||barjac-optique.fr
 ||barjazz.me
@@ -6270,6 +6271,7 @@
 ||gtvyplety.cz
 ||gtymmo.fr
 ||gualaohan.com
+||guanabay.fr
 ||guangzh.com
 ||guatelg.co
 ||guengoer-tga.de
