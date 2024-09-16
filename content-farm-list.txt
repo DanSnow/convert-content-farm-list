@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240915
+! Version: 20240916
 ! Expires: 3 days
 
 ! Content farm
@@ -5515,6 +5515,7 @@
 ||forumctsko.me
 ||forumguinurope.co
 ||forward.to.it
+||fosolympiqueclub.fr
 ||fosteralf6847.pixnet.net
 ||fostermiqq.pixnet.net
 ||foto-agent.pl
