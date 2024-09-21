@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20240920
+! Version: 20240921
 ! Expires: 3 days
 
 ! Content farm
@@ -7283,6 +7283,7 @@
 ||ilife99.com
 ||ilmattoncino.eu
 ||ilonkadegraaf.nl
+||ilove-top.com
 ||ilovecss.me
 ||ilpaesedeibabaci.it
 ||ilrevolver.it
@@ -14351,6 +14352,7 @@
 ||teepr.net
 ||teepr.tv
 ||teepr.tw
+||tegerje.best
 ||tehran-lux-furnished.com
 ||teicasa.it
 ||teichert-kuentzler.de
@@ -15383,6 +15385,7 @@
 ||vegas-knights.com
 ||vege-story.pl
 ||vegea-outlet.com
+||vegerje.best
 ||vegmeifyoucan.de
 ||vegrecipebooks.com
 ||vehicletagtw.com
