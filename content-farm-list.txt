@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20241007
+! Version: 20241008
 ! Expires: 3 days
 
 ! Content farm
@@ -1026,6 +1026,7 @@
 ||allisovgowa72.pixnet.net
 ||allow-ensembles.eu
 ||allparam.es
+||allpetshare.com
 ||allroundversicherer.de
 ||alltagsservice-erdmann.de
 ||alluminiofratelliserramenti.it
@@ -9034,6 +9035,7 @@
 ||lieqi5.net
 ||lieqinews.com
 ||liesbosweg160.nl
+||life-knowhow.com
 ||life-lovehealthy.com
 ||life.com.tw
 ||life.cx
@@ -10812,6 +10814,7 @@
 ||nv87.com
 ||nv93715793.blog.fc2.com
 ||nvad037.cc
+||nvbad.com
 ||nvchua.com
 ||nvfxl71759.pixnet.net
 ||nvh1155qif.blog.fc2.com
@@ -12027,6 +12030,7 @@
 ||ptt-news.cc
 ||ptt-politics.com
 ||ptt-web.com
+||ptt.best
 ||ptt.ninja
 ||ptt.reviews
 ||ptt.social
@@ -16169,6 +16173,7 @@
 ||wz.36840.com
 ||wzum534.pixnet.net
 ||x-cell.pl
+||x-income.com
 ||x0327.com
 ||x0rqhzru6g.pixnet.net
 ||x0t7n4p4wpr.pixnet.net
