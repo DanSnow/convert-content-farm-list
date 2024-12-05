@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20241204
+! Version: 20241205
 ! Expires: 3 days
 
 ! Content farm
@@ -1719,6 +1719,7 @@
 ||baja-shop.com
 ||bajiao003.com
 ||bajiaoyingshi.com
+||bajie8.com
 ||bakalorz-sportshop.de
 ||baktomoon.co
 ||bakustw.es
@@ -1968,6 +1969,7 @@
 ||bestekontaktlinsen.de
 ||bestfit-dan.de
 ||bestinfo365.com
+||bestlovetop.com
 ||bestone-work.com
 ||bestpets97.com
 ||bestsou.cc
@@ -2826,6 +2828,7 @@
 ||changyongchangshi.com
 ||channel.jp.net
 ||chantolivette.fr
+||chaoliuzhu.com
 ||chaonvgu.com
 ||chaos-leben.de
 ||chaosou.cc
@@ -4095,6 +4098,7 @@
 ||dnp82gi25k.blog.fc2.com
 ||dnt-ontharder.nl
 ||dnxvjvtfbp.pixnet.net
+||dnzp.com
 ||doaner.me
 ||doans.wiki
 ||doasthelocalsdo.eu
@@ -9086,6 +9090,7 @@
 ||limpehisforeign.com
 ||limpiezasarjona.es
 ||limpiezasmarframa.es
+||limte.net
 ||linbenbb.co
 ||lindabatesht8.pixnet.net
 ||lindaclij5g.pixnet.net
