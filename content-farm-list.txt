@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20241219
+! Version: 20241220
 ! Expires: 3 days
 
 ! Content farm
@@ -6150,6 +6150,7 @@
 ||goodtime-life.com
 ||goodtimes.my
 ||goodturns.com.tw
+||goodtxt.top
 ||goodwimitchbq.pixnet.net
 ||goody25.com
 ||google-info.in
@@ -6543,6 +6544,7 @@
 ||happypress.cc
 ||happyprint.com.tw
 ||happypropies.com
+||happyshare818.com
 ||happysharing360.com
 ||happysharingteam.com
 ||happysnews.com
