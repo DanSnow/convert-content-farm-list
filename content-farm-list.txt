@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250112
+! Version: 20250113
 ! Expires: 3 days
 
 ! Content farm
@@ -3390,6 +3390,7 @@
 ||csdub203sw.pixnet.net
 ||cserl.com
 ||csf21.pl
+||csgojidi.com
 ||cshvie.co
 ||csiofrnce.co
 ||csj-depu.com
