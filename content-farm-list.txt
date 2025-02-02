@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250201
+! Version: 20250202
 ! Expires: 3 days
 
 ! Content farm
@@ -7568,6 +7568,7 @@
 ||itestquiz.com
 ||ithink.pub
 ||itici.net
+||itigeryou.com
 ||itigic.com
 ||itisak.com
 ||itishealthtime.com
@@ -12040,9 +12041,18 @@
 ||ptt-chat.com
 ||ptt-cookclub.tw
 ||ptt-diary.tw
+||ptt-discussion.tw
+||ptt-game.tw
+||ptt-info.tw
+||ptt-joke.tw
 ||ptt-life.com
+||ptt-macshop.tw
+||ptt-moments.tw
+||ptt-music.tw
 ||ptt-news.cc
+||ptt-opinion.tw
 ||ptt-politics.com
+||ptt-talk.tw
 ||ptt-web.com
 ||ptt.best
 ||ptt.ninja
@@ -12090,6 +12100,7 @@
 ||pttlocal.com
 ||pttman.com
 ||pttnews.cc
+||pttnow.tw
 ||pttqa.com
 ||pttread.com
 ||pttreader.com
@@ -15196,6 +15207,7 @@
 ||usgickw2eg.pixnet.net
 ||usinsengmi.co
 ||usistration.co
+||uskjid.com
 ||uslugitomaszewscy.pl
 ||ussh.cc
 ||ussucsetlignon.fr
