@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250302
+! Version: 20250303
 ! Expires: 3 days
 
 ! Content farm
@@ -2132,6 +2132,7 @@
 ||bjstgc.com
 ||bjtdf55957.pixnet.net
 ||bjtriz.com
+||bk.taobao.com
 ||bka37117.blog.fc2.com
 ||bkfenxiang.com
 ||bkffilerecvry.co
@@ -6746,6 +6747,7 @@
 ||hf13579735.blog.fc2.com
 ||hf14940774.pixnet.net
 ||hfdewgov.site
+||hfhao.com
 ||hfrhdalfrh8r.pixnet.net
 ||hgsz008.xyz
 ||hhbkg.com
