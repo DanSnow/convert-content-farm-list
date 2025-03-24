@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250323
+! Version: 20250324
 ! Expires: 3 days
 
 ! Content farm
@@ -68,6 +68,7 @@
 ||1579578.com
 ||159.138.37.243
 ||15jb.net
+||15lifetalking.com
 ||1637.com
 ||163nvren.com
 ||165.227.24.198
@@ -2808,6 +2809,7 @@
 ||cftc-monoprix.fr
 ||cftcgroupeorange.fr
 ||cfulo517fx.pixnet.net
+||cfw123.com
 ||cg-to.it
 ||cgf35eb83x.pixnet.net
 ||cgsstudio.pl
@@ -3015,6 +3017,27 @@
 ||cl19s7.pixnet.net
 ||clarasdad.de
 ||clarisonic.com.tw
+||clash-verge-rev.com
+||clash2025.com
+||clashcfg.com
+||clashconn.com
+||clashdocs.com
+||clashfr.com
+||clashhk.com
+||claship.com
+||clashmode.com
+||clashplus.com
+||clashray.com
+||clashssr.com
+||clashtk.com
+||clashv2.com
+||clashv2ray.com
+||clashv2rayng.com
+||clashwin64.com
+||clashx2.com
+||clashxray.com
+||clashxsub.com
+||clashxv2ray.com
 ||classickhabarnepal.com
 ||classicofloves.com
 ||claudiolippi.com
@@ -3059,6 +3082,7 @@
 ||clubsoundradio.de
 ||clydebankpestcontrol.uk
 ||clydebrittkq.pixnet.net
+||cm-santiago-do-cacem.pt
 ||cm72517269.blog.fc2.com
 ||cmoney.tw
 ||cmpcbuilds.com
@@ -5379,6 +5403,7 @@
 ||firmafucha.pl
 ||firmakaja.com.pl
 ||firmawydawnicza.pl
+||first-hub.com
 ||first-suzuki.ru
 ||firstlegalservices.es
 ||firstlighty.com
@@ -8394,6 +8419,7 @@
 ||kimberincf.pixnet.net
 ||kimi5052723.pixnet.net
 ||kimiewht.co
+||kimishare.org
 ||kimjean1202.pixnet.net
 ||kina-kunst.de
 ||kinderinfrasdorf.de
@@ -10296,7 +10322,6 @@
 ||mystical.press
 ||mystificus.pl
 ||mystische-wesen.de
-||mystrikingly.com
 ||mysurepass.biz
 ||mytieins.me
 ||mytiko.co
@@ -13972,6 +13997,7 @@
 ||successioneserena.it
 ||successpath.nl
 ||successquote.org
+||succulenter.net
 ||suche-geschaeftsidee.de
 ||sudostcks.co
 ||sufflkmri.co
@@ -15275,11 +15301,15 @@
 ||v1vrp1vjzj.blog.fc2.com
 ||v1zpn1xzlj.blog.fc2.com
 ||v1zwl43tg1.pixnet.net
+||v2android.com
 ||v2c10l4.pixnet.net
+||v2cfw.com
 ||v2e7a29tl7.blog.fc2.com
 ||v2fma91uh8.pixnet.net
 ||v2o2e5i9fnx.pixnet.net
 ||v2p5v2f4my4.blog.fc2.com
+||v2ray64.com
+||v2raywin.com
 ||v2s5y3epyf.pixnet.net
 ||v2zpx67xgg.pixnet.net
 ||v36bbi1.pixnet.net
