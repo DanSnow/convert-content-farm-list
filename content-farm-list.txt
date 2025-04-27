@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250426
+! Version: 20250427
 ! Expires: 3 days
 
 ! Content farm
@@ -6897,6 +6897,7 @@
 ||hnup.cc
 ||hnv97pz11b.blog.fc2.com
 ||hnxv77dv.wordpress.com
+||hnyd.org.cn
 ||ho58507527.pixnet.net
 ||ho96007414.pixnet.net
 ||hobbylavoricreativi.it
@@ -8250,6 +8251,7 @@
 ||kadrybeztajemnic.pl
 ||kafetxo.es
 ||kafx.cc
+||kagit.kr
 ||kaicen.cn
 ||kailixs.live
 ||kaimalo.com
@@ -10531,6 +10533,7 @@
 ||neckarbiker.de
 ||necmisini.online
 ||necrocreatecre.com
+||needfound.org
 ||needmorefood.com
 ||neeoproject.eu
 ||negrall.com
@@ -15526,6 +15529,7 @@
 ||videoriseman.online
 ||videotintwee.com
 ||videov.online
+||vidlah.com
 ||vidvuder.co
 ||viedurable.fr
 ||viennhotelta.co
