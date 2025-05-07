@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250506
+! Version: 20250507
 ! Expires: 3 days
 
 ! Content farm
@@ -5722,6 +5722,7 @@
 ||funptt.com
 ||funqiqu.com
 ||funs721.com
+||funshare.cc
 ||funshare.pro
 ||funsp.space
 ||funssy.co
@@ -8146,6 +8147,7 @@
 ||justakeit2.de
 ||justdoeat.ch
 ||justfeed.life
+||justfeed.net
 ||justfenxiang.net
 ||justhotnews.site
 ||justindaniefr.pixnet.net
