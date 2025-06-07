@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250606
+! Version: 20250607
 ! Expires: 3 days
 
 ! Content farm
@@ -11631,6 +11631,7 @@
 ||pets-feedder.com
 ||pets-homee.com
 ||pets-master.com
+||pets-naivety.com
 ||pets-surprise.com
 ||pets699.com
 ||petsccs.com
@@ -15865,6 +15866,7 @@
 ||watertorenloop.nl
 ||watkinshqj.pixnet.net
 ||watsonvincema.pixnet.net
+||wawa3c.com
 ||wawai.es
 ||waxblip.com
 ||waxgourdw350.blog.fc2.com
@@ -15891,6 +15893,7 @@
 ||weaverniwlev.pixnet.net
 ||weaverstebren.pixnet.net
 ||web-jinn.com
+||web-ptt.tw
 ||web2e.net
 ||web2thou.com
 ||weblogographic.com
