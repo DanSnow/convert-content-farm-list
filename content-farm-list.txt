@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250707
+! Version: 20250708
 ! Expires: 3 days
 
 ! Content farm
@@ -11223,6 +11223,7 @@
 ||orshea.pl
 ||orszakdionizosa.pl
 ||ortz519.pixnet.net
+||oryoy.com
 ||orzhd.com
 ||orzptt.tk
 ||osago-ivert.ru
@@ -12153,6 +12154,7 @@
 ||pttweb.blogspot.*
 ||pttweb.cc
 ||pttweb.com
+||pttweb.org.tw
 ||pttweb.tw
 ||pttworld.com
 ||pttyes.com
