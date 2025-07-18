@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250717
+! Version: 20250718
 ! Expires: 3 days
 
 ! Content farm
@@ -8282,6 +8282,7 @@
 ||kangkang.life
 ||kanglaikangqu.site
 ||kangquanfood.com
+||kanlah.org
 ||kannewscast.com
 ||kanreport.com
 ||kantonalcup.ch
