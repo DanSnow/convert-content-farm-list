@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20250828
+! Version: 20250829
 ! Expires: 3 days
 
 ! Content farm
@@ -2831,6 +2831,7 @@
 ||changyenew.com
 ||changyongchangshi.com
 ||channel.jp.net
+||channel2025.com
 ||chantolivette.fr
 ||chaoliuzhu.com
 ||chaonvgu.com
@@ -3215,6 +3216,7 @@
 ||communityhurts.de
 ||como.it
 ||compagniedeshotels.it
+||companion-healthy.com
 ||comparestillplural.top
 ||competence-kaleidoscope.eu
 ||comphard.eu
@@ -4714,6 +4716,7 @@
 ||energiacivica.it
 ||energiatworcza.pl
 ||energiestudie.ch
+||energy-healthy.com
 ||energy-story.net
 ||enerviemegantic.com
 ||enews.tw
@@ -5708,6 +5711,7 @@
 ||funmg.co
 ||funnews.news
 ||funnews.today
+||funnews61.com
 ||funnies.cc
 ||funnies.online
 ||funnies.xyz
@@ -8509,6 +8513,7 @@
 ||knnbeauty.com
 ||knnkg.com
 ||knowhere.pl
+||knowledgekhabar.com
 ||knowledgeunion.com
 ||knowmore.cc
 ||knowyourinside.com
@@ -9312,6 +9317,7 @@
 ||lovestylehouse.com
 ||lovetoknow.com
 ||lovetweast.com
+||loveu-baby.com
 ||loveyourimage.es
 ||lowacademy.nl
 ||lowendbir.me
@@ -10855,6 +10861,7 @@
 ||nuriacarnsiaus.es
 ||nuti063.pixnet.net
 ||nutres.es
+||nutritious-breakfast.com
 ||nuvute.cz
 ||nuy33ql20i.pixnet.net
 ||nv15531131.pixnet.net
@@ -13715,6 +13722,7 @@
 ||soltysdrukuje.pl
 ||solucionsreals.es
 ||solutions-entreprise.fr
+||solveapro.com
 ||solveforum.com
 ||songcootow.link
 ||soniawellpedr.pixnet.net
@@ -14007,6 +14015,7 @@
 ||successioneserena.it
 ||successpath.nl
 ||successquote.org
+||successs-experience.com
 ||succulenter.net
 ||suche-geschaeftsidee.de
 ||sudostcks.co
@@ -14090,6 +14099,7 @@
 ||svibitobrzo.eu
 ||svlt-gr.ch
 ||svp-trucks.fr
+||svsvves.com
 ||sw39494173.pixnet.net
 ||swagly.net
 ||swansoleroxd.pixnet.net
@@ -15939,6 +15949,7 @@
 ||wellnam.com
 ||wellnessmassagenhofplauen.de
 ||wellwaypro.com
+||welove-gourmet.com
 ||welt-der-drohnen-und-hubschrauber.de
 ||weltkinderhilfe-aidforchildren.de
 ||welurowylew.pl
@@ -16146,6 +16157,7 @@
 ||work-legal.nl
 ||workandout.de
 ||workfirstnederland.nl
+||workplacetop.com
 ||workwarehk.com
 ||worldaas.com
 ||worldmapdata.com
