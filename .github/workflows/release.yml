@@ -1,4 +1,4 @@
-name : Release
+name: Release
 
 on: [push]
 
@@ -9,21 +9,16 @@ jobs:
     name: Release
     steps:
       - uses: actions/checkout@v5
-      - uses: actions-rs/toolchain@v1
-        with:
-          toolchain: stable
+      - uses: dtolnay/rust-toolchain@stable
       - name: Cache cargo
         uses: actions/cache@v4
         with:
           path: |
-              ~/.cargo/registry
-              ~/.cargo/git
+            ~/.cargo/registry
+            ~/.cargo/git
           key: ${{ runner.os }}-${{ github.sha }}
           restore-keys: ${{ runner.os }}-
-      - uses: actions-rs/cargo@v1
-        with:
-          command: build
-          args: --release
+      - run: cargo build --release
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
