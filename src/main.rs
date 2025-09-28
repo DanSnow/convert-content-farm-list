@@ -15,7 +15,10 @@ fn main() -> Result<()> {
     let runtime_update_url = env::args().nth(1).or_else(|| env::var("UPDATE_URL").ok());
     let update_url = runtime_update_url.as_deref().unwrap_or(default_update_url);
 
-    let content = ureq::get(CONTENT_FARM).call()?.into_string()?;
+    let content = ureq::get(CONTENT_FARM)
+        .call()?
+        .into_body()
+        .read_to_string()?;
     println!("! Title: zh Content Farms List");
     if !update_url.is_empty() {
         println!("! Redirect: {update_url}",);
