@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20251021
+! Version: 20251022
 ! Expires: 3 days
 
 ! Content farm
@@ -3076,6 +3076,7 @@
 ||cloudtree.me
 ||clp27ub76f.blog.fc2.com
 ||clrh0i8.pixnet.net
+||clrn.org
 ||club-oeta.com
 ||club365.it
 ||clubduesst.co
@@ -4718,6 +4719,7 @@
 ||energiestudie.ch
 ||energy-healthy.com
 ||energy-story.net
+||energyedu.tw
 ||enerviemegantic.com
 ||enews.tw
 ||enewspace.com
@@ -6201,6 +6203,7 @@
 ||gordo.lv
 ||gordonnews.com
 ||gospel2rmnia.co
+||gotoformosa.com
 ||gotokeyword.com
 ||gouma.org
 ||gouretvc.me
