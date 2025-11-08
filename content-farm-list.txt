@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20251107
+! Version: 20251108
 ! Expires: 3 days
 
 ! Content farm
@@ -6179,6 +6179,7 @@
 ||goodgoodread.com
 ||goodhoa.me
 ||goodkebab.pl
+||goodlah.org
 ||goodlifeyou.bumbnews.com
 ||goodmastegve0.pixnet.net
 ||goodmeihao.com
