@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20251227
+! Version: 20251228
 ! Expires: 3 days
 
 ! Content farm
@@ -3951,6 +3951,7 @@
 ||deterroryfantasia.com
 ||detmom.ru
 ||deutsche-osteopathen.de
+||dev59.com
 ||developpaper.com
 ||developreference.com
 ||device-variety.xyz
@@ -14600,6 +14601,7 @@
 ||thgroup.com.tw
 ||thh5.com
 ||thinbug.com
+||thinklol.org
 ||thiosixregister.nl
 ||thirddrawerdown.com
 ||thisisuppose.com
@@ -14844,6 +14846,7 @@
 ||travelcreatestories.de
 ||travelformosa.com
 ||travelinbox.pl
+||travelinneed.com
 ||travelkathmandu.es
 ||travelmate2300.ru
 ||traveltagtw.com
