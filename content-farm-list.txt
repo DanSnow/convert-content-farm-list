@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20260211
+! Version: 20260212
 ! Expires: 3 days
 
 ! Content farm
@@ -2999,6 +2999,7 @@
 ||citricoart.es
 ||cittamediterranee.it
 ||cityofdogs.pl
+||citytimes.tw
 ||cityvets.pl
 ||civicdiversity.org
 ||civismoydemocracia.es
@@ -12102,6 +12103,7 @@
 ||ptt-news.cc
 ||ptt-opinion.tw
 ||ptt-politics.com
+||ptt-reviews.cc
 ||ptt-talk.tw
 ||ptt-web.com
 ||ptt.best
