@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 20260621
+! Version: 20260622
 ! Expires: 3 days
 
 ! Content farm
@@ -8328,6 +8328,7 @@
 ||karwat-psychoterapia.pl
 ||kasamedyka.pl
 ||kashmirvalleytravel.com
+||kaspersky.hl.cn
 ||kassandraroberts.com
 ||kat07ek84s.blog.fc2.com
 ||katarzynaadamczyk.pl
@@ -14814,6 +14815,7 @@
 ||tpiebna.com.tw
 ||tpj95nb35t.blog.fc2.com
 ||tpmcnp.com
+||tpn2n.com
 ||tpnn.cc
 ||tpve.fr
 ||tq3n8.pixnet.net
