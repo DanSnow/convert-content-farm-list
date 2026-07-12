@@ -20,7 +20,7 @@ jobs:
           restore-keys: ${{ runner.os }}-
       - run: cargo build --release
       - name: Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: |
             target/release/convert-content-farm-list
