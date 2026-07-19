@@ -1,14 +1,29 @@
+fn is_regex(line: &str) -> bool {
+    line.starts_with('/')
+}
+
+fn is_comment(line: &str) -> bool {
+    line.starts_with('#') || line.starts_with(' ')
+}
+
+fn parse_site(line: &str) -> Option<&str> {
+    if is_regex(line) || is_comment(line) {
+        None
+    } else {
+        let site = line.split(' ').next().unwrap().trim_end_matches('/').trim();
+        if site.is_empty() {
+            None
+        } else {
+            Some(site)
+        }
+    }
+}
+
 pub fn transform_sites(content: &str) -> Vec<&str> {
     let mut list = content
         .lines()
-        .skip_while(|line| line.starts_with('/'))
-        .filter_map(|line| {
-            if line.starts_with('/') || line.starts_with('#') || line.starts_with(' ') {
-                None
-            } else {
-                Some(line.split(' ').next().unwrap().trim_end_matches('/'))
-            }
-        })
+        .skip_while(|line| is_regex(line))
+        .filter_map(|line| parse_site(line))
         .collect::<Vec<_>>();
     list.sort_unstable();
     list

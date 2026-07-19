@@ -1,14 +1,14 @@
 mod transform_sites;
 
-use anyhow::Result;
 use indoc::indoc;
-use std::{env, time::SystemTime};
-use tap::prelude::*;
-use time::{macros::format_description as fd, OffsetDateTime};
+use jiff::Zoned;
+use std::env;
 use transform_sites::transform_sites;
 
 static CONTENT_FARM: &str =
     "https://danny0838.github.io/content-farm-terminator/files/blocklist/content-farms.txt";
+
+type Result<T> = std::result::Result<T, rootcause::Report>;
 
 fn main() -> Result<()> {
     let default_update_url = option_env!("UPDATE_URL").unwrap_or("");
@@ -23,7 +23,7 @@ fn main() -> Result<()> {
     if !update_url.is_empty() {
         println!("! Redirect: {update_url}",);
     }
-    println!("! Version: {}", today()?);
+    println!("! Version: {}", today());
     let header = indoc!(
         r#"
         ! Expires: 3 days
@@ -37,7 +37,7 @@ fn main() -> Result<()> {
     Ok(())
 }
 
-fn today() -> Result<String> {
-    let now = SystemTime::now().conv::<OffsetDateTime>();
-    Ok(now.format(fd!("[year][month][day]"))?)
+fn today() -> String {
+    let now = Zoned::now();
+    now.date().to_string()
 }
