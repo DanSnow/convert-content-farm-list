@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 2026-07-22
+! Version: 2026-07-23
 ! Expires: 3 days
 
 ! Content farm
