@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 2026-07-27
+! Version: 2026-07-28
 ! Expires: 3 days
 
 ! Content farm
@@ -3304,6 +3304,7 @@
 ||copyfuture.com
 ||coreforger.top
 ||corepsh.top
+||coreui.cn
 ||coriginelis.nl
 ||corinnerieber.fr
 ||cornwallboilers.uk
@@ -9333,6 +9334,7 @@
 ||lpko5wdaniest.pixnet.net
 ||lpls.net
 ||lpn97ll93d.blog.fc2.com
+||lpnh.cn
 ||lpterredesophro.fr
 ||lq19c1.pixnet.net
 ||lqdbyp7390.pixnet.net
@@ -9340,6 +9342,7 @@
 ||lrg-tp.fr
 ||lsbkw.com
 ||lsl6qmonicaex.pixnet.net
+||lsln.cn
 ||lsqueen.fr
 ||lsqww.com
 ||lt-global.eu
@@ -10203,6 +10206,7 @@
 ||mpu-freising.de
 ||mq1i600.pixnet.net
 ||mqdcnt364.pixnet.net
+||mqxn.cn
 ||mr-borna-mde.de
 ||mr05226936.blog.fc2.com
 ||mrb91gy85y.blog.fc2.com
@@ -10748,6 +10752,7 @@
 ||nocancers.net
 ||nochefcookin.nl
 ||noclegi-jeziora-lasy.pl
+||node.org.cn
 ||nodsea.co
 ||noetikos.ru
 ||nofail8.com
