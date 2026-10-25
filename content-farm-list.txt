@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 2026-10-24
+! Version: 2026-10-25
 ! Expires: 3 days
 
 ! Content farm
@@ -4184,6 +4184,7 @@
 ||dongfeng.me
 ||dongman.asia
 ||dongqiuxiang.net
+||dongwangask.com
 ||donkis.online
 ||donotemulate.com
 ||donutspaws.pl
@@ -14944,6 +14945,7 @@
 ||ttgc.cc
 ||ttl7jv71.blog.fc2.com
 ||ttlife.com.tw
+||ttnews.tw
 ||ttodaynew.com
 ||ttp12px36h.blog.fc2.com
 ||ttp55fx73f.pixnet.net
