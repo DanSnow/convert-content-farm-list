@@ -1,6 +1,6 @@
 ! Title: zh Content Farms List
 ! Redirect: https://raw.githubusercontent.com/DanSnow/convert-content-farm-list/gh-pages/content-farm-list.txt
-! Version: 2026-11-03
+! Version: 2026-11-04
 ! Expires: 3 days
 
 ! Content farm
@@ -12235,6 +12235,7 @@
 ||pyn5.com
 ||pyramid.st
 ||python.iitter.com
+||python66.com
 ||python88.com
 ||pythonheidong.com
 ||pythonwd.com
