@@ -1,7 +1,7 @@
 mod transform_sites;
 
 use indoc::indoc;
-use jiff::Zoned;
+use jiff::ZonedDateTime;
 use std::env;
 use transform_sites::transform_sites;
 
@@ -38,6 +38,6 @@ fn main() -> Result<()> {
 }
 
 fn today() -> String {
-    let now = Zoned::now();
+    let now = ZonedDateTime::now();
     now.date().to_string()
 }

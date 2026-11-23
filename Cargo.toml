@@ -6,7 +6,7 @@ edition = "2021"
 license = "MIT"
 
 [dependencies]
-indoc = "2.0.7"
-jiff = "0.2.33"
+indoc = "2.0.8"
+jiff = "1.0.2"
 rootcause = "0.13.0"
-ureq = "3.3.0"
+ureq = "3.5.2"
